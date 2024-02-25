@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+1535,http://www.SonomaMarinTrain.org,en,Sonoma Marin Area Rail Transit,(707)794-3330,America/Los_Angeles,http://www.sonomamarintrain.org/fares,

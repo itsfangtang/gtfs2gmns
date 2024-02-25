@@ -1,0 +1,6 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+36,973,1,FTC/Fairfield Walmart,,3,https://fasttransit.org/schedules-maps/route-1/,5587b3,ffffff,0,60,0,1,1,,F. T. C. Fair field Wall Mart
+36,975,3,FTC/Solano Town Center/Fairfield Walmart,,3,https://fasttransit.org/schedules-maps/route-3/,aa3942,ffffff,1,60,0,1,1,,F. T. C. Solano Town Center Fair field Wall Mart
+36,978,6,Solano Town Center/East Tabor & Sunset,,3,https://fasttransit.org/schedules-maps/route-6/%20,2b579a,ffffff,2,60,0,1,1,,Solano Town Center to East Tay bore and Sunset
+36,979,7, FTC/Solano College/Cordelia Library,,3,https://fasttransit.org/schedules-maps/route-7/,c06b3f,ffffff,3,60,0,1,1,,F. T. C. Solano College Core deal Lee uh Library
+36,76439,8T,Cordelia School Tripper,,3,,ae6fcf,,4,,0,1,1,,

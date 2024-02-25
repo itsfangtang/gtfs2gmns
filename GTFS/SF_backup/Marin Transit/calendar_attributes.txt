@@ -1,0 +1,9 @@
+service_id,service_description
+Mon-Fri,Mon-Fri
+Thursday,Thursday
+Wednesday,Wednesday
+Tuesday,Tuesday
+Friday,Friday
+Monday,Monday
+Sat,Sat
+SunHol,SunHol

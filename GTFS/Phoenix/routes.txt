@@ -1,0 +1,118 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_division,alt_route_type
+0,1,0,"Central Ave",,3,,PHNS,704
+0A,1,0A,"South Central Shuttle",,3,,PHNS,704
+1,1,1,"Washington St",,3,,PHNS,704
+3,1,3,"Van Buren St",,3,,PHW,704
+7,1,7,"7th St",,3,,PHNS,704
+7s,1,7s,"7th St",,3,,PHNS,704
+8,1,8,"7th Ave",,3,,PHNS,704
+10,1,10,"Roosevelt St",,3,,PHNS,704
+12,1,12,"12th St",,3,,PHNS,704
+13,1,13,"Buckeye Rd",,3,,PHW,704
+15,1,15,"15th Ave",,3,,PHNS,704
+16,1,16,"16th St",,3,,PHNS,704
+16s,1,16s,"16th St",,3,,PHNS,704
+17,1,17,"McDowell Rd",,3,,PHW,704
+17s,1,17s,"McDowell Rd",,3,,PHW,704
+19,1,19,"19th Ave",,3,,PHNS,704
+27,1,27,"27th Ave",,3,,PHNS,704
+28,1,28,"Lower Buckeye Rd",,3,,PHNS,704
+29,1,29,"Thomas Rd",,3,,PHW,704
+30,1,30,"University Dr",,3,,VMTM,704
+32,1,32,"32nd St/40th St",,3,,PHNS,704
+32s,1,32s,"32nd St/40th St",,3,,PHNS,704
+35,1,35,"35th Ave",,3,,PHNS,704
+39,1,39,"North 40th St",,3,,PHNS,704
+40,1,40,"Main St",,3,,VMTM,704
+41,1,41,"Indian School Rd",,3,,PHW,704
+43,1,43,"43rd Ave",,3,,PHW,704
+44,1,44,"44th St/Tatum Blvd",,3,,PHNS,704
+45,1,45,"Broadway Rd",,3,,VMTM,704
+48,1,48,"48th St",,3,,VMTM,704
+50,1,50,"Camelback Rd",,3,,PHNS,704
+51,1,51,"51st Ave",,3,,PHW,704
+52,1,52,"Roeser Rd",,3,,PHNS,704
+52s,1,52s,"Roeser Rd",,3,,PHNS,704
+56,1,56,"Priest Dr",,3,,VMTM,704
+59,1,59,"59th Ave",,3,,PHW,704
+59s,1,59s,"59th Ave",,3,,PHW,704
+60,1,60,"Bethany Home Rd",,3,,PHNS,704
+61,1,61,"Southern Ave",,3,,VMTM,704
+61s,1,61s,"Southern Ave",,3,,VMTM,704
+62,1,62,"Hardy Dr",,3,,VMTM,704
+62s,1,62s,"Hardy Dr",,3,,VMTM,704
+66,1,66,"Mill Ave/Kyrene Rd",,3,,VMTM,704
+67,1,67,"67th Ave",,3,,PHW,704
+70,1,70,"24th St/Glendale Ave",,3,,PHNS,704
+72,1,72,"Scottsdale Rd/Rural Rd",,3,,VMTM,704
+75,1,75,"75th Ave",,3,,PHW,704
+77,1,77,"Baseline Rd",,3,,VMTM,704
+80,1,80,"Northern Ave/Shea Blvd",,3,,PHNS,704
+81,1,81,"Hayden Rd/McClintock Dr",,3,,VMTM,704
+81s,1,81s,"Hayden Rd/McClintock Dr",,3,,VMTM,704
+83,1,83,"83rd Ave",,3,,PHW,704
+90,1,90,"Dunlap Ave/Cave Creek Rd",,3,,PHNS,704
+96,1,96,"Dobson Rd",,3,,VMTM,704
+104,1,104,"Alma School Rd",,3,,VMTM,704
+106,1,106,"Peoria Ave",,3,,PHNS,704
+108,1,108,"Elliot Rd/48th St",,3,,VMTM,704
+112,1,112,"Country Club Dr/Arizona Ave",,3,,VMTM,704
+120,1,120,"Mesa Dr",,3,,VMTM,704
+122,1,122,"Cactus Rd",,3,,PHNS,704
+128,1,128,"Stapley Dr",,3,,VMTM,704
+136,1,136,"Gilbert Rd",,3,,VMTM,704
+138,1,138,"Thunderbird Rd",,3,,PHNS,704
+140,1,140,"Ray Rd",,3,,VMTM,704
+154,1,154,"Greenway Rd",,3,,PHNS,704
+156,1,156,"Chandler Blvd",,3,,VMTM,704
+170,1,170,"Bell Rd",,3,,PHNS,704
+184,1,184,"Power Rd",,3,,VMTM,704
+186,1,186,"Union Hills Dr/Mayo Blvd",,3,,PHNS,704
+514,1,514,"Scottsdale Express",,3,,VMTM,702
+515,1,515,"FH-Mesa Connector",,3,,VMTM,798
+521,1,521,"Central Tempe Express",,3,,VMTM,702
+522,1,522,"South Tempe Express",,3,,VMTM,702
+531,1,531,"Mesa/Gilbert Express",,3,,VMTM,702
+533,1,533,"Mesa Express",,3,,VMTM,702
+535,1,535,"Northeast Mesa Express",,3,,VMTM,702
+542,1,542,"Chandler Express",,3,,VMTM,702
+562,1,562,"Goodyear Express",,3,,VMW-TB,702
+563,1,563,"Avondale/Buckeye Express",,3,,VMW-TB,702
+571,1,571,"Surprise Express",,3,,VMW-TB,702
+573,1,573,"West Glendale Express",,3,,VMW-TB,702
+575,1,575,"North Glendale Express",,3,,VMW-TB,702
+685,1,685,"Ajo/Gila Bend",,3,,VMRU,701
+68CM,1,68CM,"68th St/Camelback Rd",,3,,SC,798
+ALEX,1,ALEX,"ALEX Circulator",,3,,PHNS,798
+DASH,1,DASH,"Downtown DASH",,3,,PHNS,798
+DBUZ,1,DBUZ,"Downtown BUZZ",,3,,VMTM,798
+EART,1,EART,"Orbit Earth",,3,,VMTM,798
+FBUZ,1,FBUZ,"Fiesta BUZZ",,3,,VMTM,798
+FLSH,1,FLSH,"FLASH",,3,,VMTM,798
+GAL,1,GAL,"Grand Ave Limited",,3,,VMW-TB,704
+GUS1,1,GUS1,"GUS 1",,3,,GL,798
+GUS2,1,GUS2,"GUS 2",,3,,GL,798
+GUS3,1,GUS3,"GUS 3",,3,,GL,798
+I10E,1,I10E,"I-10 East RAPID",,3,,PHNS,702
+I10W,1,I10W,"I-10 West RAPID",,3,,PHNS,702
+I17,1,I17,"I-17 RAPID",,3,,PHNS,702
+JUPI,1,JUPI,"Orbit Jupiter",,3,,VMTM,798
+MARS,1,MARS,"Orbit Mars",,3,,VMTM,798
+MARY,1,MARY,"MARY Circulator",,3,,PHW,798
+MARz,1,MARz,"Orbit Mars",,3,,VMTM,798
+MERC,1,MERC,"Orbit Mercury",,3,,VMTM,798
+MLHD,1,MLHD,"Miller Rd/Hayden Rd",,3,,SC,798
+MSTG,1,MSTG,"Mustang",,3,,SC,798
+PGOB,1,PGOB,"Peoria POGO Blue Route",,3,,VMW-TB,798
+PGOG,1,PGOG,"Peoria POGO Green Route",,3,,VMW-TB,798
+PGOR,1,PGOR,"Peoria POGO Red Route",,3,,VMW-TB,798
+RAIL,1,RAIL,"Valley Metro Rail",,0,,VMLR,903
+S,1,S,"Valley Metro Streetcar",,0,,TSC,902
+SKYT,10,SKYT,"PHX Sky Train",,0,https://www.skyharbor.com/PHXSkyTrain,SKYT,905
+SME,1,SME,"South Mountain East RAPID",,3,,PHNS,702
+SMRT,1,SMRT,"SMART Circulator",,3,,PHNS,798
+SMW,1,SMW,"South Mountain West RAPID",,3,,PHNS,702
+SR51,1,SR51,"SR 51 RAPID",,3,,PHNS,702
+STRN,1,STRN,"Orbit Saturn",,3,,VMTM,798
+VENU,1,VENU,"Orbit Venus",,3,,VMTM,798
+ZOOM,1,ZOOM,"Avondale Circulator",,3,,VMW-TB,798

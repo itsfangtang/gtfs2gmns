@@ -1,0 +1,8 @@
+service_id,service_description
+c_69695_b_81101_d_31,School Trippers Beginning 8-14-23 (Weekday)
+c_69694_b_81100_d_96,Service Beginning 8-13-23 (Weekend)
+c_69694_b_81100_d_8,Service Beginning 8-13-23 (Thurday only)
+c_69694_b_81100_d_64,Service Beginning 8-13-23 (Sunday only)
+c_69694_b_81100_d_32,Service Beginning 8-13-23 (Saturday only)
+c_69694_b_81100_d_31,Service Beginning 8-13-23 (Weekday)
+c_69694_b_81100_d_23,Service Beginning 8-13-23 (MTuWF)

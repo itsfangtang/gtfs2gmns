@@ -1,0 +1,9 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,include_exceptions,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
+0,5783,0,20240115,20241130,1,1,1,1,1,0,0,0,Route A - AM,,vertical,a,0,AM,
+1,5786,0,20240115,20241130,1,1,1,1,1,0,0,0,Route A - PM,,vertical,a,1,PM,
+2,5784,0,20240115,20241130,1,1,1,1,1,0,0,0,Route B - AM,,vertical,b,0,AM,
+3,5785,0,20240115,20241130,1,1,1,1,1,0,0,0,Route B - PM,,vertical,b,1,PM,
+5,5787,0,20240115,20241130,1,1,1,1,1,0,0,0,Route C - AM,,vertical,c,0,AM,
+6,5788,0,20240115,20241130,1,1,1,1,1,0,0,0,Route C - PM,,vertical,c,1,PM,
+8,5789,0,20240115,20241130,1,1,1,1,1,0,0,0,Route D - AM,,vertical,d,0,AM,
+9,5790,0,20240115,20241130,1,1,1,1,1,0,0,0,Route D - PM,,vertical,d,1,PM,

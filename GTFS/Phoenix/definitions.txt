@@ -1,0 +1,7 @@
+Definitions added fields
+file,field,definition,possible_values
+stops.txt,equipment,Identifies if there is equipment at the stop,0= no equipment (flag stop)
+trips.txt,short_trip_no,Trip number used internally to link real-time tracking for light rail,Number
+stop_times.txt,early_allowed,Identifies timepoints where early departure is allowed,1= allowed to leave before scheduled time
+stops.txt,jurisdiction,Identifies the jurisdiction where the stop is located,"Name of city, county, or Indian community"
+routes.txt,division,Identifies which division operates the route,"Short text division identifier"

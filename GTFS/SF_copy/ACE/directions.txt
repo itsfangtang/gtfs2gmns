@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+ACETrain,1,North
+ACETrain,0,South

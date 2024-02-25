@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+297202,4.60,USD,0,0,0
+297203,9.30,USD,1,0,0
+297204,7.00,USD,0,0,0
+297205,1.00,USD,0,0,0

@@ -1,0 +1,12 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+1480,B,B,Westwood | South Napa,,3,https://vinetransit.com/routes/route-b/,231f20,FFFFFF,13,,0,1,1,,
+1480,C,C,Jefferson | Central Napa,,3,https://vinetransit.com/routes/route-c/,d05ba2,FFFFFF,14,,0,1,1,,
+1480,D,D,Shelter | Shurtleff,,3,https://vinetransit.com/routes/route-d/,fbd603,00000F,15,,0,1,1,,
+1480,XE,E,Vintage,,3,https://vinetransit.com/routes/route-e/,e63127,FFFFFF,16,,0,1,1,,
+1480,F,F,Southwest Napa,,3,https://vinetransit.com/routes/route-f/,e67425,FFFFFF,17,,0,1,1,,
+1480,G,G,Coombs | South Napa,,3,https://vinetransit.com/routes/route-g/,00a49a,FFFFFF,18,,0,1,1,,
+1480,10,10,Up Valley Connector,,3,https://vinetransit.com/routes/route-10/,3195c9,FFFFFF,4,,0,1,1,,
+1480,11,11,Napa-Vallejo Connector,,3,https://vinetransit.com/routes/route-11-2/,8d64aa,FFFFFF,5,,0,1,1,,
+1480,11X,11X,Napa-Vallejo Express,,3,https://vinetransit.com/routes/route-11x/,eb563b,ffffff,6,,0,1,1,,
+1480,21,21,Napa-Solano Express,,3,https://vinetransit.com/routes/route-21/,74c067,FFFFFF,7,,0,1,1,,
+1480,29,29,Napa-BART Express,,3,https://vinetransit.com/routes/route-29/,de386e,FFFFFF,8,,0,1,1,,

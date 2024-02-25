@@ -1,0 +1,6 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+869,11095,2,Route 2,,3,https://citycoach.com/find-your-route/route-2/,c45911,ffffff,1,,0,1,1,,
+869,11096,3,Route 3,,3,https://citycoach.com/find-your-route/route-3/,ff00ff,ffffff,2,,0,1,1,,
+869,11097,4,Route 4,,3,https://citycoach.com/find-your-route/route-4/,00b050,ffffff,3,,0,1,1,,
+869,11099,5,Route 5,,3,https://citycoach.com/find-your-route/route-5/,0070c0,ffffff,4,60,0,1,1,,
+869,11100,6,Route 6,,3,https://citycoach.com/find-your-route/route-6/,663300,ffffff,5,60,0,1,1,,

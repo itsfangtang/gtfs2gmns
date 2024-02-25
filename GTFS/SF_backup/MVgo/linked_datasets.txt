@@ -1,0 +1,4 @@
+url,trip_updates,vehicle_positions,service_alerts,authentication_type,authentication_info_url,api_key_parameter_name
+https://mtma.tripshot.com/v1/gtfs/realtime/feed/mvgo?types=TripUpdate,true,false,false,none,,
+https://mtma.tripshot.com/v1/gtfs/realtime/feed/mvgo?types=VehiclePosition,false,true,false,none,,
+https://mtma.tripshot.com/v1/gtfs/realtime/feed/mvgo?types=Alert,false,false,true,none,,

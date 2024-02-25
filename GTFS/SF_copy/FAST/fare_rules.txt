@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+164,973,,,
+164,975,,,
+164,978,,,
+164,979,,,

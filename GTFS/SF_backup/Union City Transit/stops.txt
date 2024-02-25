@@ -1,0 +1,211 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2618272,79225,,Dyer St & San Carlos Avenue,Far Side,37.595781,-122.070689,,,0,,America/Los_Angeles,,,1
+2618273,79224,,Union Landing Transit Ctr,Terminal,37.598839,-122.065906,,,0,,America/Los_Angeles,,,1
+2618274,79223,,Union Landing Transit Center (Mid-Trip),Terminal,37.598921,-122.06586,,,0,,America/Los_Angeles,,,1
+2618283,79213,,Union City Bl & Rocklin Dr,Far Side,37.567764,-122.072309,,,0,,America/Los_Angeles,,,1
+2618284,79212,,Union City Bl & Bay Colony Dr,Far Side,37.571584,-122.077802,,,0,,America/Los_Angeles,,,1
+2618298,79197,,Union City Bl & Horner St,Nearside,37.595333,-122.080761,,,0,,America/Los_Angeles,,,1
+2618299,79196,,Alvarado Bl & Union City Bl,Nearside,37.591758,-122.0804,,,0,,America/Los_Angeles,,,1
+2618300,79195,,Fredi St & Alvarado Bl,Nearside,37.592052,-122.077777,,,0,,America/Los_Angeles,,,1
+2618301,79194,,Horner St & Fredi St,Nearside,37.593955,-122.077348,,,0,,America/Los_Angeles,,,1
+2618302,79193,,Horner St & Union City Bl,Far Side,37.595426,-122.080062,,,0,,America/Los_Angeles,,,1
+2618305,79190,,Meteor Dr & Galaxy Dr,Nearside,37.584789,-122.06894,,,0,,America/Los_Angeles,,,1
+2618306,79189,,Meteor Dr & Chippendale Dr,Far Side,37.583625,-122.066662,,,0,,America/Los_Angeles,,,1
+2618307,79188,,Delores Dr & Polaris Ave,Nearside,37.581935,-122.065716,,,0,,America/Los_Angeles,,,1
+2618308,79187,,Delores Dr & Regents Bl,Nearside,37.579629,-122.068107,,,0,,America/Los_Angeles,,,1
+2618310,79185,,Delores Dr & Jean Dr,Far Side,37.575517,-122.072475,,,0,,America/Los_Angeles,,,1
+2618311,79184,,Delores Dr & Shiela Wy,Far Side,37.574741,-122.072392,,,0,,America/Los_Angeles,,,1
+2618312,79183,,Delores Dr & Gina Wy,Nearside,37.57311,-122.073822,,,0,,America/Los_Angeles,,,1
+2618313,79182,,Delores Dr & Shirley Ct,Far Side,37.571291,-122.07628,,,0,,America/Los_Angeles,,,1
+2618314,79181,,Union City Bl & Rose Dr,Far Side,37.574639,-122.079489,,,0,,America/Los_Angeles,,,1
+2618315,79180,,Union City Bl & Dyer St,Far Side,37.577125,-122.080725,,,0,,America/Los_Angeles,,,1
+2618316,79179,,Dyer St & Jean Dr,Far Side,37.579697,-122.078388,,,0,,America/Los_Angeles,,,1
+2618317,79178,,Dyer St & Deborah Dr,Far Side,37.582102,-122.076359,,,0,,America/Los_Angeles,,,1
+2618318,79177,,Dyer St & Regents Bl,Nearside,37.584848,-122.074015,,,0,,America/Los_Angeles,,,1
+2618391,79093,,Union City Bl & Tara Ct,Nearside,37.599999,-122.081683,,,0,,America/Los_Angeles,,,1
+2618392,79092,,Union City Bl & Smith St,Far Side,37.596956,-122.080874,,,0,,America/Los_Angeles,,,1
+2618393,79091,,Smith St & Granger Ave,Far Side,37.596515,-122.075883,,,0,,America/Los_Angeles,,,1
+2618406,79078,,Smith St & Dyer St,Nearside,37.596749,-122.071406,,,0,,America/Los_Angeles,,,1
+2618407,79077,,Smith St & Fredi St,Far Side,37.596424,-122.076533,,,0,,America/Los_Angeles,,,1
+2618408,79076,,Smith St & Union City Bl,Far Side,37.596425,-122.080497,,,0,,America/Los_Angeles,,,1
+2618409,79075,,Union City Bl & Bettencourt Rd,Nearside,37.598911,-122.081791,,,0,,America/Los_Angeles,,,1
+2618410,79074,,Union City Bl & Whipple Rd,Far Side,37.605159,-122.08249,,,0,,America/Los_Angeles,,,1
+2618411,79073,,Union City Bl & Kohoutek St,Far Side,37.607096,-122.082768,,,0,,America/Los_Angeles,,,1
+2618412,79072,,Kohoutek St & Mid-Block,Mid-Block,37.607894,-122.080481,,,0,,America/Los_Angeles,,,1
+2618413,79071,,Kohoutek St & Whipple Rd,Far Side,37.606527,-122.08027,,,0,,America/Los_Angeles,,,1
+2618460,79186,,Delores Dr & Deborah Dr,Nearside,37.577205,-122.070272,,,0,,America/Los_Angeles,,,1
+3517880,,,Union City BART,,37.5909289951194,-122.018239709974,,,1,,America/Los_Angeles,,,0
+3519600,79008,,Alvarado-Niles Rd & Central Ave,Nearside,37.592183,-122.039065,,,0,,America/Los_Angeles,,,1
+3521367,79002,,Union Square Mid-Block,Mid-Block,37.587308,-122.017098,,,0,,America/Los_Angeles,,,1
+3521368,79003,,Alvarado-Niles Rd & Decoto Rd,Nearside,37.587027,-122.020447,,,0,,America/Los_Angeles,,,1
+3521369,79004,,Alvarado-Niles Rd & Meyers Dr,Far Side,37.588157,-122.024455,,,0,,America/Los_Angeles,,,1
+3521370,79005,,Alvarado-Niles Rd & H St,Far Side,37.58925,-122.028369,,,0,,America/Los_Angeles,,,1
+3521371,79006,,Alvarado-Niles Rd & Hartnell St,Far Side,37.589822,-122.030463,,,0,,America/Los_Angeles,,,1
+3521372,79007,,Alvarado-Niles Rd & Western Ave,Far Side,37.591236,-122.035616,,,0,,America/Los_Angeles,,,1
+3521373,79215,,Alvarado-Niles Rd Mid-Block (Post Office),Mid-Block,37.592769,-122.041208,,,0,,America/Los_Angeles,,,1
+3521374,79009,,Alvarado-Niles Rd & Dowe St,Far Side,37.593579,-122.044221,,,0,,America/Los_Angeles,,,1
+3521375,79011,,Alvarado-Niles Rd & Medallion Ave,Far Side,37.595721,-122.051912,,,0,,America/Los_Angeles,,,1
+3521376,79012,,Alvarado-Niles Rd & Almaden Bl,Nearside,37.596525,-122.054739,,,0,,America/Los_Angeles,,,1
+3521378,79014,,Dyer St & San Carlos Ave,Far Side,37.595844,-122.070721,,,0,,America/Los_Angeles,,,1
+3521379,79015,,Dyer St & Santa Susana Wy,Nearside,37.593146,-122.069063,,,0,,America/Los_Angeles,,,1
+3521380,79016,,Dyer St & Alvarado Bl,Far Side,37.589434,-122.070109,,,0,,America/Los_Angeles,,,1
+3521381,79017,,Dyer St & Cabello St,Nearside,37.587202,-122.071942,,,0,,America/Los_Angeles,,,1
+3521385,79018,,Meteor Dr & Galaxy Dr,Far Side,37.585133,-122.069696,,,0,,America/Los_Angeles,,,1
+3521386,79019,,Meteor Dr & Chippendale Dr,Far Side,37.583357,-122.066396,,,0,,America/Los_Angeles,,,1
+3521387,79020,,Delores Dr & Muirwood Dr,Far Side,37.581242,-122.066805,,,0,,America/Los_Angeles,,,1
+3521388,79021,,Delores Dr & Laura Wy,Nearside,37.579588,-122.068296,,,0,,America/Los_Angeles,,,1
+3521389,79022,,Delores Dr & Deborah Dr,Far Side,37.577285,-122.070306,,,0,,America/Los_Angeles,,,1
+3521390,79023,,Delores Dr & Jean Dr,Nearside,37.575766,-122.072166,,,0,,America/Los_Angeles,,,1
+3521391,79024,,Jean Dr & Dinuba St,Nearside,37.574678,-122.071719,,,0,,America/Los_Angeles,,,1
+3521392,79025,,Jean Dr & Blythe St,Far Side,37.573846,-122.070154,,,0,,America/Los_Angeles,,,1
+3521393,79026,,Regents Bl & Rocklin Dr,Nearside,37.573044,-122.068745,,,0,,America/Los_Angeles,,,1
+3521394,79027,,Rocklin Dr & Danville Ave,Nearside,37.572403,-122.069054,,,0,,America/Los_Angeles,,,1
+3521395,79028,,Rocklin Dr & Antioch Loop,Far Side,37.570454,-122.071667,,,0,,America/Los_Angeles,,,1
+3521396,79029,,Rocklin Dr & Anaheim Loop,Far Side,37.569024,-122.072146,,,0,,America/Los_Angeles,,,1
+3521397,79030,,Union City Bl & Rocklin Dr,Far Side,37.568491,-122.073145,,,0,,America/Los_Angeles,,,1
+3521398,79214,,Union City Bl & Delores Dr,Far Side,37.571139,-122.077221,,,0,,America/Los_Angeles,,,1
+3521399,79031,,Union City Bl & Bay Colony Dr,Far Side,37.572936,-122.078288,,,0,,America/Los_Angeles,,,1
+3521400,79032,,Union City Bl & Rose Dr,Far Side,37.57569,-122.079796,,,0,,America/Los_Angeles,,,1
+3521401,79033,,Dyer St & Union City Bl,Far Side,37.57797,-122.080062,,,0,,America/Los_Angeles,,,1
+3521402,79034,,Dyer St & Jean Dr,Far Side,37.580267,-122.077817,,,0,,America/Los_Angeles,,,1
+3521403,79035,,Dyer St & Deborah Dr,Far Side,37.582395,-122.07596,,,0,,America/Los_Angeles,,,1
+3521404,79036,,Dyer St & Regents Bl,Nearside,37.583881,-122.074712,,,0,,America/Los_Angeles,,,1
+3521405,79037,,Dyer St & Meteor Dr,Far Side,37.586921,-122.072089,,,0,,America/Los_Angeles,,,1
+3521406,79038,,Dyer St Mid-Block,Nearside,37.588665,-122.070516,,,0,,America/Los_Angeles,,,1
+3521407,79039,,Dyer St & Alvarado Bl,Far Side,37.59035,-122.069053,,,0,,America/Los_Angeles,,,1
+3521408,79040,,Dyer St & Santa Susana Wy,Nearside,37.59278,-122.068765,,,0,,America/Los_Angeles,,,1
+3521409,79041,,Dyer St & Alvarado-Niles Rd,Nearside,37.5965900541796,-122.070825690706,,,0,,America/Los_Angeles,,,1
+3521410,79042,,Alvarado-Niles Rd & Santa Maria Ave,Far Side,37.59811,-122.065871,,,0,,America/Los_Angeles,,,1
+3521411,79043,,Alvarado-Niles Rd & Almaden Bl,Far Side,37.596222,-122.054404,,,0,,America/Los_Angeles,,,1
+3521412,79044,,Alvarado-Niles Rd & Medallion Ave,Far Side,37.595359,-122.051268,,,0,,America/Los_Angeles,,,1
+3521413,79045,,Alvarado-Niles Rd & Hop Ranch Rd,Nearside,37.594391,-122.04774,,,0,,America/Los_Angeles,,,1
+3521414,79046,,Alvarado-Niles Rd & Dowe St,Nearside,37.593428,-122.044144,,,0,,America/Los_Angeles,,,1
+3521415,79047,,Alvarado-Niles Rd & Central Ave,Far Side,37.592055,-122.039108,,,0,,America/Los_Angeles,,,1
+3521416,79049,,Alvarado-Niles Rd & Hartnell St,Far Side,37.589302,-122.029241,,,0,,America/Los_Angeles,,,1
+3521417,79050,,Alvarado-Niles Rd & Royal Ann Dr,Far Side,37.588832,-122.027403,,,0,,America/Los_Angeles,,,1
+3521418,79051,,Alvarado-Niles Rd & Nidus Dr,Far Side,37.587781,-122.023841,,,0,,America/Los_Angeles,,,1
+3521419,79052,,Decoto Rd & Alvarado-Niles Rd,Far Side,37.588095,-122.021178,,,0,,America/Los_Angeles,,,1
+3521420,79053,,Decoto Rd & Union Square,Far Side,37.590876,-122.020215,,,0,,America/Los_Angeles,,,1
+3523450,79010,,Alvarado-Niles Rd & Hop Ranch Rd,Far Side,37.594542,-122.047638,,,0,,America/Los_Angeles,,,1
+3523452,79138,,Alvarado Bl & Dyer St,Far Side,37.590077,-122.07008,,,0,,America/Los_Angeles,,,1
+3523453,79139,,Alvarado Bl & Fair Ranch Dr,Far Side,37.591353,-122.07236,,,0,,America/Los_Angeles,,,1
+3523454,79140,,Alvarado Bl & New Haven Ave,Far Side,37.592545,-122.074977,,,0,,America/Los_Angeles,,,1
+3523455,79141,,Alvarado Bl & Fredi St,Nearside,37.591884,-122.077414,,,0,,America/Los_Angeles,,,1
+3523456,79142,,Union City Bl & Alvarado Bl,Far Side,37.590975,-122.081199,,,0,,America/Los_Angeles,,,1
+3523457,79143,,Union City Bl & Regents Bl,Far Side,37.58698,-122.081162,,,0,,America/Los_Angeles,,,1
+3523458,79144,,Union City Bl & Jean Dr,Far Side,37.580713,-122.080947,,,0,,America/Los_Angeles,,,1
+3523459,79145,,Regents Bl & Cabello St,Nearside,37.586009,-122.076114,,,0,,America/Los_Angeles,,,1
+3523460,79146,,Regents Bl & Queensboro Wy,Nearside,37.587555,-122.078869,,,0,,America/Los_Angeles,,,1
+3523461,79147,,Union City Bl & Montevideo Ct,Nearside,37.588438,-122.080702,,,0,,America/Los_Angeles,,,1
+3523462,79148,,Union City Bl & Alvarado Bl,Nearside,37.590696,-122.080687,,,0,,America/Los_Angeles,,,1
+3523463,79149,,Alvarado Bl & Fredi St,Far Side,37.591762,-122.077226,,,0,,America/Los_Angeles,,,1
+3523464,79150,,Alvarado Bl & New Haven Ave,Nearside,37.59228,-122.074505,,,0,,America/Los_Angeles,,,1
+3523465,79151,,Alvarado Bl & Fair Ranch Dr,Nearside,37.591201,-122.072557,,,0,,America/Los_Angeles,,,1
+3523468,79048,,Alvarado-Niles Rd & Western Ave,Nearside,37.590811,-122.03476,,,0,,America/Los_Angeles,,,1
+3536276,79063,,Whipple Rd & Central Ave,Far Side,37.606003,-122.038556,,,0,,America/Los_Angeles,,,1
+3536277,79064,,Whipple Rd & Hayman Ave,Far Side,37.606065,-122.045773,,,0,,America/Los_Angeles,,,1
+3536278,79065,,Whipple Rd & Medallion Ave,Far Side,37.606099,-122.052105,,,0,,America/Los_Angeles,,,1
+3536279,79066,,Whipple Rd & Huntwood Ave,Far Side,37.606099,-122.055302,,,0,,America/Los_Angeles,,,1
+3536280,79067,,Whipple Rd & Wiegman Ave,Nearside,37.60649,-122.061183,,,0,,America/Los_Angeles,,,1
+3536281,79068,,Whipple Rd & Dyer St,Far Side,37.605841,-122.069503,,,0,,America/Los_Angeles,,,1
+3536282,79069,,Whipple Rd & Ahern Ave,Far Side,37.605792,-122.077071,,,0,,America/Los_Angeles,,,1
+3536283,79070,,Whipple Rd & Kohoutek St,Nearside,37.605769,-122.079814,,,0,,America/Los_Angeles,,,1
+3536643,79095,,Kohoutek St & Union City Bl,Far Side,37.608721,-122.081929,,,0,,America/Los_Angeles,,,1
+3536644,79096,,Kohoutek St & Whipple Rd,Nearside,37.607563,-122.080493,,,0,,America/Los_Angeles,,,1
+3536645,79097,,Whipple Rd & Kohoutek St,Far Side,37.605619,-122.079456,,,0,,America/Los_Angeles,,,1
+3536646,79098,,Whipple Rd & Meridien Dr,Far Side,37.605618,-122.075278,,,0,,America/Los_Angeles,,,1
+3537270,79099,,Whipple Rd & Dyer St,Nearside,37.605686,-122.071322,,,0,,America/Los_Angeles,,,1
+3537271,79100,,Whipple Rd & Industrial Parkway Southwest,Far Side,37.607004,-122.064034,,,0,,America/Los_Angeles,,,1
+3537272,79101,,Whipple Rd & Amaral Ave,Far Side,37.606035,-122.057868,,,0,,America/Los_Angeles,,,1
+3537273,79102,,Whipple Rd & Huntwood Ave,Far Side,37.606023,-122.054567,,,0,,America/Los_Angeles,,,1
+3537274,79103,,Whipple Rd & Medallion Ave,Nearside,37.60601,-122.051987,,,0,,America/Los_Angeles,,,1
+3537275,79104,,Whipple Rd & Hayman Ave,Far Side,37.605982,-122.045569,,,0,,America/Los_Angeles,,,1
+3537276,79105,,Whipple Rd & Central Ave,Far Side,37.605945,-122.037617,,,0,,America/Los_Angeles,,,1
+3537277,79106,,Whipple Rd & Railroad Ave,Nearside,37.605898,-122.031528,,,0,,America/Los_Angeles,,,1
+3537278,79107,,Whipple Rd & Barnard White,Nearside,37.605898,-122.027766,,,0,,America/Los_Angeles,,,1
+3537279,79108,,6th St & C St,Nearside,37.604403,-122.024193,,,0,,America/Los_Angeles,,,1
+3537280,79109,,E St & 6th St,Far Side,37.60225,-122.021905,,,0,,America/Los_Angeles,,,1
+3537281,79110,,9th St & E St,Far Side,37.600721,-122.023601,,,0,,America/Los_Angeles,,,1
+3537282,79111,,9th St & G St,Nearside,37.599092,-122.02167,,,0,,America/Los_Angeles,,,1
+3537284,79113,,Decoto Rd & 11th St,Far Side,37.593472,-122.019455,,,0,,America/Los_Angeles,,,1
+3537285,79054,,Union Square & BART Way,Far Side,37.589893,-122.018917,,,0,,America/Los_Angeles,,,1
+3537289,79057,,9th St & G St,Nearside,37.598976,-122.021413,,,0,,America/Los_Angeles,,,1
+3537290,79058,,9th St & E St,Nearside,37.600807,-122.023575,,,0,,America/Los_Angeles,,,1
+3537291,79059,,E St & 6th St,Nearside,37.602249,-122.021797,,,0,,America/Los_Angeles,,,1
+3537292,79060,,6th St & C St,Far Side,37.604474,-122.024182,,,0,,America/Los_Angeles,,,1
+3537293,79061,,Whipple Rd & Barnard White,Far Side,37.605996,-122.027914,,,0,,America/Los_Angeles,,,1
+3537294,79062,,Whipple Rd & Ithaca St,Far Side,37.605994,-122.030468,,,0,,America/Los_Angeles,,,1
+3537650,79152,,Mann Ave & Skylark Dr,Nearside,37.58499,-122.01745,,,0,,America/Los_Angeles,,,1
+3538239,79153,,Mann Ave & Perry Rd,Nearside,37.582602,-122.018114,,,0,,America/Los_Angeles,,,1
+3538240,79154,,Perry Rd & Kennedy Ave,Nearside,37.583022,-122.020493,,,0,,America/Los_Angeles,,,1
+3538241,79155,,Perry Rd & Decoto Rd,Far Side,37.583788,-122.023405,,,0,,America/Los_Angeles,,,1
+3538242,79156,,Perry Rd & Maraschino Pl,Nearside,37.584228,-122.025483,,,0,,America/Los_Angeles,,,1
+3538243,79157,,Perry Rd & Royal Ann Dr,Nearside,37.584973,-122.028918,,,0,,America/Los_Angeles,,,1
+3538244,79158,,Royal Ann Dr & Arizona St,Nearside,37.586801,-122.028335,,,0,,America/Los_Angeles,,,1
+3538248,79090,,Alvarado-Niles Rd & Dyer St,Nearside,37.597391,-122.070195,,,0,,America/Los_Angeles,,,1
+3538252,79094,,Union City Bl & Whipple Rd,Far Side,37.606123,-122.082415,,,0,,America/Los_Angeles,,,1
+3539350,79169,,Royal Ann Dr & Alvarado-Niles Rd,Far Side,37.588664,-122.027825,,,0,,America/Los_Angeles,,,1
+3539530,79170,,Royal Ann Dr & Arizona St,Nearside,37.587165,-122.028269,,,0,,America/Los_Angeles,,,1
+3539531,79171,,Royal Ann Dr & Perry Rd,Nearside,37.585147,-122.029148,,,0,,America/Los_Angeles,,,1
+3539532,79172,,Perry Rd & Maraschino Ct,Nearside,37.584246,-122.025831,,,0,,America/Los_Angeles,,,1
+3539533,79173,,Perry Rd & Decoto Rd,Far Side,37.583366,-122.022271,,,0,,America/Los_Angeles,,,1
+3539534,79174,,Perry Rd & Kennedy Ave,Far Side,37.582937,-122.020508,,,0,,America/Los_Angeles,,,1
+3539535,79175,,Mann Ave & Perry Rd,Far Side,37.582625,-122.018008,,,0,,America/Los_Angeles,,,1
+3539536,79176,,Mann Ave & Skylark Dr,Nearside,37.584575,-122.017382,,,0,,America/Los_Angeles,,,1
+3695760,79114,,Decoto Rd & 11th St,Far Side,37.594088,-122.019035,,,0,,America/Los_Angeles,,,1
+3816615,79191,,Dyer St & Ratekin Dr,Nearside,37.59993,-122.070309,,,0,,America/Los_Angeles,,,1
+3816616,79192,,Dyer St & Whipple Rd,Nearside,37.604453,-122.068956,,,0,,America/Los_Angeles,,,1
+3816617,79133,,Industrial Parkway Southwest & Whipple Rd,Far Side,37.608019,-122.065144,,,0,,America/Los_Angeles,,,1
+3816618,79134,,Calaveras Landing Shopping Center,Nearside,37.612185,-122.068294,,,0,,America/Los_Angeles,,,1
+3816619,79135,,Industrial Parkway Southwest Mid-Block,Nearside,37.608922,-122.065955,,,0,,America/Los_Angeles,,,1
+3817717,79086,,Medallion Ave & Brenda Dr,Nearside,37.593935,-122.052164,,,0,,America/Los_Angeles,,,1
+3817718,79082,,Almaden Bl & Kawella Cir,Nearside,37.591226,-122.052731,,,0,,America/Los_Angeles,,,1
+3817719,79083,,Almaden Bl & Cumana Dr,Nearside,37.590344,-122.051099,,,0,,America/Los_Angeles,,,1
+3817720,79084,,Tropics,Far Side,37.588931,-122.050784,,,0,,America/Los_Angeles,,,1
+3817721,79085,,Almaden Bl & Chechester Dr,Nearside,37.590734,-122.051681,,,0,,America/Los_Angeles,,,1
+3817722,79088,,Almaden Bl & Horatio Ct,Far Side,37.592647,-122.05447,,,0,,America/Los_Angeles,,,1
+3817723,79089,,Almaden Bl & Sloccum Ct,Far Side,37.595851,-122.055159,,,0,,America/Los_Angeles,,,1
+3817724,79199,,Tamarack Dr & Moccasin Dr,Nearside,37.607791,-122.030695,,,0,,America/Los_Angeles,,,1
+3817725,79200,,Tamarack Dr & Sumac Dr,Nearside,37.607911,-122.0279,,,0,,America/Los_Angeles,,,1
+3817726,79201,,Tamarack Dr & Pulaski St,Nearside,37.608003,-122.024487,,,0,,America/Los_Angeles,,,1
+3817727,79202,,Mission Bl & Tamarack Dr,Far Side,37.608313,-122.022623,,,0,,America/Los_Angeles,,,1
+3817728,79203,,Mission Bl & Whipple Rd,Far Side,37.605806,-122.019739,,,0,,America/Los_Angeles,,,1
+3817729,79204,,Mission Bl & F St,Nearside,37.603867,-122.017561,,,0,,America/Los_Angeles,,,1
+3817730,79205,,Mission Bl & Daggett Ave,Far Side,37.598351,-122.011401,,,0,,America/Los_Angeles,,,1
+3817731,79206,,Veneto St & Corona Pl,Nearside,37.594,-122.005087,,,0,,America/Los_Angeles,,,1
+3817732,79207,,Appian Wy & Mission Bl,Nearside,37.592002,-122.002868,,,0,,America/Los_Angeles,,,1
+3817733,79208,,7th St & Cheseapeake Dr,Far Side,37.590492,-122.006716,,,0,,America/Los_Angeles,,,1
+3817734,79209,,7th St & Daggett Ave,Far Side,37.597095,-122.014216,,,0,,America/Los_Angeles,,,1
+3817735,79210,,Decoto Rd & 7th St,Far Side,37.597745,-122.017983,,,0,,America/Los_Angeles,,,1
+3817736,79211,,Decoto Rd & Depot Rd,Far Side,37.595667,-122.018681,,,0,,America/Los_Angeles,,,1
+3819163,79115,,Decoto Rd & 9th St,Nearside,37.596274,-122.018259,,,0,,America/Los_Angeles,,,1
+3819164,79116,,Decoto Rd & 7th St,Nearside,37.597387,-122.017863,,,0,,America/Los_Angeles,,,1
+3819165,79117,,7th St & Daggett Ave,Nearside,37.597463,-122.015727,,,0,,America/Los_Angeles,,,1
+3819166,79118,,7th St & Bedford Ave,Far Side,37.594989,-122.011954,,,0,,America/Los_Angeles,,,1
+3819167,79119,,7th St & Zwissig Ave,Far Side,37.591678,-122.008241,,,0,,America/Los_Angeles,,,1
+3819168,79120,,7th St & Cheseapeake Dr,Far Side,37.590311,-122.005663,,,0,,America/Los_Angeles,,,1
+3819169,79121,,Appian Wy & Mission Bl,Far Side,37.591607,-122.003064,,,0,,America/Los_Angeles,,,1
+3819170,79122,,Veneto St & Appian Wy,Nearside,37.592354,-122.002866,,,0,,America/Los_Angeles,,,1
+3819171,79123,,Veneto St & Famosa Ct,Mid-Block,37.593909,-122.004923,,,0,,America/Los_Angeles,,,1
+3819172,79124,,Masonic Home Main Entrance Gate,Mid-Block,37.597487,-122.00985,,,0,,America/Los_Angeles,,,1
+3819173,79125,,2nd St & Decoto Rd,Far Side,37.602201,-122.016606,,,0,,America/Los_Angeles,,,1
+3819174,79126,,2nd St & F St,Far Side,37.603514,-122.018157,,,0,,America/Los_Angeles,,,1
+3819175,79127,,2nd St & D St,Far Side,37.605372,-122.020326,,,0,,America/Los_Angeles,,,1
+3819176,79128,,Mission Bl & Whipple Rd,Far Side,37.607099,-122.02088,,,0,,America/Los_Angeles,,,1
+3819177,79129,,Tamarack Dr & Castro St,Far Side,37.608262,-122.023488,,,0,,America/Los_Angeles,,,1
+3819178,79130,,Tamarack Dr & Pulaski St,Far Side,37.608106,-122.024539,,,0,,America/Los_Angeles,,,1
+3819179,79131,,Tamarack Dr & Sumac Dr,Nearside,37.607973,-122.027541,,,0,,America/Los_Angeles,,,1
+3819180,79132,,Tamarack Dr & Ithaca St,Nearside,37.60758,-122.031131,,,0,,America/Los_Angeles,,,1
+3819192,79137,,Dyer St & Alvarado-Niles Rd,Nearside,37.59856,-122.070962,,,0,,America/Los_Angeles,,,1
+3819236,79079,,Almaden Bl & Trefry Dr,Nearside,37.595871,-122.055264,,,0,,America/Los_Angeles,,,1
+3819237,79080,,Almaden Bl & Los Robles Apartments,Nearside,37.59444,-122.055541,,,0,,America/Los_Angeles,,,1
+3819238,79081,,Almaden Bl & Polynesia Wy,Far Side,37.592592,-122.054583,,,0,,America/Los_Angeles,,,1
+3819239,79087,,Medallion Ave & Brenda Dr,Nearside,37.593605,-122.052209,,,0,,America/Los_Angeles,,,1
+3885390,79136,,Dyer St & Whipple Rd,Far Side,37.604335,-122.069249,,,0,,America/Los_Angeles,,,1
+4269817,79218,,Union City BART Stop 2,Terminal,37.5907637222481,-122.018022934788,,,0,3517880,,,,1
+4270077,79220,,Union City BART Stop 3,,37.5908700075931,-122.018165510824,,,0,3517880,,,,1
+4270078,79221,,Union City BART Stop 4,,37.5909913267106,-122.018325680412,,,0,3517880,,,,1
+4270457,79222,,Union City BART Stop 5,Terminal,37.5911050158144,-122.018482854791,,,0,3517880,,,,1
+4511331,79216,,Union Square & Station Way,Nearside,37.58897,-122.017572,,,0,,America/Los_Angeles,,,1
+4511363,79217,,Union City BART Stop 1,Terminal,37.5906593239487,-122.017883062758,,,0,3517880,,,,1
+5895853,79013,,Union Landing Transit Center,Terminal,37.598792,-122.065656,,,0,,America/Los_Angeles,,,1

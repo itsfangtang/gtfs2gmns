@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+98,Seattle Children's Hospital,https://www.luum.com/commute/content/shuttles,America/Los_Angeles,en

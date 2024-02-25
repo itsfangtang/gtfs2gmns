@@ -1,0 +1,12 @@
+service_id,date,holiday_name,exception_type
+c_70136_b_none_d_127,20231231,New Year's Eve,1
+c_69888_b_81509_d_96,20240527,Memorial Day - Weekend Service,1
+c_69888_b_81509_d_96,20240101,New Years Day,1
+c_69888_b_81509_d_96,20231225,Christmas,1
+c_69888_b_81509_d_31,20240527,Memorial Day - Weekend Service,2
+c_69888_b_81509_d_31,20240219,Presidents Day,2
+c_69888_b_81509_d_31,20240115,MLK Jr Day,2
+c_69888_b_81509_d_31,20240101,New Years Day,2
+c_69888_b_81509_d_31,20231225,Christmas,2
+c_67763_b_none_d_127,20240219,Presidents Day,1
+c_67763_b_none_d_127,20240115,MLK Jr Day,1

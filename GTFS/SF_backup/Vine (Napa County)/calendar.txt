@@ -1,0 +1,4 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_69720_b_81173_d_64,Year Round Starting 8/13/2023 (Sunday only),0,0,0,0,0,0,1,20230813,20240801
+c_69720_b_81173_d_32,Year Round Starting 8/13/2023 (Saturday only),0,0,0,0,0,1,0,20230813,20240801
+c_69720_b_81173_d_31,Year Round Starting 8/13/2023 (Weekday),1,1,1,1,1,0,0,20230813,20240801

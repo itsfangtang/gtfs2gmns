@@ -1,0 +1,5 @@
+service_id,date,holiday_name,exception_type
+c_19731_b_26130_d_96,20210531,Memorial Day,1
+c_19731_b_26130_d_31,20210531,Memorial Day,2
+c_19357_b_25566_d_31,20210531,Memorial Day,2
+c_19336_b_25534_d_31,20210531,Memorial Day,2

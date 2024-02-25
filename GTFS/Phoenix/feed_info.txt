@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+City of Phoenix,https://www.phoenix.gov/publictransit,en,20230925,20240121,GTFS_v3.9_20230912,pubtrans@phoenix.gov,https://www.phoenix.gov/publictransit/contactus

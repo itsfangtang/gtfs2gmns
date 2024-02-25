@@ -1,0 +1,9 @@
+service_id,date,holiday_name,exception_type
+c_67764_b_none_d_32,20231231,NYE 2022,1
+c_67764_b_none_d_32,20231224,Christmas Eve 2023,1
+c_24016_b_33759_d_64,20231231,NYE 2022,2
+c_24016_b_33759_d_64,20231224,Christmas Eve 2023,2
+c_24016_b_33759_d_31,20231225,Christmas Day,2
+c_24016_b_33759_d_31,20231124,Friday After Thanksgiving (FAT),2
+c_24016_b_33759_d_31,20231123,Thanksgiving Day,2
+c_20909_b_none_d_31,20231124,Friday After Thanksgiving (FAT),1

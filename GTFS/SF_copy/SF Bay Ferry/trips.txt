@@ -1,0 +1,369 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+HB,72856,t_5797627_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,79543,t_5802051_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,72856,t_5797626_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,79543,t_5802050_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,72856,t_5797677_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,79543,t_5802099_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,72856,t_5797660_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,79543,t_5802082_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB AM1,p_531019,,1,1
+HB,72856,t_5797747_b_81905_tn_0,Harbor Bay Ferry Terminal,0,RCH AM2,p_531019,,1,1
+HB,79543,t_5802162_b_none_tn_0,Harbor Bay Ferry Terminal,0,RCH AM2,p_531019,,1,1
+HB,79543,t_5802192_b_none_tn_0,Harbor Bay Ferry Terminal,0,SSF PM1,p_531019,,1,1
+HB,72856,t_5797776_b_81905_tn_0,Harbor Bay Ferry Terminal,0,SSF PM1,p_531019,,1,1
+HB,72856,t_5797679_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,79543,t_5802101_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,79543,t_5802102_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,72856,t_5797680_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,72856,t_5797678_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,79543,t_5802100_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,79543,t_5802103_b_none_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,72856,t_5797681_b_81905_tn_0,Harbor Bay Ferry Terminal,0,HB PM1,p_531019,,1,1
+HB,72856,t_5797775_b_81905_tn_0,San Francisco Ferry Building,1,SSF AM2,p_1425744,,1,1
+HB,79543,t_5802190_b_none_tn_0,San Francisco Ferry Building,1,SSF AM2,p_1425744,,1,1
+HB,72856,t_5797718_b_81905_tn_0,San Francisco Ferry Building,1,SSF AM1,p_1425744,,1,1
+HB,79543,t_5802135_b_none_tn_0,San Francisco Ferry Building,1,SSF AM1,p_1425744,,1,1
+HB,72856,t_5797632_b_81905_tn_0,San Francisco Ferry Building,1,HB AM1,p_1425744,,1,1
+HB,79543,t_5802067_b_none_tn_0,San Francisco Ferry Building,1,HB AM1,p_1425744,,1,1
+HB,79543,t_5802054_b_none_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,72856,t_5797630_b_81905_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,79543,t_5802053_b_none_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,72856,t_5797629_b_81905_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,72856,t_5797628_b_81905_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,79543,t_5802052_b_none_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,72856,t_5797631_b_81905_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,79543,t_5802055_b_none_tn_0,San Francisco Ferry Building,1,HB AM1,p_531020,,1,1
+HB,79543,t_5802164_b_none_tn_0,San Francisco Ferry Building,1,RCH AM2,p_531020,,1,1
+HB,72856,t_5797749_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM2,p_531020,,1,1
+HB,72856,t_5797684_b_81905_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,79543,t_5802106_b_none_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,72856,t_5797682_b_81905_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,79543,t_5802104_b_none_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,72856,t_5797685_b_81905_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,79543,t_5802107_b_none_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,72856,t_5797683_b_81905_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+HB,79543,t_5802105_b_none_tn_0,San Francisco Ferry Building,1,HB PM1,p_531020,,1,1
+OA,72855,t_5797648_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND1,p_530966,,1,1
+OA,72855,t_5800139_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND1,p_530966,,1,1
+OA,72855,t_5797649_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND1,p_530966,,1,1
+OA,72855,t_5800143_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND2,p_530966,,1,1
+OA,72856,t_5797815_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA PM1,p_530966,,1,1
+OA,79543,t_5802012_b_none_tn_0,San Francisco Ferry Building via Oakland,1,OA PM1,p_530966,,1,1
+OA,72855,t_5797650_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND1,p_530966,,1,1
+OA,72855,t_5800145_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND2,p_530966,,1,1
+OA,72855,t_5800151_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND3,p_530966,,1,1
+OA,72855,t_5800140_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND1,p_530966,,1,1
+OA,72855,t_5800147_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND2,p_530966,,1,1
+OA,72855,t_5800153_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND3,p_530966,,1,1
+OA,72855,t_5800149_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND2,p_530966,,1,1
+OA,72855,t_5800155_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND3,p_530966,,1,1
+OA,72855,t_5800157_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND3,p_530966,,1,1
+OA,72855,t_5800159_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA WKND3,p_530966,,1,1
+OA,72855,t_5797778_b_81905_tn_0,Alameda Main St,0,OA WKND1,p_1303753,,1,1
+OA,72856,t_5797712_b_81905_tn_0,Alameda Main St,0,RCH AM1,p_1303753,,1,1
+OA,79543,t_5802182_b_none_tn_0,Alameda Main St,0,RCH AM1,p_1303753,,1,1
+OA,72856,t_5800134_b_81905_tn_0,Alameda Main St,0,SSF AM2,p_1303753,,1,1
+OA,79543,t_5802196_b_none_tn_0,Alameda Main St,0,SSF AM2,p_1303753,,1,1
+OA,72855,t_5797779_b_81905_tn_0,Alameda Main St,0,OA WKND1,p_1303753,,1,1
+OA,79543,t_5802010_b_none_tn_0,Alameda Main St,0,OA AM2,p_1303753,,1,1
+OA,72856,t_5797769_b_81905_tn_0,Alameda Main St,0,OA AM2,p_1303753,,1,1
+OA,72855,t_5800142_b_81905_tn_0,Alameda Main St,0,OA WKND2,p_1303753,,1,1
+OA,72855,t_5797780_b_81905_tn_0,Alameda Main St,0,OA WKND1,p_1303753,,1,1
+OA,72855,t_5800144_b_81905_tn_0,Alameda Main St,0,OA WKND2,p_1303753,,1,1
+OA,72855,t_5800150_b_81905_tn_0,Alameda Main St,0,OA WKND3,p_1303753,,1,1
+OA,72855,t_5797651_b_81905_tn_0,Alameda Main St,0,OA WKND1,p_1303753,,1,1
+OA,72855,t_5800146_b_81905_tn_0,Alameda Main St,0,OA WKND2,p_1303753,,1,1
+OA,72855,t_5800152_b_81905_tn_0,Alameda Main St,0,OA WKND3,p_1303753,,1,1
+OA,72855,t_5800148_b_81905_tn_0,Alameda Main St,0,OA WKND2,p_1303753,,1,1
+OA,72855,t_5800154_b_81905_tn_0,Alameda Main St,0,OA WKND3,p_1303753,,1,1
+OA,72855,t_5800156_b_81905_tn_0,Alameda Main St,0,OA WKND3,p_1303753,,1,1
+OA,72855,t_5800158_b_81905_tn_0,Alameda Main St,0,OA WKND3,p_1303753,,1,1
+OA,72855,t_5797652_b_81905_tn_0,Alameda Main St,0,RCH WKND2,p_1303753,,1,1
+OA,72856,t_5797759_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,RCH AM1,p_1426921,,1,1
+OA,79543,t_5802184_b_none_tn_0,San Francisco Ferry Building via Oakland,1,RCH AM1,p_1426921,,1,1
+OA,72856,t_5797814_b_81905_tn_0,San Francisco Ferry Building via Oakland,1,OA AM2,p_1426921,,1,1
+OA,79543,t_5802011_b_none_tn_0,San Francisco Ferry Building via Oakland,1,OA AM2,p_1426921,,1,1
+OA,72856,t_5800065_b_81905_tn_0,Alameda Main St via Oakland,0,OA PM2,p_1304110,,1,1
+OA,79543,t_5802193_b_none_tn_0,Alameda Main St via Oakland,0,OA PM2,p_1304110,,1,1
+OA,72856,t_5800135_b_81905_tn_0,San Francisco Ferry Building,1,SSF AM2,p_1425733,,1,1
+OA,79543,t_5802197_b_none_tn_0,San Francisco Ferry Building,1,SSF AM2,p_1425733,,1,1
+OA,72855,t_5800160_b_81905_tn_0,Oakland Ferry Terminal via Alameda Main St,0,RCH WKND2,p_1304108,,1,1
+OA,72856,t_5797772_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,79543,t_5802013_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,72856,t_5797641_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,79543,t_5802033_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,72856,t_5797710_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,79543,t_5802178_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM1,p_530954,,1,1
+OA,72856,t_5797773_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM2,p_530954,,1,1
+OA,79543,t_5802191_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM2,p_530954,,1,1
+OA,72856,t_5797731_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,SEA PM1,p_530954,,1,1
+OA,79543,t_5802180_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,SEA PM1,p_530954,,1,1
+OA,72856,t_5797711_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM2,p_1434073,,1,1
+OA,79543,t_5802179_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,OA PM2,p_1434073,,1,1
+OA,72856,t_5797732_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,SEA PM1,p_1434073,,1,1
+OA,79543,t_5802181_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,SEA PM1,p_1434073,,1,1
+OA,72856,t_5797716_b_81905_tn_0,San Francisco Ferry Building via Alameda Main St,1,VJO PM3,p_1434082,,1,1
+OA,79543,t_5802183_b_none_tn_0,San Francisco Ferry Building via Alameda Main St,1,VJO PM3,p_1434082,,1,1
+OA,72856,t_5797633_b_81905_tn_0,San Francisco Ferry Building,1,OA AM1,p_788331,,1,1
+OA,79543,t_5802056_b_none_tn_0,San Francisco Ferry Building,1,OA AM1,p_788331,,1,1
+OA,72856,t_5797690_b_81905_tn_0,San Francisco Ferry Building,1,OA AM1,p_788331,,1,1
+OA,79543,t_5802112_b_none_tn_0,San Francisco Ferry Building,1,OA AM1,p_788331,,1,1
+OA,72856,t_5797689_b_81905_tn_0,San Francisco Ferry Building,1,OA AM2,p_788331,,1,1
+OA,79543,t_5802111_b_none_tn_0,San Francisco Ferry Building,1,OA AM2,p_788331,,1,1
+OA,72855,t_5800141_b_81905_tn_0,San Francisco Ferry Building,1,OA WKND2,p_788331,,1,1
+OA,72856,t_5797691_b_81905_tn_0,San Francisco Ferry Building,1,OA PM1,p_788331,,1,1
+OA,79543,t_5802113_b_none_tn_0,San Francisco Ferry Building,1,OA PM1,p_788331,,1,1
+OA,72856,t_5797686_b_81905_tn_0,Oakland Ferry Terminal,0,OA AM1,p_530949,,1,1
+OA,79543,t_5802108_b_none_tn_0,Oakland Ferry Terminal,0,OA AM1,p_530949,,1,1
+OA,72856,t_5797768_b_81905_tn_0,Oakland Ferry Terminal,0,OA AM2,p_530949,,1,1
+OA,79543,t_5802189_b_none_tn_0,Oakland Ferry Terminal,0,OA AM2,p_530949,,1,1
+OA,72856,t_5797687_b_81905_tn_0,Oakland Ferry Terminal,0,OA AM1,p_530949,,1,1
+OA,79543,t_5802109_b_none_tn_0,Oakland Ferry Terminal,0,OA AM1,p_530949,,1,1
+OA,79543,t_5802020_b_none_tn_0,Oakland Ferry Terminal,0,OA AM2,p_530949,,1,1
+OA,72856,t_5797597_b_81905_tn_0,Oakland Ferry Terminal,0,OA AM2,p_530949,,1,1
+OA,72856,t_5797730_b_81905_tn_0,Oakland Ferry Terminal,0,SEA AM1,p_530949,,1,1
+OA,79543,t_5802147_b_none_tn_0,Oakland Ferry Terminal,0,SEA AM1,p_530949,,1,1
+OA,72856,t_5797591_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,79543,t_5802014_b_none_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,79543,t_5802041_b_none_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,72856,t_5797617_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,79543,t_5802090_b_none_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,72856,t_5797668_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,72856,t_5797619_b_81905_tn_0,Oakland Ferry Terminal,0,VJO PM3,p_530949,,1,1
+OA,79543,t_5802043_b_none_tn_0,Oakland Ferry Terminal,0,VJO PM3,p_530949,,1,1
+OA,72856,t_5797661_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,79543,t_5802083_b_none_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,79543,t_5802091_b_none_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,72856,t_5797669_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM1,p_530949,,1,1
+OA,72856,t_5797670_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,79543,t_5802092_b_none_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,79543,t_5802064_b_none_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,72856,t_5797642_b_81905_tn_0,Oakland Ferry Terminal,0,OA PM2,p_530949,,1,1
+OA,79543,t_5802077_b_none_tn_0,Oakland Ferry Terminal,0,SEA PM1,p_530949,,1,1
+OA,72856,t_5797655_b_81905_tn_0,Oakland Ferry Terminal,0,SEA PM1,p_530949,,1,1
+OA,79543,t_5802066_b_none_tn_0,Oakland Ferry Terminal,0,SEA PM1,p_530949,,1,1
+OA,72856,t_5797647_b_81905_tn_0,Oakland Ferry Terminal,0,SEA PM1,p_530949,,1,1
+OA,72856,t_5797688_b_81905_tn_0,San Francisco Ferry Building,1,OA AM1,p_1425731,,1,1
+OA,79543,t_5802110_b_none_tn_0,San Francisco Ferry Building,1,OA AM1,p_1425731,,1,1
+OA,72856,t_5797742_b_81905_tn_0,San Francisco Ferry Building,1,VJO AM2,p_1425731,,1,1
+OA,79543,t_5802157_b_none_tn_0,San Francisco Ferry Building,1,VJO AM2,p_1425731,,1,1
+OA,72856,t_5797705_b_81905_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425735,,1,1
+OA,79543,t_5802126_b_none_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425735,,1,1
+OA,72856,t_5797646_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425735,,1,1
+OA,79543,t_5802065_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425735,,1,1
+OA,72856,t_5797751_b_81905_tn_0,Oakland Ferry Terminal,0,VJO AM2,p_1426957,,1,1
+OA,79543,t_5802166_b_none_tn_0,Oakland Ferry Terminal,0,VJO AM2,p_1426957,,1,1
+SSF,72856,t_5797704_b_81905_tn_0,Alameda Main St via Oakland,0,SSF PM1,p_179316,,1,1
+SSF,79543,t_5802073_b_none_tn_0,Alameda Main St via Oakland,0,SSF PM1,p_179316,,1,1
+SSF,72856,t_5797717_b_81905_tn_0,Alameda Main St via Oakland,0,SSF PM2,p_179316,,1,1
+SSF,79543,t_5802186_b_none_tn_0,Alameda Main St via Oakland,0,SSF PM2,p_179316,,1,1
+SSF,72856,t_5797644_b_81905_tn_0,Alameda Main St via Oakland,0,SSF PM1,p_179316,,1,1
+SSF,79543,t_5802069_b_none_tn_0,Alameda Main St via Oakland,0,SSF PM1,p_179316,,1,1
+SSF,72856,t_5800129_b_81905_tn_0,South San Francisco,1,SSF AM1,p_298487,,1,1
+SSF,79543,t_5802194_b_none_tn_0,South San Francisco,1,SSF AM1,p_298487,,1,1
+SSF,72856,t_5797777_b_81905_tn_0,South San Francisco,1,SSF AM2,p_298487,,1,1
+SSF,79543,t_5802195_b_none_tn_0,South San Francisco,1,SSF AM2,p_298487,,1,1
+SSF,72856,t_5802576_b_81905_tn_0,South San Francisco,1,SSF AM1,p_298487,,1,1
+SSF,79543,t_5802134_b_none_tn_0,South San Francisco,1,SSF AM1,p_298487,,1,1
+SSF,72856,t_5797715_b_81905_tn_0,Oakland Ferry Terminal via Alameda Main St,0,SSF AM1,p_298507,,1,1
+SSF,79543,t_5802185_b_none_tn_0,Oakland Ferry Terminal via Alameda Main St,0,SSF AM1,p_298507,,1,1
+SSF,72856,t_5797643_b_81905_tn_0,South San Francisco,1,SSF PM1,p_1303747,,1,1
+SSF,79543,t_5802068_b_none_tn_0,South San Francisco,1,SSF PM1,p_1303747,,1,1
+P41,72855,t_5797739_b_81905_tn_0,Pier 41,1,RCH WKND1,p_1275834,,1,1
+P41,72855,t_5797736_b_81905_tn_0,Pier 41,1,RCH WKND1,p_1275834,,1,1
+P41,72855,t_5797764_b_81905_tn_0,Pier 41,1,VJO WKND3,p_1275834,,1,1
+P41,72855,t_5797738_b_81905_tn_0,San Francisco Ferry Building,0,RCH WKND1,p_1275835,,1,1
+P41,72855,t_5797735_b_81905_tn_0,San Francisco Ferry Building,0,RCH WKND1,p_1275835,,1,1
+P41,72855,t_5797737_b_81905_tn_0,San Francisco Ferry Building,0,VJO WKND3,p_1304623,,1,1
+RCH,79543,t_5802114_b_none_tn_0,Richmond,0,RCH AM1,p_898865,,1,1
+RCH,72856,t_5797692_b_81905_tn_0,Richmond,0,RCH AM1,p_898865,,1,1
+RCH,72856,t_5797744_b_81905_tn_0,Richmond,0,RCH AM2,p_898865,,1,1
+RCH,79543,t_5802159_b_none_tn_0,Richmond,0,RCH AM2,p_898865,,1,1
+RCH,72856,t_5797740_b_81905_tn_0,Richmond,0,OA AM1,p_898865,,1,1
+RCH,79543,t_5802155_b_none_tn_0,Richmond,0,OA AM1,p_898865,,1,1
+RCH,72856,t_5797637_b_81905_tn_0,Richmond,0,RCH AM2,p_898865,,1,1
+RCH,79543,t_5802060_b_none_tn_0,Richmond,0,RCH AM2,p_898865,,1,1
+RCH,72856,t_5797596_b_81905_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,79543,t_5802019_b_none_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,72856,t_5797635_b_81905_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,79543,t_5802058_b_none_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,79543,t_5802125_b_none_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,72856,t_5797703_b_81905_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,72856,t_5797656_b_81905_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,79543,t_5802078_b_none_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,72856,t_5797693_b_81905_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,79543,t_5802115_b_none_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,72856,t_5797636_b_81905_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,79543,t_5802059_b_none_tn_0,Richmond,0,RCH PM2,p_898865,,1,1
+RCH,72856,t_5797694_b_81905_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,79543,t_5802116_b_none_tn_0,Richmond,0,RCH PM1,p_898865,,1,1
+RCH,72855,t_5797622_b_81905_tn_0,Richmond,0,RCH WKND1,p_531490,,1,1
+RCH,72856,t_5800136_b_81905_tn_0,Richmond,0,SSF AM2,p_531490,,1,1
+RCH,79543,t_5802198_b_none_tn_0,Richmond,0,SSF AM2,p_531490,,1,1
+RCH,72855,t_5797623_b_81905_tn_0,Richmond,0,RCH WKND1,p_531490,,1,1
+RCH,72855,t_5797620_b_81905_tn_0,Richmond,0,RCH WKND2,p_531490,,1,1
+RCH,72855,t_5797621_b_81905_tn_0,Richmond,0,RCH WKND2,p_531490,,1,1
+RCH,72855,t_5797624_b_81905_tn_0,Richmond,0,RCH WKND2,p_531490,,1,1
+RCH,72855,t_5797625_b_81905_tn_0,San Francisco Ferry Building,1,RCH WKND1,p_531492,,1,1
+RCH,72856,t_5797741_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM2,p_531492,,1,1
+RCH,79543,t_5802156_b_none_tn_0,San Francisco Ferry Building,1,RCH AM2,p_531492,,1,1
+RCH,72855,t_5797698_b_81905_tn_0,San Francisco Ferry Building,1,RCH WKND1,p_531492,,1,1
+RCH,72855,t_5797699_b_81905_tn_0,San Francisco Ferry Building,1,RCH WKND2,p_531492,,1,1
+RCH,72855,t_5797700_b_81905_tn_0,San Francisco Ferry Building,1,RCH WKND2,p_531492,,1,1
+RCH,72856,t_5797663_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM2,p_531492,,1,1
+RCH,79543,t_5802085_b_none_tn_0,San Francisco Ferry Building,1,RCH PM2,p_531492,,1,1
+RCH,72856,t_5797638_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM1,p_898866,,1,1
+RCH,79543,t_5802061_b_none_tn_0,San Francisco Ferry Building,1,RCH AM1,p_898866,,1,1
+RCH,72856,t_5797701_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM2,p_898866,,1,1
+RCH,79543,t_5802123_b_none_tn_0,San Francisco Ferry Building,1,RCH AM2,p_898866,,1,1
+RCH,72856,t_5797695_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM2,p_898866,,1,1
+RCH,79543,t_5802117_b_none_tn_0,San Francisco Ferry Building,1,RCH AM2,p_898866,,1,1
+RCH,72856,t_5797639_b_81905_tn_0,San Francisco Ferry Building,1,OA AM1,p_898866,,1,1
+RCH,79543,t_5802062_b_none_tn_0,San Francisco Ferry Building,1,OA AM1,p_898866,,1,1
+RCH,72856,t_5797645_b_81905_tn_0,San Francisco Ferry Building,1,SSF AM2,p_898866,,1,1
+RCH,79543,t_5802070_b_none_tn_0,San Francisco Ferry Building,1,SSF AM2,p_898866,,1,1
+RCH,72856,t_5797748_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM2,p_898866,,1,1
+RCH,79543,t_5802163_b_none_tn_0,San Francisco Ferry Building,1,VJO PM2,p_898866,,1,1
+RCH,72856,t_5797696_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,79543,t_5802118_b_none_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,79543,t_5802023_b_none_tn_0,San Francisco Ferry Building,1,RCH PM2,p_898866,,1,1
+RCH,72856,t_5797600_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM2,p_898866,,1,1
+RCH,79543,t_5802124_b_none_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,72856,t_5797702_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,79543,t_5802080_b_none_tn_0,San Francisco Ferry Building,1,RCH PM2,p_898866,,1,1
+RCH,72856,t_5797658_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM2,p_898866,,1,1
+RCH,72856,t_5797697_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,79543,t_5802119_b_none_tn_0,San Francisco Ferry Building,1,RCH PM1,p_898866,,1,1
+RCH,72856,t_5797707_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM1,p_1425734,,1,1
+RCH,79543,t_5802130_b_none_tn_0,San Francisco Ferry Building,1,RCH AM1,p_1425734,,1,1
+RCH,72855,t_5797760_b_81905_tn_0,San Francisco Ferry Building,1,RCH WKND2,p_1425734,,1,1
+SEA,72856,t_5797593_b_81905_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425732,,1,1
+SEA,79543,t_5802016_b_none_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425732,,1,1
+SEA,72856,t_5797720_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425732,,1,1
+SEA,79543,t_5802137_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425732,,1,1
+SEA,72856,t_5797594_b_81905_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425732,,1,1
+SEA,79543,t_5802017_b_none_tn_0,San Francisco Ferry Building,1,OA AM2,p_1425732,,1,1
+SEA,72856,t_5797713_b_81905_tn_0,San Francisco Ferry Building,1,RCH AM1,p_1425732,,1,1
+SEA,79543,t_5802133_b_none_tn_0,San Francisco Ferry Building,1,RCH AM1,p_1425732,,1,1
+SEA,72856,t_5797766_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425732,,1,1
+SEA,79543,t_5802187_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1425732,,1,1
+SEA,72856,t_5797673_b_81905_tn_0,San Francisco Ferry Building,1,OA PM2,p_1425732,,1,1
+SEA,79543,t_5802095_b_none_tn_0,San Francisco Ferry Building,1,OA PM2,p_1425732,,1,1
+SEA,72856,t_5797726_b_81905_tn_0,San Francisco Ferry Building,1,SEA PM1,p_1425732,,1,1
+SEA,79543,t_5802143_b_none_tn_0,San Francisco Ferry Building,1,SEA PM1,p_1425732,,1,1
+SEA,72856,t_5797708_b_81905_tn_0,San Francisco Ferry Building,1,RCH PM2,p_1425746,,1,1
+SEA,79543,t_5802131_b_none_tn_0,San Francisco Ferry Building,1,RCH PM2,p_1425746,,1,1
+SEA,79543,t_5802136_b_none_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,72856,t_5797719_b_81905_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,72856,t_5797721_b_81905_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,79543,t_5802138_b_none_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,79543,t_5802139_b_none_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,72856,t_5797722_b_81905_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,79543,t_5802127_b_none_tn_0,Alameda Seaplane,0,OA AM2,p_1276399,,1,1
+SEA,72856,t_5797706_b_81905_tn_0,Alameda Seaplane,0,OA AM2,p_1276399,,1,1
+SEA,79543,t_5802148_b_none_tn_0,Alameda Seaplane,0,RCH AM1,p_1276399,,1,1
+SEA,72856,t_5797733_b_81905_tn_0,Alameda Seaplane,0,RCH AM1,p_1276399,,1,1
+SEA,79543,t_5802177_b_none_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,72856,t_5797765_b_81905_tn_0,Alameda Seaplane,0,SEA AM1,p_1276399,,1,1
+SEA,79543,t_5802149_b_none_tn_0,Alameda Seaplane,0,OA AM2,p_1276399,,1,1
+SEA,72856,t_5797734_b_81905_tn_0,Alameda Seaplane,0,OA AM2,p_1276399,,1,1
+SEA,72856,t_5797675_b_81905_tn_0,Alameda Seaplane,0,OA PM2,p_1276399,,1,1
+SEA,79543,t_5802097_b_none_tn_0,Alameda Seaplane,0,OA PM2,p_1276399,,1,1
+SEA,72856,t_5797662_b_81905_tn_0,Alameda Seaplane,0,OA PM2,p_1276399,,1,1
+SEA,79543,t_5802084_b_none_tn_0,Alameda Seaplane,0,OA PM2,p_1276399,,1,1
+SEA,79543,t_5802145_b_none_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,72856,t_5797728_b_81905_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,79543,t_5802144_b_none_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,72856,t_5797727_b_81905_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,72856,t_5797674_b_81905_tn_0,Alameda Seaplane,0,SSF PM2,p_1276399,,1,1
+SEA,79543,t_5802096_b_none_tn_0,Alameda Seaplane,0,SSF PM2,p_1276399,,1,1
+SEA,72856,t_5797672_b_81905_tn_0,Alameda Seaplane,0,HB PM1,p_1276399,,1,1
+SEA,79543,t_5802094_b_none_tn_0,Alameda Seaplane,0,HB PM1,p_1276399,,1,1
+SEA,72856,t_5797592_b_81905_tn_0,Alameda Seaplane,0,RCH PM2,p_1276399,,1,1
+SEA,79543,t_5802015_b_none_tn_0,Alameda Seaplane,0,RCH PM2,p_1276399,,1,1
+SEA,79543,t_5802188_b_none_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,72856,t_5797767_b_81905_tn_0,Alameda Seaplane,0,SEA PM1,p_1276399,,1,1
+SEA,72856,t_5797723_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,79543,t_5802140_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,72856,t_5797724_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,79543,t_5802141_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,72856,t_5797725_b_81905_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,79543,t_5802142_b_none_tn_0,San Francisco Ferry Building,1,SEA AM1,p_1276395,,1,1
+SEA,72856,t_5797709_b_81905_tn_0,San Francisco Ferry Building,1,SSF PM1,p_1276395,,1,1
+SEA,79543,t_5802132_b_none_tn_0,San Francisco Ferry Building,1,SSF PM1,p_1276395,,1,1
+SEA,72856,t_5797676_b_81905_tn_0,San Francisco Ferry Building,1,OA PM2,p_1276395,,1,1
+SEA,79543,t_5802098_b_none_tn_0,San Francisco Ferry Building,1,OA PM2,p_1276395,,1,1
+SEA,72856,t_5797729_b_81905_tn_0,San Francisco Ferry Building,1,SEA PM1,p_1276395,,1,1
+SEA,79543,t_5802146_b_none_tn_0,San Francisco Ferry Building,1,SEA PM1,p_1276395,,1,1
+SEA,72856,t_5800138_b_81905_tn_0,San Francisco Ferry Building,1,SSF PM2,p_1276395,,1,1
+SEA,79543,t_5802200_b_none_tn_0,San Francisco Ferry Building,1,SSF PM2,p_1276395,,1,1
+VJO,72856,t_5797654_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM1,p_1426919,,1,1
+VJO,79543,t_5802074_b_none_tn_0,San Francisco Ferry Building,1,VJO PM1,p_1426919,,1,1
+VJO,72855,t_5797763_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO WKND3,p_1435590,,1,1
+VJO,72856,t_5797601_b_81905_tn_0,San Francisco Ferry Building,1,VJO AM1,p_179862,,1,1
+VJO,79543,t_5802024_b_none_tn_0,San Francisco Ferry Building,1,VJO AM1,p_179862,,1,1
+VJO,72856,t_5797653_b_81905_tn_0,San Francisco Ferry Building,1,VJO AM3,p_179862,,1,1
+VJO,79543,t_5802076_b_none_tn_0,San Francisco Ferry Building,1,VJO AM3,p_179862,,1,1
+VJO,79543,t_5802030_b_none_tn_0,San Francisco Ferry Building,1,VJO AM1,p_179862,,1,1
+VJO,72856,t_5797608_b_81905_tn_0,San Francisco Ferry Building,1,VJO AM1,p_179862,,1,1
+VJO,72855,t_5797755_b_81905_tn_0,San Francisco Ferry Building,1,VJO WKND1,p_179862,,1,1
+VJO,72855,t_5797756_b_81905_tn_0,San Francisco Ferry Building,1,VJO WKND2,p_179862,,1,1
+VJO,72856,t_5797671_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM1,p_179862,,1,1
+VJO,79543,t_5802093_b_none_tn_0,San Francisco Ferry Building,1,VJO PM1,p_179862,,1,1
+VJO,72855,t_5797757_b_81905_tn_0,San Francisco Ferry Building,1,VJO WKND1,p_179862,,1,1
+VJO,72855,t_5797758_b_81905_tn_0,San Francisco Ferry Building,1,VJO WKND2,p_179862,,1,1
+VJO,72856,t_5797634_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM2,p_179862,,1,1
+VJO,79543,t_5802057_b_none_tn_0,San Francisco Ferry Building,1,VJO PM2,p_179862,,1,1
+VJO,79543,t_5802577_b_none_tn_0,San Francisco Ferry Building,1,VJO PM3,p_179862,,1,1
+VJO,72856,t_5797743_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM3,p_179862,,1,1
+VJO,79543,t_5802165_b_none_tn_0,San Francisco Ferry Building,1,VJO PM2,p_179862,,1,1
+VJO,72856,t_5797750_b_81905_tn_0,San Francisco Ferry Building,1,VJO PM2,p_179862,,1,1
+VJO,72855,t_5797664_b_81905_tn_0,San Francisco Ferry Building,1,VJO WKND3,p_179862,,1,1
+VJO,72856,t_5797598_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM1,p_180271,,1,1
+VJO,79543,t_5802021_b_none_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM1,p_180271,,1,1
+VJO,72856,t_5797599_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM2,p_180271,,1,1
+VJO,79543,t_5802022_b_none_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM2,p_180271,,1,1
+VJO,72856,t_5797607_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM3,p_180271,,1,1
+VJO,79543,t_5802029_b_none_tn_0,San Francisco Ferry Building via Vallejo,1,VJO AM3,p_180271,,1,1
+VJO,72855,t_5797753_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO WKND1,p_180271,,1,1
+VJO,72855,t_5797754_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO WKND2,p_180271,,1,1
+VJO,72856,t_5797595_b_81905_tn_0,San Francisco Ferry Building,1,VJO AM2,p_1425745,,1,1
+VJO,79543,t_5802018_b_none_tn_0,San Francisco Ferry Building,1,VJO AM2,p_1425745,,1,1
+VJO,72856,t_5797745_b_81905_tn_0,San Francisco Ferry Building via Vallejo,1,VJO PM3,p_1425747,,1,1
+VJO,79543,t_5802160_b_none_tn_0,San Francisco Ferry Building via Vallejo,1,VJO PM3,p_1425747,,1,1
+VJO,72856,t_5797602_b_81905_tn_0,Mare Island via Vallejo,0,VJO AM2,p_298493,,1,1
+VJO,79543,t_5802032_b_none_tn_0,Mare Island via Vallejo,0,VJO AM2,p_298493,,1,1
+VJO,72856,t_5797665_b_81905_tn_0,Mare Island via Vallejo,0,VJO AM3,p_298493,,1,1
+VJO,79543,t_5802087_b_none_tn_0,Mare Island via Vallejo,0,VJO AM3,p_298493,,1,1
+VJO,72856,t_5797640_b_81905_tn_0,Mare Island via Vallejo,0,VJO AM1,p_298493,,1,1
+VJO,79543,t_5802063_b_none_tn_0,Mare Island via Vallejo,0,VJO AM1,p_298493,,1,1
+VJO,72855,t_5797667_b_81905_tn_0,Mare Island via Vallejo,0,VJO WKND1,p_298493,,1,1
+VJO,72855,t_5797611_b_81905_tn_0,Mare Island via Vallejo,0,VJO WKND2,p_298493,,1,1
+VJO,72856,t_5797616_b_81905_tn_0,Mare Island via Vallejo,0,VJO PM1,p_298493,,1,1
+VJO,79543,t_5802040_b_none_tn_0,Mare Island via Vallejo,0,VJO PM1,p_298493,,1,1
+VJO,72856,t_5797666_b_81905_tn_0,Mare Island via Vallejo,0,VJO PM3,p_298493,,1,1
+VJO,79543,t_5802578_b_none_tn_0,Mare Island via Vallejo,0,VJO PM3,p_298493,,1,1
+VJO,72856,t_5797746_b_81905_tn_0,Mare Island via Vallejo,0,VJO PM2,p_298493,,1,1
+VJO,79543,t_5802161_b_none_tn_0,Mare Island via Vallejo,0,VJO PM2,p_298493,,1,1
+VJO,72855,t_5797618_b_81905_tn_0,Mare Island via Vallejo,0,VJO WKND3,p_298493,,1,1
+VJO,79543,t_5802028_b_none_tn_0,Vallejo,0,VJO AM1,p_179875,,1,1
+VJO,72856,t_5797606_b_81905_tn_0,Vallejo,0,VJO AM1,p_179875,,1,1
+VJO,72856,t_5797605_b_81905_tn_1,Vallejo,0,VJO AM2,p_179875,,1,1
+VJO,79543,t_5802027_b_none_tn_1,Vallejo,0,VJO AM2,p_179875,,1,1
+VJO,72856,t_5797603_b_81905_tn_0,Vallejo,0,VJO AM3,p_179875,,1,1
+VJO,79543,t_5802025_b_none_tn_0,Vallejo,0,VJO AM3,p_179875,,1,1
+VJO,72856,t_5797657_b_81905_tn_0,Vallejo,0,VJO AM1,p_179875,,1,1
+VJO,79543,t_5802079_b_none_tn_0,Vallejo,0,VJO AM1,p_179875,,1,1
+VJO,72855,t_5797612_b_81905_tn_0,Vallejo,0,VJO WKND1,p_179875,,1,1
+VJO,72855,t_5797615_b_81905_tn_0,Vallejo,0,VJO WKND2,p_179875,,1,1
+VJO,72855,t_5797752_b_81905_tn_0,Vallejo,0,VJO WKND1,p_179875,,1,1
+VJO,72856,t_5797609_b_81905_tn_0,Vallejo,0,VJO PM1,p_179875,,1,1
+VJO,79543,t_5802031_b_none_tn_0,Vallejo,0,VJO PM1,p_179875,,1,1
+VJO,72855,t_5797613_b_81905_tn_0,Vallejo,0,VJO WKND2,p_179875,,1,1
+VJO,72856,t_5797610_b_81905_tn_0,Vallejo,0,VJO PM2,p_179875,,1,1
+VJO,79543,t_5802034_b_none_tn_0,Vallejo,0,VJO PM2,p_179875,,1,1
+VJO,79543,t_5802026_b_none_tn_0,Vallejo,0,VJO PM3,p_179875,,1,1
+VJO,72856,t_5797604_b_81905_tn_0,Vallejo,0,VJO PM3,p_179875,,1,1
+VJO,79543,t_5802038_b_none_tn_0,Vallejo,0,VJO PM2,p_179875,,1,1
+VJO,72856,t_5797614_b_81905_tn_0,Vallejo,0,VJO PM2,p_179875,,1,1
+VJO,72855,t_5797659_b_81905_tn_0,Vallejo,0,VJO WKND3,p_179875,,1,1

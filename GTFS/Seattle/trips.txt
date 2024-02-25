@@ -1,0 +1,758 @@
+route_id,trip_id,service_id,trip_headsign,direction_id,block_id,shape_id,drt_advance_book_min,peak_offpeak
+Purp-48,799999-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0002,0.0,0
+Purp-48,800000-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800001-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800002-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800003-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800004-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,5,Purp0002,0.0,0
+Purp-48,800005-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Purp0001,0.0,0
+Purp-48,800006-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800007-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800008-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800009-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800010-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800011-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800012-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800013-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800014-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800015-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800016-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800017-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800018-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800019-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800020-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800021-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800022-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800023-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800024-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800025-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800026-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800027-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800028-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800029-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800030-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800031-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800032-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,3,Purp0002,0.0,0
+Purp-48,800033-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Purp0001,0.0,0
+Purp-48,800034-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,3,Purp0002,0.0,0
+Purp-48,800035-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Purp0001,0.0,0
+Purp-48,800036-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,3,Purp0002,0.0,0
+Purp-48,800037-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Purp0001,0.0,0
+Purp-48,800038-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800039-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800040-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800041-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800042-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800043-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800044-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800045-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800046-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800047-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800048-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800049-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800050-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800051-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800052-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800053-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800054-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800055-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800056-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800057-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800058-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800059-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800060-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800061-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800062-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800063-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800064-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800065-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800066-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800067-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800068-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800069-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800070-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800071-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800072-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800073-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800074-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800075-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800076-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800077-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800078-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800079-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800080-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800081-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800082-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800083-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800084-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800085-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800086-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800087-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Purp-48,800088-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Roosevelt,1,7,Purp0002,0.0,0
+Purp-48,800089-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,7,Purp0001,0.0,0
+Pink-48,800091-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Pink0001,0.0,0
+Pink-48,800092-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800093-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800094-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800095-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800096-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800097-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800098-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800099-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800100-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800101-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800102-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800103-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800104-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800105-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800106-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800107-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800108-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800109-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800110-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800111-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800112-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800113-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800114-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800115-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800116-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800117-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800118-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800119-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800120-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800121-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800122-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800123-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800124-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800125-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800126-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800127-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800128-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800129-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800130-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800131-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800132-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800133-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800134-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800135-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800136-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800137-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800138-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800139-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800140-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800141-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800142-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800143-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800144-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800145-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800146-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800147-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800148-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800149-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800150-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800151-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800152-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800153-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800154-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800155-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800156-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800157-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800158-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800159-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800160-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800161-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800162-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800163-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800164-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800165-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800166-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800167-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800168-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800169-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800170-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800171-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800172-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800173-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800174-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800175-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800176-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,6,Pink0002,0.0,0
+Pink-48,800177-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Pink0001,0.0,0
+Pink-48,800178-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800179-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800180-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800181-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800182-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800183-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800184-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800185-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800186-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800187-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800188-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,3,Pink0002,0.0,0
+Pink-48,800189-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Pink0001,0.0,0
+Pink-48,800190-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800191-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800192-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,10,Pink0002,0.0,0
+Pink-48,800193-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Pink0001,0.0,0
+Pink-48,800194-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800195-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800196-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800197-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800198-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,4,Pink0002,0.0,0
+Pink-48,800199-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Pink0001,0.0,0
+Pink-48,800200-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800201-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800202-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800203-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800204-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800205-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Pink-48,800206-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,E1,1,5,Pink0002,0.0,0
+Pink-48,800207-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Pink0001,0.0,0
+Gold-48,800209-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via E1,0,1,Gold0005,0.0,0
+Gold-48,800210-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800211-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800212-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800213-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800214-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,10,Gold0004,0.0,0
+Gold-48,800215-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Gold0006,0.0,0
+Gold-48,800216-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,5,Gold0004,0.0,0
+Gold-48,800217-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800218-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,10,Gold0004,0.0,0
+Gold-48,800219-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,10,Gold0006,0.0,0
+Gold-48,800220-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800221-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800222-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800223-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800224-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800225-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800226-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800227-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800228-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800229-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800230-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800231-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800232-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800233-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800234-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800235-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800236-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800237-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800238-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800239-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800240-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800241-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800242-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,3,Gold0004,0.0,0
+Gold-48,800243-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800244-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,3,Gold0004,0.0,0
+Gold-48,800245-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800246-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,3,Gold0004,0.0,0
+Gold-48,800247-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800248-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800249-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800250-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800251-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800252-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800253-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via E1,0,1,Gold0005,0.0,0
+Gold-48,800254-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800255-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via E1,0,1,Gold0005,0.0,0
+Gold-48,800256-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800257-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via E1,0,1,Gold0005,0.0,0
+Gold-48,800258-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5,1,1,Gold0004,0.0,0
+Gold-48,800259-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via E1,0,1,Gold0005,0.0,0
+Gold-48,800260-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800261-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800262-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800263-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800264-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800265-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800266-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800267-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800268-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800269-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800270-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800271-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800272-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800273-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800274-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800275-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800276-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800277-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800278-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800279-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800280-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800281-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800282-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800283-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800284-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800285-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800286-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800287-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800288-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800289-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800290-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800291-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800292-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800293-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800294-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800295-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800296-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800297-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800298-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800299-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800300-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800301-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800302-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800303-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800304-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800305-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800306-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800307-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800308-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800309-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800310-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800311-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800312-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800313-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800314-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800315-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800316-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800317-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800318-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800319-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800320-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800321-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800322-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800323-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800324-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800325-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800326-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800327-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800328-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800329-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800330-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800331-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800332-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800333-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800334-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800335-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800336-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800337-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800338-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800339-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800340-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800341-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800342-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800343-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800344-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800345-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800346-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800347-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800348-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800349-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800350-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800351-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800352-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800353-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800354-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800355-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800356-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800357-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800358-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800359-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800360-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800361-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800362-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800363-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800364-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800365-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800366-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800367-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800368-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800369-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800370-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800371-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800372-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800373-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800374-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800375-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800376-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800377-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800378-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800379-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800380-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800381-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800382-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800383-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800384-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800385-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800386-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800387-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800388-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800389-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800390-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,4,Gold0003,0.0,0
+Gold-48,800391-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,4,Gold0006,0.0,0
+Gold-48,800392-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800393-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800394-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,3,Gold0003,0.0,0
+Gold-48,800395-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,3,Gold0006,0.0,0
+Gold-48,800396-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800397-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800398-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800399-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800400-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800401-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800402-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,1,Gold0003,0.0,0
+Gold-48,800403-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,1,Gold0006,0.0,0
+Gold-48,800404-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,6,Gold0003,0.0,0
+Gold-48,800405-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,6,Gold0006,0.0,0
+Gold-48,800406-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800407-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800408-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800409-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800410-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800411-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800412-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800413-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800414-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800415-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Gold-48,800416-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Bay 5 via E1,1,5,Gold0003,0.0,0
+Gold-48,800417-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,5,Gold0006,0.0,0
+Ylw-48,800419-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800420-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800421-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800422-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800423-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800424-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800425-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800426-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800427-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800428-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800429-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800430-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800431-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800432-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800433-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800434-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800435-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800436-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800437-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800438-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800439-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800440-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800441-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800442-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800443-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800444-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800445-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800446-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800447-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800448-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800449-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800450-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800451-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800452-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800453-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800454-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,8,Ylw0001,0.0,0
+Ylw-48,800455-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800457-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Ylw0003,0.0,0
+Ylw-48,800458-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800459-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800460-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800461-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800462-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800463-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800464-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800465-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800466-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800467-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800468-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800469-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800470-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800471-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800472-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800473-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800474-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800475-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800476-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800477-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800478-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800479-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800480-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,11,Ylw0001,0.0,0
+Ylw-48,800481-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Ylw0003,0.0,0
+Ylw-48,800482-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800483-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800484-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800485-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800486-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800487-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800488-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800489-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800490-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800491-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800492-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800493-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800494-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800495-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800496-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800497-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800498-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800499-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800500-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800501-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800502-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800503-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800504-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800505-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800506-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800507-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Ylw-48,800508-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,SPLC,1,2,Ylw0001,0.0,0
+Ylw-48,800509-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Ylw0003,0.0,0
+Blue-48,800511-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800512-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800513-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800515-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800516-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800517-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800518-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800519-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800521-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800522-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800523-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800524-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800525-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800527-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800528-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800529-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800531-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800532-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800533-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800534-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800535-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800536-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800537-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800538-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800539-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800540-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800541-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800542-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800543-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800544-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800545-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800546-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800547-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800548-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800549-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800550-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800551-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800552-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800553-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800554-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800555-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800556-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800557-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800558-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800559-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800561-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800562-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800563-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800564-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800565-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800566-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800567-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800568-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800569-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800570-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800571-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800572-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800573-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800574-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800575-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800576-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800577-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800578-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800579-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800580-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800581-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800582-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800583-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800584-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800585-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800586-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800587-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800589-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800590-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800591-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800592-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800593-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800594-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800595-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800596-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800597-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800598-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800599-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800601-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800602-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,11,Blue0005,0.0,0
+Blue-48,800603-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,11,Blue0008,0.0,0
+Blue-48,800604-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,12,Blue0005,0.0,0
+Blue-48,800605-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,12,Blue0008,0.0,0
+Blue-48,800606-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800607-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800608-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,11,Blue0005,0.0,0
+Blue-48,800609-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,11,Blue0008,0.0,0
+Blue-48,800610-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800611-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800612-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800613-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800614-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800615-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800616-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800617-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800618-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via 70th,1,9,Blue0005,0.0,0
+Blue-48,800619-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via SPLC,0,9,Blue0008,0.0,0
+Blue-48,800620-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800621-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800622-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800623-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800624-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800625-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800626-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800627-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800628-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800629-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800630-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800631-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800632-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800633-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800634-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800635-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800636-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800637-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800638-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800639-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800640-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800641-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800642-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,9,Blue0009,0.0,0
+Blue-48,800643-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,9,Blue0003,0.0,0
+Blue-48,800644-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson via SPLC,1,2,Blue0009,0.0,0
+Blue-48,800645-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital via 70th,0,2,Blue0003,0.0,0
+Blue-48,800646-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800647-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800648-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800649-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800650-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800651-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800652-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800653-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800654-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800655-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800656-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800657-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800658-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800659-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800660-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800661-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800662-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800663-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800664-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800665-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800666-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800667-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800668-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800669-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800670-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800671-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800672-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800673-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800674-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800675-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800676-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800677-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800678-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800679-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800680-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800681-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800682-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800683-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800684-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800685-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800686-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800687-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800688-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800689-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800690-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800691-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800692-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800693-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800694-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800695-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800696-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800697-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800698-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800699-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800700-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800701-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800702-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800703-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800704-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800705-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800706-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800707-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800708-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800709-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800710-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800711-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800712-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800713-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800714-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800715-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800716-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800717-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800718-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800719-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800720-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800721-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800722-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800723-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800724-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800725-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800726-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800727-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800728-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800729-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800730-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800731-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800732-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,11,Blue0002,0.0,0
+Blue-48,800733-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,11,Blue0001,0.0,0
+Blue-48,800734-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800735-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800736-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800737-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800738-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800739-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800740-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800741-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800742-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800743-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800744-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800745-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800746-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800747-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800748-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800749-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800750-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800751-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800752-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,8,Blue0002,0.0,0
+Blue-48,800753-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,8,Blue0001,0.0,0
+Blue-48,800754-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,12,Blue0002,0.0,0
+Blue-48,800755-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,12,Blue0001,0.0,0
+Blue-48,800756-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,9,Blue0002,0.0,0
+Blue-48,800757-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,9,Blue0001,0.0,0
+Blue-48,800758-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800759-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800760-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800761-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800762-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800763-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800764-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800765-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0
+Blue-48,800766-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Magnuson,1,2,Blue0002,0.0,0
+Blue-48,800767-SCH-1909-Blocking-Weekday-30,SCH-1909-Blocking-Weekday-30,Hospital,0,2,Blue0001,0.0,0

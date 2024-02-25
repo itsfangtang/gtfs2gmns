@@ -1,0 +1,6 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,eligibility_restricted
+98,Blue-48,Blue,,3,-999
+98,Gold-48,Gold,,3,-999
+98,Pink-48,Pink,,3,-999
+98,Purp-48,Pur,Purple,3,-999
+98,Ylw-48,Ylw,Yellow,3,-999

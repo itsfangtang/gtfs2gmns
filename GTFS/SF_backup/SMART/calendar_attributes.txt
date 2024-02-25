@@ -1,0 +1,3 @@
+service_id,service_description
+c_69917_b_81552_d_96,Schedule 8 - Weekend (Weekend)
+c_69916_b_81551_d_31,Schedule 8 - Weekday (Weekday)

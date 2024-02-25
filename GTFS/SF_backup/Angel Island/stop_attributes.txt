@@ -1,0 +1,8 @@
+stop_id,stop_city
+2483574,San Francisco
+2483550,Tiburon
+2483569,Waldo
+2483575,San Francisco
+2483549,Hilarita
+2483551,San Francisco
+2483552,San Francisco

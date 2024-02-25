@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+HB,SB,HB,Harbor Bay,,4,https://sanfranciscobayferry.com/harbor-bay-ferry-route,c74a5d,ffffff
+OA,SB,OA,Oakland & Alameda,,4,https://sanfranciscobayferry.com/oakland-alameda-ferry-route,4fab47,000000
+SSF,SB,SSF,South San Francisco,,4,https://sanfranciscobayferry.com/south-san-francisco-ferry-route,851f83,ffffff
+P41,SB,P41,San Francisco Pier 41 Short Hop,,4,https://sanfranciscobayferry.com/pier-41-short-hop,000000,ffffff
+RCH,SB,RCH,Richmond,,4,https://sanfranciscobayferry.com/richmond-ferry-route,004576,ffffff
+SEA,SB,SEA,Alameda Seaplane,,4,https://sanfranciscobayferry.com/alameda-seaplane-ferry-route,df7a1c,000000
+VJO,SB,VJO,Vallejo,,4,https://sanfranciscobayferry.com/vallejo-ferry-route,008c99,000000

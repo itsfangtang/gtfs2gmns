@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+1655,http://www.uctransit.org,en,Union City Transit,510-471-1411,America/Los_Angeles,

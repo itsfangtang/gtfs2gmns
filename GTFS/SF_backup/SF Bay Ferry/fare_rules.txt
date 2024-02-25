@@ -1,0 +1,8 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+297202,SEA,,,
+297202,RCH,,,
+297202,OA,,,
+297202,HB,,,
+297203,VJO,,,
+297204,SSF,,,
+297205,P41,,,

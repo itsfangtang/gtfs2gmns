@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SCH-1909-Blocking-Weekday-30,1,1,1,1,1,0,0,20210601,20240701

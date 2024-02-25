@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+1,Valley Metro,https://www.valleymetro.org/,America/Phoenix,en,602-253-5000,csr@valleymetro.org
+10,Phoenix Sky Harbor International Airport,https://www.skyharbor.com,America/Phoenix,en,602-273-3300,skyharbor@phoenix.gov

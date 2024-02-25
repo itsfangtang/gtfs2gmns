@@ -1,0 +1,67 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+6132,4208933,1,Millbrae Intermodal Station (East),"BAY Shuttle/Burlingame Bayside , BPT Shuttle/Burlingame Point, NFC Shuttle/North Foster City "
+6132,4209064,2,E. 3rd Ave & S. Norfolk (SE Corner) ,NFC Shuttle/North Foster City 
+6132,4208970,3,300-310 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6132,4208969,4,353 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6132,4242117,5,1149 Chess Drive,"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6132,4208972,6,200 Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6132,4208973,7,E. 3rd Ave. & Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6132,4242118,8,Cul-de-Sac (4000/4001 E. 3rd Ave.),"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6132,4208977,9,Bridgepointe Circle & Bridgepointe Pkwy (AM Only),NFC Shuttle/North Foster City 
+6132,4208933,10,Millbrae Intermodal Station (East),"BAY Shuttle/Burlingame Bayside , BPT Shuttle/Burlingame Point, NFC Shuttle/North Foster City "
+6133,4208933,1,Millbrae Intermodal Station (East),"BAY Shuttle/Burlingame Bayside , BPT Shuttle/Burlingame Point, NFC Shuttle/North Foster City "
+6133,4243136,2,Bridgepointe Pkwy & Chess Dr (PM Only) ,NFC Shuttle/North Foster City 
+6133,4242117,3,1149 Chess Drive,"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6133,4208972,4,200 Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6133,4208973,5,E. 3rd Ave. & Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6133,4242118,6,Cul-de-Sac (4000/4001 E. 3rd Ave.),"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6133,4208969,7,353 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6133,4208970,8,300-310 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6133,4209065,9,E. 3rd Ave & S. Norfolk (NE Corner) ,NFC Shuttle/North Foster City 
+6133,4208933,10,Millbrae Intermodal Station (East),"BAY Shuttle/Burlingame Bayside , BPT Shuttle/Burlingame Point, NFC Shuttle/North Foster City "
+6162,4208876,1,Hillsdale Caltrain Station,"CAM Shuttle/Campus Drive , FCC Shuttle/Foster City Commuter, HCC Shuttle/Hillsdale Caltrain Commuter, LC Shuttle/Lincoln Centre, MAR Shuttle/Mariners' Island "
+6162,4208879,2,Shell & E. Hillsdale Blvd.,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6162,4208881,3,393 Vintage Park Dr (AM Only) ,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6162,4208969,4,353 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6162,4208970,5,300-310 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6162,4208971,6,303 Velocity Way,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre"
+6162,4242117,7,1149 Chess Drive,"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6162,4208972,8,200 Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6162,4208973,9,E. 3rd Ave. & Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6162,4242118,10,Cul-de-Sac (4000/4001 E. 3rd Ave.),"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6162,4208880,11,The Plaza at Triton Park,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6162,4208883,12,One Hundred Grand,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6162,4208876,13,Hillsdale Caltrain Station,"CAM Shuttle/Campus Drive , FCC Shuttle/Foster City Commuter, HCC Shuttle/Hillsdale Caltrain Commuter, LC Shuttle/Lincoln Centre, MAR Shuttle/Mariners' Island "
+6163,4208876,1,Hillsdale Caltrain Station,"CAM Shuttle/Campus Drive , FCC Shuttle/Foster City Commuter, HCC Shuttle/Hillsdale Caltrain Commuter, LC Shuttle/Lincoln Centre, MAR Shuttle/Mariners' Island "
+6163,4208880,2,The Plaza at Triton Park,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6163,4208883,3,One Hundred Grand,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6163,4208879,4,Shell & E. Hillsdale Blvd.,"FCC Shuttle/Foster City Commuter, MAR Shuttle/Mariners' Island "
+6163,4242117,5,1149 Chess Drive,"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6163,4208972,6,200 Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6163,4208973,7,E. 3rd Ave. & Lincoln Centre,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6163,4242118,8,Cul-de-Sac (4000/4001 E. 3rd Ave.),"FCC Shuttle/Foster City Commuter, NFC Shuttle/North Foster City "
+6163,4208969,9,353 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6163,4208970,10,300-310 Lakeside,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre, NFC Shuttle/North Foster City "
+6163,4208971,11,303 Velocity Way,"FCC Shuttle/Foster City Commuter, LC Shuttle/Lincoln Centre"
+6163,4242119,12,378 Vintage Park Dr (PM Only) ,FCC Shuttle/Foster City Commuter
+6163,4208876,13,Hillsdale Caltrain Station,"CAM Shuttle/Campus Drive , FCC Shuttle/Foster City Commuter, HCC Shuttle/Hillsdale Caltrain Commuter, LC Shuttle/Lincoln Centre, MAR Shuttle/Mariners' Island "
+6273,4208847,1,Belmont Caltrain Station,RLC Shuttle /Redwood LIFE Caltrain
+6273,4209057,2,Marine Pkwy / Twin Dolphin (AM Only),RLC Shuttle /Redwood LIFE Caltrain
+6273,4208985,3,800 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6273,4208986,4,Bridge Pkwy. & Island Drive,RLC Shuttle /Redwood LIFE Caltrain
+6273,4208987,5,1600-1800 Bridge Pkwy,RLC Shuttle /Redwood LIFE Caltrain
+6273,4208988,6,2800-3000 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6273,4208989,7,3400-3600 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6273,4209055,8,Marine Pkwy / Boardwalk Pl,RLC Shuttle /Redwood LIFE Caltrain
+6273,4209056,9,Marine Pkwy / Sandpiper Ln,RLC Shuttle /Redwood LIFE Caltrain
+6273,4208847,10,Belmont Caltrain Station,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208847,1,Belmont Caltrain Station,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208985,2,800 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208986,3,Bridge Pkwy. & Island Drive,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208987,4,1600-1800 Bridge Pkwy,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208988,5,2800-3000 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6274,4208989,6,3400-3600 Bridge Pkwy.,RLC Shuttle /Redwood LIFE Caltrain
+6274,4209055,7,Marine Pkwy / Boardwalk Pl,RLC Shuttle /Redwood LIFE Caltrain
+6274,4209056,8,Marine Pkwy / Sandpiper Ln,RLC Shuttle /Redwood LIFE Caltrain
+6274,4209058,9,Marine Pkwy / Oracle Pkwy (PM Stop),RLC Shuttle /Redwood LIFE Caltrain
+6274,4208847,10,Belmont Caltrain Station,RLC Shuttle /Redwood LIFE Caltrain

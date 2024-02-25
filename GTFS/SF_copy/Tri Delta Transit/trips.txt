@@ -1,0 +1,738 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+"391",1,1,"Westbound Pittsburg Center BART",1,101,47
+"380",1,2,"Eastbound Antioch BART",0,101,32
+"300",1,3,"Westbound Antioch BART",1,102,26
+"387",1,4,"Westbound Pittsburg-Bay Point BART",1,102,55
+"391",1,5,"Eastbound Brentwood Park & Ride",0,102,48
+"300",1,6,"Westbound Antioch BART",1,102,26
+"380",1,7,"Eastbound Antioch BART",0,103,88
+"380",1,8,"Westbound Pittsburg-Bay Point BART",1,103,49
+"201",1,9,"Westbound Concord BART",1,103,8
+"201",1,10,"Eastbound Pittsburg-Bay Point BART",0,103,9
+"201",1,11,"Westbound Concord BART",1,104,8
+"201",1,12,"Eastbound Pittsburg-Bay Point BART",0,104,9
+"391",1,13,"Eastbound Brentwood Park & Ride",0,104,48
+"709",1,14,"Westbound Pittsburg-Bay Point BART Express",1,105,21
+"300",1,15,"Westbound Antioch BART",1,105,26
+"387",1,16,"Westbound Pittsburg-Bay Point BART",1,105,55
+"380",1,17,"Eastbound Antioch BART",0,105,32
+"384",1,18,"Eastbound Brentwood Park & Ride",0,105,46
+"383",1,19,"Westbound Tri Delta Transit",1,105,85
+"383",1,20,"Eastbound Blue Goose Park",0,105,84
+"384",1,21,"Westbound Antioch BART",1,105,45
+"380",1,22,"Westbound Pittsburg-Bay Point BART",1,105,49
+"388",1,23,"Eastbound Kaiser",0,105,54
+"388",1,24,"Westbound Pittsburg-Bay Point BART",1,105,60
+"391",1,25,"Eastbound Brentwood Park & Ride",0,105,48
+"390",1,26,"Westbound Pittsburg-Bay Point BART",1,106,16
+"389",1,27,"Loop Pittsburg-Bay Point BART",0,106,63
+"388",1,28,"Eastbound Kaiser",0,106,54
+"388",1,29,"Westbound Pittsburg-Bay Point BART",1,106,60
+"201",1,30,"Westbound Concord BART",1,106,8
+"201",1,31,"Eastbound Pittsburg-Bay Point BART",0,106,9
+"387",1,32,"Eastbound Antioch BART",0,106,52
+"385",1,33,"Eastbound Brentwood Park & Ride",0,106,43
+"300",1,34,"Westbound Antioch BART",1,106,26
+"391",1,35,"Eastbound Brentwood Park & Ride",0,106,48
+"391",1,36,"Westbound Pittsburg Center BART",1,106,47
+"391",1,37,"Eastbound Brentwood Park & Ride",0,106,48
+"300",1,38,"Eastbound Brentwood Park & Ride",0,106,27
+"391",1,39,"Westbound Pittsburg Center BART",1,106,47
+"391",1,40,"Westbound Pittsburg Center BART",1,107,47
+"200",1,41,"Westbound Amtrak",1,107,10
+"200",1,42,"Eastbound Pittsburg-Bay Point BART",0,107,11
+"380",1,43,"Eastbound Antioch BART",0,107,32
+"709",1,44,"Westbound Pittsburg-Bay Point BART Express",1,108,21
+"300",1,45,"Westbound Antioch BART",1,108,26
+"391",1,46,"Eastbound Brentwood Park & Ride",0,108,48
+"300",1,47,"Westbound Antioch BART",1,108,26
+"380",1,48,"Eastbound Antioch BART",0,109,32
+"387",1,49,"Westbound Pittsburg-Bay Point BART",1,109,55
+"709",1,50,"Westbound Pittsburg-Bay Point BART Express",1,110,21
+"390",1,51,"Westbound Pittsburg-Bay Point BART",1,110,16
+"388",1,52,"Eastbound Kaiser",0,110,54
+"388",1,53,"Westbound Pittsburg-Bay Point BART",1,110,60
+"200",1,54,"Westbound Amtrak",1,110,10
+"200",1,55,"Eastbound Pittsburg-Bay Point BART",0,110,11
+"389",1,56,"Loop Pittsburg-Bay Point BART",0,110,63
+"384",1,57,"Eastbound Brentwood Park & Ride",0,110,46
+"383",1,58,"Westbound Tri Delta Transit",1,110,85
+"388",1,59,"Westbound Pittsburg-Bay Point BART",1,110,60
+"391",1,60,"Eastbound Brentwood Park & Ride",0,110,48
+"300",1,61,"Eastbound Brentwood Park & Ride",0,110,27
+"391",1,62,"Westbound Pittsburg Center BART",1,111,47
+"384",1,63,"Westbound Antioch BART",1,111,45
+"385",1,64,"Westbound Antioch BART",1,111,42
+"380",1,65,"Eastbound Antioch BART",0,112,88
+"201",1,66,"Eastbound Pittsburg-Bay Point BART",0,122,9
+"201",1,67,"Eastbound Pittsburg-Bay Point BART",0,129,9
+"300",1,68,"Westbound Antioch BART",1,137,26
+"391",1,69,"Eastbound Brentwood Park & Ride",0,148,48
+"387",1,70,"Eastbound Century Plaza",0,159,31
+"380",1,71,"Westbound Pittsburg-Bay Point BART",1,175,49
+"392",2,72,"Westbound Pittsburg-Bay Point BART",1,207,71
+"392",2,73,"Eastbound Antioch BART",0,214,62
+"392",3,74,"Westbound Pittsburg-Bay Point BART",1,307,71
+"391",1,75,"Westbound Pittsburg Center BART",1,148,47
+"389",1,76,"Loop Pittsburg-Bay Point BART",0,148,63
+"380",1,77,"Eastbound Antioch BART",0,148,32
+"387",1,78,"Westbound Pittsburg-Bay Point BART",1,148,55
+"391",1,79,"Eastbound Brentwood Park & Ride",0,148,48
+"388",1,80,"Westbound Pittsburg-Bay Point BART",1,149,60
+"389",1,81,"Loop Pittsburg-Bay Point BART",0,149,63
+"380",1,82,"Eastbound Antioch BART",0,149,32
+"388",1,83,"Westbound Pittsburg-Bay Point BART",1,149,60
+"387",1,84,"Eastbound Antioch BART",0,149,52
+"300",1,85,"Eastbound Brentwood Park & Ride",0,149,27
+"391",1,86,"Westbound Pittsburg Center BART",1,149,47
+"300",1,87,"Westbound Antioch BART",1,150,26
+"300",1,88,"Eastbound Brentwood Park & Ride",0,150,27
+"391",1,89,"Westbound Pittsburg Center BART",1,150,47
+"391",1,90,"Eastbound Brentwood Park & Ride",0,150,48
+"385",1,91,"Westbound Antioch BART",1,150,42
+"388",1,92,"Westbound Pittsburg-Bay Point BART",1,151,60
+"380",1,93,"Eastbound Antioch BART",0,151,32
+"385",1,94,"Eastbound Brentwood Park & Ride",0,151,43
+"300",1,95,"Westbound Antioch BART",1,151,26
+"385",1,96,"Eastbound Brentwood Park & Ride",0,151,44
+"385",1,97,"Westbound Antioch BART",1,152,42
+"389",1,98,"Loop Pittsburg-Bay Point BART",0,152,63
+"201",1,99,"Westbound Concord BART",1,152,8
+"201",1,100,"Eastbound Pittsburg-Bay Point BART",0,152,9
+"380",1,101,"Eastbound Antioch BART",0,152,32
+"387",1,102,"Westbound Pittsburg-Bay Point BART",1,152,55
+"391",1,103,"Eastbound Brentwood Park & Ride",0,152,48
+"391",1,104,"Westbound Pittsburg Center BART",1,152,47
+"391",1,105,"Eastbound Brentwood Park & Ride",0,152,48
+"391",1,106,"Westbound Pittsburg Center BART",1,153,47
+"200",1,107,"Westbound Amtrak",1,153,10
+"200",1,108,"Eastbound Pittsburg-Bay Point BART",0,153,11
+"380",1,109,"Eastbound Antioch BART",0,153,32
+"383",1,110,"Eastbound Blue Goose Park",0,154,84
+"384",1,111,"Westbound Antioch BART",1,154,45
+"380",1,112,"Westbound Pittsburg-Bay Point BART",1,154,49
+"387",1,113,"Eastbound Antioch BART",0,154,52
+"300",1,114,"Eastbound Brentwood Park & Ride",0,154,27
+"380",1,115,"Westbound Pittsburg-Bay Point BART",1,155,49
+"391",1,116,"Eastbound Brentwood Park & Ride",0,155,48
+"300",1,117,"Westbound Antioch BART",1,155,26
+"385",1,118,"Eastbound Brentwood Park & Ride",0,155,44
+"391",1,119,"Westbound Pittsburg Center BART",1,155,47
+"388",1,120,"Eastbound Kaiser",0,156,54
+"388",1,121,"Westbound Pittsburg-Bay Point BART",1,156,60
+"388",1,122,"Eastbound Kaiser",0,156,54
+"384",1,123,"Eastbound Brentwood Park & Ride",0,157,46
+"300",1,124,"Westbound Antioch BART",1,157,26
+"387",1,125,"Westbound Pittsburg-Bay Point BART",1,157,55
+"388",1,126,"Eastbound Kaiser",0,157,54
+"387",1,127,"Westbound Pittsburg-Bay Point BART",1,158,55
+"390",1,128,"Eastbound Antioch BART",0,158,7
+"300",1,129,"Eastbound Brentwood Park & Ride",0,158,27
+"387",1,130,"Westbound Pittsburg-Bay Point BART",1,158,55
+"201",1,131,"Westbound Concord BART",1,159,8
+"201",1,132,"Eastbound Pittsburg-Bay Point BART",0,159,9
+"388",1,133,"Eastbound Kaiser",0,159,54
+"388",1,134,"Westbound Pittsburg-Bay Point BART",1,159,60
+"389",1,135,"Loop Pittsburg-Bay Point BART",0,159,63
+"391",1,136,"Westbound Pittsburg Center BART",1,160,47
+"390",1,137,"Eastbound Antioch BART",0,160,7
+"384",1,138,"Eastbound Brentwood Park & Ride",0,160,46
+"385",1,139,"Eastbound Brentwood Park & Ride",0,160,44
+"383",1,140,"Westbound Tri Delta Transit",1,161,85
+"383",1,141,"Eastbound Blue Goose Park",0,161,84
+"384",1,142,"Westbound Antioch BART",1,161,45
+"380",1,143,"Westbound Pittsburg-Bay Point BART",1,161,49
+"387",1,144,"Eastbound Antioch BART",0,161,52
+"379",1,145,"Westbound Antioch BART",1,162,24
+"385",1,146,"Eastbound Brentwood Park & Ride",0,162,44
+"383",1,147,"Westbound Tri Delta Transit",1,162,85
+"389",1,148,"Loop Pittsburg-Bay Point BART",0,162,63
+"380",1,149,"Eastbound Antioch BART",0,162,32
+"380",1,150,"Westbound Pittsburg-Bay Point BART",1,162,49
+"383",1,151,"Eastbound Blue Goose Park",0,163,84
+"384",1,152,"Westbound Antioch BART",1,163,45
+"380",1,153,"Westbound Pittsburg-Bay Point BART",1,163,49
+"391",1,154,"Eastbound Brentwood Park & Ride",0,163,48
+"300",1,155,"Eastbound Brentwood Park & Ride",0,163,27
+"380",1,156,"Eastbound Antioch BART",0,164,32
+"300",1,157,"Eastbound Brentwood Park & Ride",0,164,27
+"300",1,158,"Westbound Antioch BART",1,164,26
+"380",1,159,"Westbound Pittsburg-Bay Point BART",1,164,49
+"388",1,160,"Eastbound Kaiser",0,164,54
+"387",1,161,"Eastbound Antioch BART",0,165,52
+"388",1,162,"Westbound Pittsburg-Bay Point BART",1,165,60
+"389",1,163,"Loop Pittsburg-Bay Point BART",0,165,63
+"380",1,164,"Eastbound Antioch BART",0,165,32
+"387",1,165,"Eastbound Century Plaza",0,165,31
+"380",1,166,"Eastbound Antioch BART",0,166,88
+"380",1,167,"Westbound Pittsburg-Bay Point BART",1,166,49
+"390",1,168,"Eastbound Antioch BART",0,166,7
+"381",1,169,"Eastbound Los Medanos College",0,167,22
+"381",1,170,"Westbound Pittsburg Marina",1,167,28
+"381",1,171,"Eastbound Los Medanos College",0,167,22
+"381",1,172,"Westbound Pittsburg Marina",1,167,28
+"381",1,173,"Eastbound Los Medanos College",0,167,22
+"381",1,174,"Westbound Pittsburg Marina",1,168,28
+"381",1,175,"Eastbound Los Medanos College",0,168,22
+"381",1,176,"Westbound Pittsburg Marina",1,168,28
+"381",1,177,"Eastbound Los Medanos College",0,168,22
+"381",1,178,"Westbound Pittsburg Marina",1,168,28
+"300",1,179,"Eastbound Brentwood Park & Ride",0,169,27
+"385",1,180,"Westbound Antioch BART",1,169,42
+"380",1,181,"Westbound Pittsburg-Bay Point BART",1,169,49
+"387",1,182,"Eastbound Antioch BART",0,169,52
+"300",1,183,"Eastbound Brentwood Park & Ride",0,170,27
+"388",1,184,"Eastbound Kaiser",0,170,54
+"388",1,185,"Westbound Pittsburg-Bay Point BART",1,170,60
+"380",1,186,"Eastbound Antioch BART",0,170,32
+"383",1,187,"Eastbound Blue Goose Park",0,171,84
+"388",1,188,"Westbound Pittsburg-Bay Point BART",1,171,60
+"385",1,189,"Eastbound Brentwood Park & Ride",0,172,44
+"391",1,190,"Westbound Pittsburg Center BART",1,172,47
+"391",1,191,"Eastbound Brentwood Park & Ride",0,172,48
+"391",1,192,"Westbound Pittsburg Center BART",1,172,47
+"387",1,193,"Westbound Pittsburg-Bay Point BART",1,173,55
+"390",1,194,"Eastbound Antioch BART",0,173,7
+"387",1,195,"Eastbound Antioch BART",0,174,52
+"300",1,196,"Eastbound Brentwood Park & Ride",0,174,27
+"300",1,197,"Eastbound Brentwood Park & Ride",0,174,27
+"300",1,198,"Eastbound Brentwood Park & Ride",0,175,27
+"300",1,199,"Eastbound Brentwood Park & Ride",0,175,27
+"388",1,200,"Eastbound Kaiser",0,175,54
+"300",1,201,"Westbound Antioch BART",1,176,26
+"384",1,202,"Eastbound Brentwood Park & Ride",0,176,46
+"383",1,203,"Westbound Tri Delta Transit",1,176,85
+"391",1,204,"Eastbound Brentwood Park & Ride",0,176,48
+"396",2,205,"Eastbound Delta Fair Kaiser",0,201,78
+"396",2,206,"Westbound Pacifica",1,201,81
+"396",2,207,"Eastbound Delta Fair Kaiser",0,201,78
+"396",2,208,"Westbound Pacifica",1,201,81
+"396",2,209,"Eastbound Delta Fair Kaiser",0,201,78
+"396",2,210,"Westbound Pacifica",1,201,81
+"396",2,211,"Eastbound Delta Fair Kaiser",0,201,78
+"395",2,212,"Loop Antioch BART",0,201,73
+"393",2,213,"Eastbound Brentwood Park & Ride",0,201,70
+"393",2,214,"Westbound Antioch BART",1,201,69
+"396",2,215,"Eastbound Delta Fair Kaiser",0,202,78
+"396",2,216,"Westbound Pacifica",1,202,81
+"396",2,217,"Eastbound Delta Fair Kaiser",0,202,78
+"396",2,218,"Westbound Pacifica",1,202,81
+"396",2,219,"Eastbound Delta Fair Kaiser",0,202,78
+"395",2,220,"Loop Antioch BART",0,202,73
+"393",2,221,"Eastbound Brentwood Park & Ride",0,202,70
+"393",2,222,"Westbound Antioch BART",1,202,69
+"392",2,223,"Westbound Pittsburg-Bay Point BART",1,202,71
+"394",2,224,"Eastbound Antioch BART",0,202,68
+"392",2,225,"Westbound Pittsburg-Bay Point BART",1,202,71
+"392",2,226,"Eastbound Antioch BART",0,202,62
+"392",2,227,"Westbound Pittsburg-Bay Point BART",1,203,71
+"394",2,228,"Eastbound Antioch BART",0,203,68
+"394",2,229,"Westbound Pittsburg-Bay Point BART",1,203,74
+"392",2,230,"Eastbound Antioch BART",0,203,62
+"396",2,231,"Westbound Pacifica",1,203,81
+"396",2,232,"Eastbound Delta Fair Kaiser",0,203,78
+"396",2,233,"Westbound Pacifica",1,203,81
+"396",2,234,"Eastbound Delta Fair Kaiser",0,203,78
+"393",2,235,"Westbound Antioch BART",1,204,69
+"393",2,236,"Eastbound Brentwood Park & Ride",0,204,70
+"393",2,237,"Westbound Antioch BART",1,204,69
+"393",2,238,"Eastbound Brentwood Park & Ride",0,204,70
+"393",2,239,"Westbound Antioch BART",1,204,69
+"392",2,240,"Westbound Pittsburg-Bay Point BART",1,204,71
+"394",2,241,"Eastbound Antioch BART",0,204,68
+"395",2,242,"Loop Antioch BART",0,204,73
+"393",2,243,"Eastbound Brentwood Park & Ride",0,204,70
+"393",2,244,"Westbound Antioch BART",1,204,69
+"393",2,245,"Westbound Antioch BART",1,205,69
+"396",2,246,"Westbound Pacifica",1,205,81
+"396",2,247,"Eastbound Delta Fair Kaiser",0,205,78
+"395",2,248,"Loop Antioch BART",0,205,73
+"393",2,249,"Eastbound Brentwood Park & Ride",0,205,70
+"393",2,250,"Westbound Antioch BART",1,205,69
+"392",2,251,"Westbound Pittsburg-Bay Point BART",1,205,71
+"394",2,252,"Eastbound Antioch BART",0,205,68
+"395",2,253,"Loop Antioch BART",0,205,73
+"393",2,254,"Eastbound Brentwood Park & Ride",0,205,70
+"393",2,255,"Westbound Antioch BART",1,205,69
+"394",2,256,"Westbound Pittsburg-Bay Point BART",1,206,74
+"392",2,257,"Eastbound Antioch BART",0,206,62
+"394",2,258,"Westbound Pittsburg-Bay Point BART",1,206,74
+"392",2,259,"Eastbound Antioch BART",0,206,62
+"394",2,260,"Westbound Pittsburg-Bay Point BART",1,206,74
+"392",2,261,"Eastbound Antioch BART",0,206,62
+"396",2,262,"Westbound Pacifica",1,206,81
+"396",2,263,"Eastbound Delta Fair Kaiser",0,206,78
+"392",2,264,"Westbound Pittsburg-Bay Point BART",1,207,71
+"394",2,265,"Eastbound Antioch BART",0,207,68
+"395",2,266,"Loop Antioch BART",0,207,73
+"393",2,267,"Eastbound Brentwood Park & Ride",0,207,70
+"393",2,268,"Westbound Antioch BART",1,207,69
+"394",2,269,"Eastbound Antioch BART",0,207,68
+"394",2,270,"Westbound Pittsburg-Bay Point BART",1,207,74
+"392",2,271,"Eastbound Antioch BART",0,207,62
+"396",2,272,"Eastbound Pittsburg-Bay Point BART",1,207,90
+"394",2,273,"Eastbound Antioch BART",0,208,68
+"394",2,274,"Westbound Pittsburg-Bay Point BART",1,208,74
+"392",2,275,"Eastbound Antioch BART",0,208,62
+"396",2,276,"Westbound Pacifica",1,208,81
+"396",2,277,"Eastbound Delta Fair Kaiser",0,208,78
+"396",2,278,"Westbound Pacifica",1,208,81
+"396",2,279,"Eastbound Delta Fair Kaiser",0,208,78
+"395",2,280,"Loop Antioch BART",0,208,73
+"393",2,281,"Eastbound Brentwood Park & Ride",0,208,70
+"393",2,282,"Westbound Antioch BART",1,208,69
+"393",2,283,"Eastbound Brentwood Park & Ride",0,208,70
+"393",2,284,"Westbound Antioch BART",1,209,69
+"393",2,285,"Eastbound Brentwood Park & Ride",0,209,70
+"393",2,286,"Westbound Antioch BART",1,209,69
+"392",2,287,"Westbound Pittsburg-Bay Point BART",1,209,71
+"394",2,288,"Eastbound Antioch BART",0,209,68
+"395",2,289,"Loop Antioch BART",0,209,73
+"393",2,290,"Eastbound Brentwood Park & Ride",0,209,70
+"393",2,291,"Westbound Antioch BART",1,209,69
+"392",2,292,"Westbound Pittsburg-Bay Point BART",1,209,71
+"392",2,293,"Eastbound Antioch BART",0,209,62
+"392",2,294,"Eastbound Antioch BART",0,210,62
+"396",2,295,"Westbound Pacifica",1,210,81
+"396",2,296,"Eastbound Delta Fair Kaiser",0,210,78
+"395",2,297,"Loop Antioch BART",0,210,73
+"393",2,298,"Eastbound Brentwood Park & Ride",0,210,70
+"393",2,299,"Westbound Antioch BART",1,210,69
+"392",2,300,"Westbound Pittsburg-Bay Point BART",1,210,71
+"394",2,301,"Eastbound Antioch BART",0,210,68
+"395",2,302,"Loop Antioch BART",0,210,73
+"393",2,303,"Eastbound Brentwood Park & Ride",0,210,70
+"393",2,304,"Westbound Antioch BART",1,210,69
+"393",2,305,"Eastbound Brentwood Park & Ride",0,210,70
+"394",2,306,"Westbound Pittsburg-Bay Point BART",1,211,74
+"392",2,307,"Eastbound Antioch BART",0,211,62
+"394",2,308,"Westbound Pittsburg-Bay Point BART",1,211,74
+"392",2,309,"Eastbound Antioch BART",0,211,62
+"394",2,310,"Westbound Pittsburg-Bay Point BART",1,211,74
+"392",2,311,"Eastbound Antioch BART",0,211,62
+"396",2,312,"Westbound Pacifica",1,211,81
+"392",2,313,"Eastbound Antioch BART",0,211,62
+"392",2,314,"Westbound Pittsburg-Bay Point BART",1,212,71
+"394",2,315,"Eastbound Antioch BART",0,212,68
+"395",2,316,"Loop Antioch BART",0,212,73
+"393",2,317,"Eastbound Brentwood Park & Ride",0,212,70
+"393",2,318,"Westbound Antioch BART",1,212,69
+"392",2,319,"Westbound Pittsburg-Bay Point BART",1,212,71
+"394",2,320,"Eastbound Antioch BART",0,212,68
+"392",2,321,"Westbound Pittsburg-Bay Point BART",1,212,71
+"396",2,322,"Eastbound Delta Fair Kaiser",0,212,89
+"396",2,323,"Eastbound Delta Fair Kaiser",0,212,89
+"393",2,324,"Eastbound Brentwood Park & Ride",0,212,70
+"392",2,325,"Eastbound Antioch BART",0,213,87
+"392",2,326,"Eastbound Antioch BART",0,213,87
+"392",2,327,"Westbound Pittsburg-Bay Point BART",1,213,71
+"394",2,328,"Eastbound Antioch BART",0,213,68
+"394",2,329,"Westbound Pittsburg-Bay Point BART",1,213,74
+"392",2,330,"Eastbound Antioch BART",0,213,62
+"394",2,331,"Westbound Pittsburg-Bay Point BART",1,213,74
+"392",2,332,"Eastbound Antioch BART",0,213,62
+"396",2,333,"Westbound Pacifica",1,213,81
+"392",2,334,"Westbound Pittsburg-Bay Point BART",1,214,71
+"394",2,335,"Eastbound Antioch BART",0,214,68
+"394",2,336,"Westbound Pittsburg-Bay Point BART",1,214,74
+"396",2,337,"Westbound Pacifica",1,214,81
+"396",2,338,"Eastbound Delta Fair Kaiser",0,214,78
+"393",3,339,"Westbound Antioch BART",1,301,69
+"394",3,340,"Westbound Pittsburg-Bay Point BART",1,301,74
+"394",3,341,"Eastbound Antioch BART",0,301,68
+"392",3,342,"Westbound Pittsburg-Bay Point BART",1,301,71
+"394",3,343,"Eastbound Antioch BART",0,301,68
+"392",3,344,"Westbound Pittsburg-Bay Point BART",1,301,71
+"394",3,345,"Eastbound Antioch BART",0,301,68
+"392",3,346,"Westbound Pittsburg-Bay Point BART",1,301,71
+"392",3,347,"Eastbound Antioch BART",0,301,62
+"396",3,348,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,349,"Westbound Pacifica",1,302,81
+"396",3,350,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,351,"Westbound Pacifica",1,302,81
+"396",3,352,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,353,"Westbound Pacifica",1,302,81
+"396",3,354,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,355,"Westbound Pacifica",1,302,81
+"396",3,356,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,357,"Westbound Pacifica",1,302,81
+"396",3,358,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,359,"Westbound Pacifica",1,302,81
+"396",3,360,"Eastbound Delta Fair Kaiser",0,302,78
+"396",3,361,"Westbound Pacifica",1,302,81
+"396",3,362,"Westbound Pacifica",1,303,81
+"396",3,363,"Eastbound Delta Fair Kaiser",0,303,78
+"393",3,364,"Eastbound Brentwood Park & Ride",0,303,70
+"393",3,365,"Westbound Antioch BART",1,303,69
+"394",3,366,"Westbound Pittsburg-Bay Point BART",1,303,74
+"392",3,367,"Eastbound Antioch BART",0,303,62
+"395",3,368,"Loop Antioch BART",0,303,73
+"393",3,369,"Eastbound Brentwood Park & Ride",0,303,70
+"393",3,370,"Westbound Antioch BART",1,303,69
+"394",3,371,"Westbound Pittsburg-Bay Point BART",1,303,74
+"392",3,372,"Eastbound Antioch BART",0,303,62
+"392",3,373,"Eastbound Antioch BART",0,303,62
+"393",3,374,"Westbound Antioch BART",1,304,69
+"394",3,375,"Westbound Pittsburg-Bay Point BART",1,304,74
+"392",3,376,"Eastbound Antioch BART",0,304,62
+"395",3,377,"Loop Antioch BART",0,304,73
+"393",3,378,"Eastbound Brentwood Park & Ride",0,304,70
+"393",3,379,"Westbound Antioch BART",1,304,69
+"394",3,380,"Westbound Pittsburg-Bay Point BART",1,304,74
+"392",3,381,"Eastbound Antioch BART",0,304,62
+"395",3,382,"Loop Antioch BART",0,304,73
+"392",3,383,"Westbound Pittsburg-Bay Point BART",1,305,71
+"394",3,384,"Eastbound Antioch BART",0,305,68
+"392",3,385,"Westbound Pittsburg-Bay Point BART",1,305,71
+"394",3,386,"Eastbound Antioch BART",0,305,68
+"392",3,387,"Westbound Pittsburg-Bay Point BART",1,305,71
+"394",3,388,"Eastbound Antioch BART",0,305,68
+"392",3,389,"Westbound Pittsburg-Bay Point BART",1,305,71
+"392",3,390,"Eastbound Antioch BART",0,306,87
+"393",3,391,"Westbound Antioch BART",1,306,69
+"394",3,392,"Westbound Pittsburg-Bay Point BART",1,306,74
+"392",3,393,"Eastbound Antioch BART",0,306,62
+"395",3,394,"Loop Antioch BART",0,306,73
+"393",3,395,"Eastbound Brentwood Park & Ride",0,306,70
+"393",3,396,"Westbound Antioch BART",1,306,69
+"394",3,397,"Westbound Pittsburg-Bay Point BART",1,306,74
+"392",3,398,"Eastbound Antioch BART",0,306,62
+"394",3,399,"Eastbound Antioch BART",0,307,68
+"392",3,400,"Westbound Pittsburg-Bay Point BART",1,307,71
+"394",3,401,"Eastbound Antioch BART",0,307,68
+"392",3,402,"Westbound Pittsburg-Bay Point BART",1,307,71
+"394",3,403,"Eastbound Antioch BART",0,307,68
+"394",3,404,"Eastbound Antioch BART",0,307,68
+"392",3,405,"Westbound Pittsburg-Bay Point BART",1,307,71
+"396",3,406,"Eastbound Delta Fair Kaiser",0,307,89
+"392",3,407,"Eastbound Antioch BART",0,308,62
+"395",3,408,"Loop Antioch BART",0,308,73
+"393",3,409,"Eastbound Brentwood Park & Ride",0,308,70
+"393",3,410,"Westbound Antioch BART",1,308,69
+"394",3,411,"Westbound Pittsburg-Bay Point BART",1,308,74
+"392",3,412,"Eastbound Antioch BART",0,308,62
+"395",3,413,"Loop Antioch BART",0,308,73
+"393",3,414,"Eastbound Brentwood Park & Ride",0,308,70
+"393",3,415,"Westbound Antioch BART",1,308,69
+"393",3,416,"Eastbound Brentwood Park & Ride",0,308,70
+"393",3,417,"Westbound Antioch BART",1,308,69
+"393",3,418,"Eastbound Brentwood Park & Ride",0,308,70
+"393",3,419,"Eastbound Brentwood Park & Ride",0,308,70
+"392",3,420,"Westbound Pittsburg-Bay Point BART",1,309,71
+"394",3,421,"Eastbound Antioch BART",0,309,68
+"392",3,422,"Westbound Pittsburg-Bay Point BART",1,309,71
+"394",3,423,"Eastbound Antioch BART",0,309,68
+"392",3,424,"Westbound Pittsburg-Bay Point BART",1,309,71
+"394",3,425,"Eastbound Antioch BART",0,309,68
+"395",3,426,"Loop Antioch BART",0,309,73
+"392",3,427,"Eastbound Antioch BART",0,310,87
+"396",3,428,"Westbound Pacifica",1,310,81
+"396",3,429,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,430,"Westbound Pacifica",1,310,81
+"396",3,431,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,432,"Westbound Pacifica",1,310,81
+"396",3,433,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,434,"Westbound Pacifica",1,310,81
+"396",3,435,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,436,"Westbound Pacifica",1,310,81
+"396",3,437,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,438,"Westbound Pacifica",1,310,81
+"396",3,439,"Eastbound Delta Fair Kaiser",0,310,78
+"396",3,440,"Eastbound Pittsburg-Bay Point BART",1,310,90
+"396",3,441,"Eastbound Delta Fair Kaiser",0,310,89
+"393",3,442,"Eastbound Brentwood Park & Ride",0,311,70
+"393",3,443,"Westbound Antioch BART",1,311,69
+"394",3,444,"Westbound Pittsburg-Bay Point BART",1,311,74
+"392",3,445,"Eastbound Antioch BART",0,311,62
+"395",3,446,"Loop Antioch BART",0,311,73
+"393",3,447,"Eastbound Brentwood Park & Ride",0,311,70
+"393",3,448,"Westbound Antioch BART",1,311,69
+"394",3,449,"Westbound Pittsburg-Bay Point BART",1,311,74
+"392",3,450,"Eastbound Antioch BART",0,311,62
+"392",3,451,"Eastbound Antioch BART",0,312,62
+"395",3,452,"Loop Antioch BART",0,312,73
+"393",3,453,"Eastbound Brentwood Park & Ride",0,312,70
+"393",3,454,"Westbound Antioch BART",1,312,69
+"394",3,455,"Westbound Pittsburg-Bay Point BART",1,312,74
+"392",3,456,"Eastbound Antioch BART",0,312,62
+"395",3,457,"Loop Antioch BART",0,312,73
+"393",3,458,"Eastbound Brentwood Park & Ride",0,313,70
+"393",3,459,"Westbound Antioch BART",1,313,69
+"394",3,460,"Westbound Pittsburg-Bay Point BART",1,313,74
+"392",3,461,"Eastbound Antioch BART",0,313,62
+"395",3,462,"Loop Antioch BART",0,313,73
+"393",3,463,"Eastbound Brentwood Park & Ride",0,313,70
+"393",3,464,"Westbound Antioch BART",1,313,69
+"393",3,465,"Eastbound Brentwood Park & Ride",0,313,70
+"393",3,466,"Westbound Antioch BART",1,313,69
+"393",3,467,"Eastbound Brentwood Park & Ride",0,313,70
+"391",1,468,"Westbound Pittsburg Center BART",1,112,47
+"391",1,469,"Eastbound Brentwood Park & Ride",0,112,48
+"300",1,470,"Westbound Antioch BART",1,113,26
+"385",1,471,"Westbound Antioch BART",1,113,42
+"300",1,472,"Eastbound Brentwood Park & Ride",0,113,27
+"384",1,473,"Westbound Antioch BART",1,113,45
+"383",1,474,"Westbound Tri Delta Transit",1,114,85
+"390",1,475,"Westbound Pittsburg-Bay Point BART",1,114,16
+"388",1,476,"Westbound Pittsburg-Bay Point BART",1,115,60
+"387",1,477,"Eastbound Antioch BART",0,115,52
+"300",1,478,"Eastbound Brentwood Park & Ride",0,115,27
+"384",1,479,"Eastbound Brentwood Park & Ride",0,115,46
+"383",1,480,"Westbound Tri Delta Transit",1,115,85
+"383",1,481,"Eastbound Blue Goose Park",0,115,84
+"384",1,482,"Westbound Antioch BART",1,115,45
+"380",1,483,"Westbound Pittsburg-Bay Point BART",1,115,49
+"201",1,484,"Westbound Concord BART",1,115,8
+"201",1,485,"Eastbound Pittsburg-Bay Point BART",0,115,9
+"387",1,486,"Eastbound Antioch BART",0,115,52
+"384",1,487,"Eastbound Brentwood Park & Ride",0,115,46
+"300",1,488,"Westbound Antioch BART",1,116,26
+"380",1,489,"Westbound Pittsburg-Bay Point BART",1,116,49
+"385",1,490,"Eastbound Brentwood Park & Ride",0,116,44
+"391",1,491,"Westbound Pittsburg Center BART",1,116,47
+"201",1,492,"Westbound Concord BART",1,116,8
+"201",1,493,"Eastbound Pittsburg-Bay Point BART",0,116,9
+"380",1,494,"Eastbound Antioch BART",0,117,50
+"300",1,495,"Eastbound Brentwood Park & Ride",0,117,27
+"300",1,496,"Westbound Antioch BART",1,117,26
+"387",1,497,"Westbound Pittsburg-Bay Point BART",1,117,55
+"380",1,498,"Eastbound Antioch BART",0,117,32
+"380",1,499,"Westbound Pittsburg-Bay Point BART",1,117,49
+"387",1,500,"Eastbound Antioch BART",0,117,52
+"380",1,501,"Westbound Pittsburg-Bay Point BART",1,117,49
+"390",1,502,"Eastbound Antioch BART",0,117,7
+"300",1,503,"Eastbound Brentwood Park & Ride",0,117,27
+"380",1,504,"Westbound Pittsburg-Bay Point BART",1,118,49
+"389",1,505,"Loop Pittsburg-Bay Point BART",0,118,63
+"388",1,506,"Eastbound Kaiser",0,118,54
+"390",1,507,"Westbound Pittsburg-Bay Point BART",1,119,16
+"387",1,508,"Eastbound Antioch BART",0,119,52
+"384",1,509,"Eastbound Brentwood Park & Ride",0,119,46
+"383",1,510,"Westbound Tri Delta Transit",1,119,85
+"383",1,511,"Eastbound Blue Goose Park",0,119,84
+"384",1,512,"Westbound Antioch BART",1,119,45
+"201",1,513,"Westbound Concord BART",1,119,8
+"200",1,514,"Westbound Amtrak",1,119,10
+"200",1,515,"Eastbound Pittsburg-Bay Point BART",0,119,11
+"380",1,516,"Eastbound Antioch BART",0,119,32
+"384",1,517,"Eastbound Brentwood Park & Ride",0,119,46
+"391",1,518,"Westbound Pittsburg Center BART",1,119,47
+"389",1,519,"Loop Pittsburg-Bay Point BART",0,120,63
+"380",1,520,"Eastbound Antioch BART",0,120,32
+"300",1,521,"Eastbound Brentwood Park & Ride",0,120,27
+"391",1,522,"Westbound Pittsburg Center BART",1,120,47
+"200",1,523,"Westbound Amtrak",1,120,10
+"200",1,524,"Eastbound Pittsburg-Bay Point BART",0,120,11
+"387",1,525,"Eastbound Antioch BART",0,120,52
+"380",1,526,"Westbound Pittsburg-Bay Point BART",1,120,49
+"390",1,527,"Eastbound Antioch BART",0,120,7
+"300",1,528,"Eastbound Brentwood Park & Ride",0,120,27
+"391",1,529,"Westbound Pittsburg Center BART",1,121,47
+"388",1,530,"Eastbound Kaiser",0,121,54
+"201",1,531,"Westbound Concord BART",1,122,8
+"388",1,532,"Westbound Pittsburg-Bay Point BART",1,123,60
+"380",1,533,"Eastbound Antioch BART",0,123,32
+"385",1,534,"Eastbound Brentwood Park & Ride",0,123,44
+"391",1,535,"Westbound Pittsburg Center BART",1,123,47
+"200",1,536,"Westbound Amtrak",1,123,10
+"200",1,537,"Eastbound Pittsburg-Bay Point BART",0,123,11
+"300",1,538,"Westbound Antioch BART",1,124,26
+"380",1,539,"Westbound Pittsburg-Bay Point BART",1,124,49
+"387",1,540,"Eastbound Antioch BART",0,124,52
+"388",1,541,"Westbound Pittsburg-Bay Point BART",1,124,60
+"389",1,542,"Loop Pittsburg-Bay Point BART",0,124,63
+"380",1,543,"Eastbound Antioch BART",0,124,32
+"300",1,544,"Eastbound Brentwood Park & Ride",0,124,27
+"391",1,545,"Westbound Pittsburg Center BART",1,124,47
+"201",1,546,"Westbound Concord BART",1,124,8
+"201",1,547,"Eastbound Pittsburg-Bay Point BART",0,124,9
+"384",1,548,"Westbound Antioch BART",1,125,23
+"387",1,549,"Westbound Pittsburg-Bay Point BART",1,125,55
+"200",1,550,"Westbound Amtrak",1,125,10
+"200",1,551,"Eastbound Pittsburg-Bay Point BART",0,125,11
+"387",1,552,"Westbound Pittsburg-Bay Point BART",1,125,55
+"388",1,553,"Eastbound Kaiser",0,125,54
+"388",1,554,"Westbound Pittsburg-Bay Point BART",1,125,60
+"391",1,555,"Eastbound Brentwood Park & Ride",0,125,48
+"381",1,556,"Eastbound Los Medanos College",0,126,22
+"381",1,557,"Westbound Pittsburg Marina",1,126,28
+"381",1,558,"Eastbound Los Medanos College",0,126,22
+"381",1,559,"Westbound Pittsburg Marina",1,126,28
+"381",1,560,"Eastbound Los Medanos College",0,126,22
+"381",1,561,"Westbound Pittsburg Marina",1,126,28
+"381",1,562,"Eastbound Los Medanos College",0,126,22
+"381",1,563,"Westbound Pittsburg Marina",1,126,28
+"381",1,564,"Eastbound Los Medanos College",0,126,22
+"381",1,565,"Westbound Pittsburg Marina",1,126,28
+"381",1,566,"Eastbound Los Medanos College",0,126,22
+"381",1,567,"Westbound Pittsburg Marina",1,126,28
+"381",1,568,"Eastbound Los Medanos College",0,126,22
+"381",1,569,"Westbound Pittsburg Marina",1,126,28
+"381",1,570,"Eastbound Los Medanos College",0,126,22
+"381",1,571,"Westbound Pittsburg Marina",1,126,28
+"381",1,572,"Eastbound Los Medanos College",0,126,22
+"381",1,573,"Westbound Pittsburg Marina",1,126,28
+"381",1,574,"Eastbound Los Medanos College",0,126,22
+"381",1,575,"Westbound Pittsburg Marina",1,126,28
+"381",1,576,"Eastbound Los Medanos College",0,126,22
+"381",1,577,"Westbound Pittsburg Marina",1,126,28
+"381",1,578,"Eastbound Los Medanos College",0,126,22
+"381",1,579,"Westbound Pittsburg Marina",1,126,28
+"381",1,580,"Eastbound Los Medanos College",0,126,22
+"381",1,581,"Westbound Pittsburg Marina",1,126,28
+"380",1,582,"Westbound Pittsburg-Bay Point BART",1,127,49
+"380",1,583,"Eastbound Antioch BART",0,127,32
+"390",1,584,"Westbound Pittsburg-Bay Point BART",1,128,16
+"201",1,585,"Westbound Concord BART",1,128,8
+"201",1,586,"Eastbound Pittsburg-Bay Point BART",0,128,9
+"391",1,587,"Eastbound Brentwood Park & Ride",0,128,48
+"201",1,588,"Westbound Concord BART",1,128,8
+"201",1,589,"Eastbound Pittsburg-Bay Point BART",0,128,9
+"388",1,590,"Eastbound Kaiser",0,128,54
+"388",1,591,"Westbound Pittsburg-Bay Point BART",1,128,60
+"201",1,592,"Westbound Concord BART",1,128,8
+"201",1,593,"Eastbound Pittsburg-Bay Point BART",0,128,9
+"380",1,594,"Eastbound Antioch BART",0,128,32
+"380",1,595,"Westbound Pittsburg-Bay Point BART",1,128,49
+"391",1,596,"Eastbound Brentwood Park & Ride",0,128,48
+"201",1,597,"Westbound Concord BART",1,129,8
+"201",1,598,"Eastbound Pittsburg-Bay Point BART",0,129,9
+"391",1,599,"Eastbound Brentwood Park & Ride",0,129,48
+"385",1,600,"Westbound Antioch BART",1,129,42
+"380",1,601,"Westbound Pittsburg-Bay Point BART",1,129,49
+"388",1,602,"Eastbound Kaiser",0,129,54
+"384",1,603,"Eastbound Brentwood Park & Ride",0,129,46
+"300",1,604,"Westbound Antioch BART",1,129,26
+"380",1,605,"Westbound Pittsburg-Bay Point BART",1,129,49
+"390",1,606,"Eastbound Antioch BART",0,129,7
+"381",1,607,"Westbound Pittsburg Marina",1,130,28
+"381",1,608,"Eastbound Los Medanos College",0,130,22
+"381",1,609,"Westbound Pittsburg Marina",1,130,28
+"381",1,610,"Eastbound Los Medanos College",0,130,22
+"381",1,611,"Westbound Pittsburg Marina",1,130,28
+"381",1,612,"Eastbound Los Medanos College",0,130,22
+"381",1,613,"Westbound Pittsburg Marina",1,130,28
+"381",1,614,"Eastbound Los Medanos College",0,130,22
+"381",1,615,"Westbound Pittsburg Marina",1,130,28
+"381",1,616,"Eastbound Los Medanos College",0,130,22
+"381",1,617,"Westbound Pittsburg Marina",1,130,28
+"381",1,618,"Eastbound Los Medanos College",0,130,22
+"381",1,619,"Westbound Pittsburg Marina",1,130,28
+"381",1,620,"Eastbound Los Medanos College",0,130,22
+"381",1,621,"Westbound Pittsburg Marina",1,130,28
+"381",1,622,"Eastbound Los Medanos College",0,130,22
+"381",1,623,"Westbound Pittsburg Marina",1,130,28
+"381",1,624,"Eastbound Los Medanos College",0,130,22
+"381",1,625,"Westbound Pittsburg Marina",1,130,28
+"381",1,626,"Eastbound Los Medanos College",0,130,22
+"381",1,627,"Westbound Pittsburg Marina",1,130,28
+"381",1,628,"Eastbound Los Medanos College",0,130,22
+"381",1,629,"Westbound Pittsburg Marina",1,130,28
+"381",1,630,"Eastbound Los Medanos College",0,130,22
+"381",1,631,"Westbound Pittsburg Marina",1,130,28
+"381",1,632,"Eastbound Los Medanos College",0,130,22
+"300",1,633,"Westbound Antioch BART",1,131,26
+"384",1,634,"Eastbound Brentwood Park & Ride",0,131,46
+"391",1,635,"Westbound Pittsburg Center BART",1,131,47
+"385",1,636,"Westbound Antioch BART",1,131,42
+"387",1,637,"Westbound Pittsburg-Bay Point BART",1,131,55
+"380",1,638,"Eastbound Antioch BART",0,131,32
+"385",1,639,"Westbound Antioch BART",1,131,42
+"300",1,640,"Westbound Antioch BART",1,131,26
+"383",1,641,"Eastbound Blue Goose Park",0,131,84
+"381",1,642,"Eastbound Los Medanos College",0,132,22
+"381",1,643,"Westbound Pittsburg Marina",1,132,28
+"381",1,644,"Eastbound Los Medanos College",0,132,22
+"383",1,645,"Eastbound Blue Goose Park",0,132,84
+"384",1,646,"Westbound Antioch BART",1,132,45
+"388",1,647,"Westbound Pittsburg-Bay Point BART",1,133,60
+"391",1,648,"Eastbound Brentwood Park & Ride",0,133,48
+"383",1,649,"Eastbound Blue Goose Park",0,134,84
+"391",1,650,"Westbound Pittsburg Center BART",1,134,47
+"381",1,651,"Westbound Pittsburg Marina",1,135,28
+"381",1,652,"Eastbound Los Medanos College",0,135,22
+"381",1,653,"Westbound Pittsburg Marina",1,135,28
+"388",1,654,"Eastbound Kaiser",0,135,54
+"300",1,655,"Westbound Antioch BART",1,136,26
+"380",1,656,"Westbound Pittsburg-Bay Point BART",1,136,49
+"387",1,657,"Eastbound Antioch BART",0,136,52
+"385",1,658,"Eastbound Brentwood Park & Ride",0,136,44
+"391",1,659,"Westbound Pittsburg Center BART",1,136,47
+"200",1,660,"Westbound Amtrak",1,136,10
+"200",1,661,"Eastbound Pittsburg-Bay Point BART",0,136,11
+"380",1,662,"Eastbound Antioch BART",0,136,32
+"391",1,663,"Eastbound Brentwood Park & Ride",0,136,48
+"389",1,664,"Loop Pittsburg-Bay Point BART",0,137,63
+"201",1,665,"Westbound Concord BART",1,137,8
+"200",1,666,"Westbound Amtrak",1,137,10
+"200",1,667,"Eastbound Pittsburg-Bay Point BART",0,137,11
+"389",1,668,"Loop Pittsburg-Bay Point BART",0,137,63
+"380",1,669,"Eastbound Antioch BART",0,137,32
+"387",1,670,"Westbound Pittsburg-Bay Point BART",1,137,55
+"389",1,671,"Loop Pittsburg-Bay Point BART",0,137,63
+"380",1,672,"Eastbound Antioch BART",0,137,32
+"300",1,673,"Eastbound Brentwood Park & Ride",0,137,27
+"391",1,674,"Westbound Pittsburg Center BART",1,138,47
+"389",1,675,"Loop Pittsburg-Bay Point BART",0,138,63
+"384",1,676,"Westbound Antioch BART",1,139,23
+"380",1,677,"Westbound Pittsburg-Bay Point BART",1,139,49
+"385",1,678,"Eastbound Brentwood Park & Ride",0,140,44
+"300",1,679,"Westbound Antioch BART",1,140,26
+"388",1,680,"Westbound Pittsburg-Bay Point BART",1,140,60
+"383",1,681,"Westbound Tri Delta Transit",1,141,85
+"300",1,682,"Eastbound Brentwood Park & Ride",0,141,27
+"387",1,683,"Westbound Pittsburg-Bay Point BART",1,141,55
+"388",1,684,"Eastbound Kaiser",0,141,54
+"387",1,685,"Westbound Pittsburg-Bay Point BART",1,141,55
+"201",1,686,"Westbound Concord BART",1,141,8
+"201",1,687,"Eastbound Pittsburg-Bay Point BART",0,141,9
+"200",1,688,"Westbound Amtrak",1,141,10
+"200",1,689,"Eastbound Pittsburg-Bay Point BART",0,141,11
+"390",1,690,"Eastbound Antioch BART",0,141,7
+"385",1,691,"Westbound Antioch BART",1,142,41
+"388",1,692,"Westbound Pittsburg-Bay Point BART",1,142,60
+"391",1,693,"Eastbound Brentwood Park & Ride",0,142,48
+"385",1,694,"Westbound Antioch BART",1,142,42
+"389",1,695,"Loop Pittsburg-Bay Point BART",0,142,63
+"201",1,696,"Westbound Concord BART",1,142,8
+"201",1,697,"Eastbound Pittsburg-Bay Point BART",0,142,9
+"389",1,698,"Loop Pittsburg-Bay Point BART",0,142,63
+"201",1,699,"Westbound Concord BART",1,142,8
+"201",1,700,"Eastbound Pittsburg-Bay Point BART",0,142,9
+"390",1,701,"Westbound Pittsburg-Bay Point BART",1,143,16
+"388",1,702,"Eastbound Kaiser",0,143,54
+"388",1,703,"Westbound Pittsburg-Bay Point BART",1,143,60
+"384",1,704,"Eastbound Brentwood Park & Ride",0,143,46
+"383",1,705,"Westbound Tri Delta Transit",1,143,85
+"383",1,706,"Eastbound Blue Goose Park",0,143,84
+"384",1,707,"Westbound Antioch BART",1,143,45
+"380",1,708,"Westbound Pittsburg-Bay Point BART",1,143,49
+"380",1,709,"Eastbound Antioch BART",0,143,32
+"385",1,710,"Eastbound Brentwood Park & Ride",0,144,43
+"300",1,711,"Westbound Antioch BART",1,144,26
+"380",1,712,"Westbound Pittsburg-Bay Point BART",1,144,49
+"387",1,713,"Eastbound Antioch BART",0,144,52
+"385",1,714,"Eastbound Brentwood Park & Ride",0,144,44
+"391",1,715,"Westbound Pittsburg Center BART",1,144,47
+"387",1,716,"Westbound Pittsburg-Bay Point BART",1,144,55
+"201",1,717,"Westbound Concord BART",1,144,8
+"201",1,718,"Eastbound Pittsburg-Bay Point BART",0,144,9
+"388",1,719,"Eastbound Kaiser",0,144,54
+"390",1,720,"Westbound Pittsburg-Bay Point BART",1,145,16
+"201",1,721,"Westbound Concord BART",1,145,8
+"201",1,722,"Eastbound Pittsburg-Bay Point BART",0,145,9
+"388",1,723,"Eastbound Kaiser",0,145,54
+"383",1,724,"Eastbound Blue Goose Park",0,146,84
+"383",1,725,"Westbound Tri Delta Transit",1,146,85
+"383",1,726,"Eastbound Blue Goose Park",0,146,84
+"384",1,727,"Westbound Antioch BART",1,146,45
+"384",1,728,"Eastbound Brentwood Park & Ride",0,146,46
+"383",1,729,"Westbound Tri Delta Transit",1,146,85
+"391",1,730,"Eastbound Brentwood Park & Ride",0,146,48
+"385",1,731,"Westbound Antioch BART",1,146,42
+"380",1,732,"Eastbound Antioch BART",0,147,50
+"380",1,733,"Westbound Pittsburg-Bay Point BART",1,147,49
+"379",1,766,"Eastbound Kaiser",0,148,25
+"380",1,770,"Westbound Pittsburg-Bay Point BART",1,148,49
+"388",1,776,"Eastbound Kaiser",0,148,54
+"388",1,790,"Westbound Pittsburg-Bay Point BART",1,148,60

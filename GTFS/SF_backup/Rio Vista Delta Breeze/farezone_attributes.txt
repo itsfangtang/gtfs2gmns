@@ -1,0 +1,3 @@
+zone_id,zone_name
+198,Local
+199,Intercity
