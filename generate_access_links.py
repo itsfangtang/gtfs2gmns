@@ -1,7 +1,7 @@
 # Date: Feb 25, 2024
 # Fang Tang, tangfang@gmail.com
 
-# This code is to fix some connectivity issues based on Xiangyong's function of generate_access_link
+# This code is to fix some connectivity issues based on released gtfs2gmns 0.1.8
 
 import os
 import pandas as pd
