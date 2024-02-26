@@ -1,0 +1,3 @@
+rider_category_id,rider_category_description
+5,Youth
+2,Senior

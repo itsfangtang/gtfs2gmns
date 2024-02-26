@@ -1,0 +1,37 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
+2573255,71092,,Cotati SMART,The station is located at 980 East Cotati Ave. It is adjacent to the Sonoma County Transit Intermodal Transit Facility.,38.3309356992263,-122.691054151434,2430,https://www.sonomamarintrain.org/stations/COT,0,3478101,,,,1,Cotati SMART Station
+2573256,71032,,Marin Civic Center SMART,The station is located at 3801 Civic Center Drive.,38.0012396295314,-122.537763819005,2428,https://www.sonomamarintrain.org/stations/MCC,0,3478106,,,,1,Marin Civic Center SMART Station
+2573257,71042,,Novato Hamilton SMART,The station is located at 10 Main Gate Road Novato CA.,38.05628165747,-122.523872910292,2427,https://www.sonomamarintrain.org/stations/HAM,0,3478105,,,,1,Novato Hamilton SMART Station
+2573258,71062,,Novato San Marin SMART,The station is located at 7700 Redwood Blvd Novato CA.,38.1208796869184,-122.566061523732,2427,https://www.sonomamarintrain.org/stations/NSM,0,3478103,,,,1,Novato San Marin SMART Station
+2573259,71072,,Petaluma Downtown SMART,The station is located at 220 Lakeville Street Petaluma CA.,38.2372555775185,-122.634812403603,2430,https://www.sonomamarintrain.org/stations/PET,0,3478102,,,,1,Petaluma Downtown SMART Station
+2573260,71102,,Rohnert Park SMART,The station is located at 900 Enterprise Drive Rohnert Park CA. It cannot be accessed via Rohnert Park Expressway.,38.3470971900444,-122.701030451881,2430,https://www.sonomamarintrain.org/stations/RPK,0,3478100,,,,1,Rohnert Park SMART Station
+2573261,71022,,San Rafael SMART,The station is located at 680 3rd Street San Rafael CA. The Bettini Transit Center is located one block away from this station.,37.971995,-122.5228,2428,https://www.sonomamarintrain.org/stations/DSR,0,3478107,,,,1,San Rafael SMART Station
+2573262,71112,,Santa Rosa Downtown SMART,The station is located at 7 4th Street Santa Rosa CA.,38.4375828137211,-122.721767620114,2431,https://www.sonomamarintrain.org/stations/SRD,0,3478099,,,,1,Santa Rosa Downtown SMART Station
+2573263,71122,,Santa Rosa North SMART,"The station is located at 1500 Guerneville Road, Santa Rosa CA.",38.4552197905623,-122.736450449671,2431,https://www.sonomamarintrain.org/stations/SRN,0,3478098,,,,1,Santa Rosa North SMART Station
+2573264,71132,,Sonoma County Airport SMART,The station is located at 1130 Airport Blvd Santa Rosa CA.,38.5098174161125,-122.784080761671,2429,https://www.sonomamarintrain.org/stations/SCA,0,3478094,,,,1,Sonoma County Airport SMART Station
+2574328,71012,,Larkspur SMART,,37.9478048434154,-122.512488321719,2428,https://sonomamarintrain.org/stations/LAR,0,3478108,,,,1,Larkspur SMART Station
+2574329,71052,,Novato Downtown SMART,,38.105984502833,-122.564435384532,2427,https://www.sonomamarintrain.org/node/57,0,3478104,,,,1,Novato Downtown SMART Station
+3478082,71011,,Larkspur SMART,,37.947812833882,-122.512482503961,2428,https://sonomamarintrain.org/stations/LAR,0,3478108,,,,1,Larkspur SMART Station
+3478083,71021,,San Rafael SMART,The station is located at 680 3rd Street San Rafael CA. The Bettini Transit Center is located one block away from this station.,37.971973,-122.522665,2428,https://www.sonomamarintrain.org/stations/DSR,0,3478107,,,,1,San Rafael SMART Station
+3478084,71031,,Marin Civic Center SMART,The station is located at 3801 Civic Center Drive.,38.0012474040891,-122.537755575778,2428,https://www.sonomamarintrain.org/stations/MCC,0,3478106,,,,1,Marin Civic Center SMART Station
+3478085,71041,,Novato Hamilton SMART,"The station is located at 10 Main Gate Road, Novato CA.",38.0562891187325,-122.523876227939,2427,https://www.sonomamarintrain.org/stations/HAM,0,3478105,,,,1,Novato Hamilton SMART Station
+3478086,71051,,Novato Downtown SMART,,38.1059899507946,-122.564439886879,2427,https://www.sonomamarintrain.org/node/57,0,3478104,,,,1,Novato Downtown SMART Station
+3478087,71061,,Novato San Marin SMART,"The station is located at 7700 Redwood Blvd, Novato CA.",38.1209170888991,-122.566055902658,2427,https://www.sonomamarintrain.org/stations/NSM,0,3478103,,,,1,Novato San Marin SMART Station
+3478088,71071,,Petaluma Downtown SMART,"220 Lakeville Street, Petaluma CA.",38.2372631382825,-122.634825405468,2430,https://www.sonomamarintrain.org/stations/PET,0,3478102,,,,1,Petaluma Downtown SMART Station
+3478089,71091,,Cotati SMART,The station is located at 980 East Cotati Ave. It is adjacent to the Sonoma County Transit Intermodal Transit Facility.,38.3310744246866,-122.690985056639,2430,https://www.sonomamarintrain.org/stations/COT,0,3478101,,,,1,Cotati SMART Station
+3478090,71101,,Rohnert Park SMART,The station is located at 900 Enterprise Drive Rohnert Park CA. It cannot be accessed via Rohnert Park Expressway.,38.3471143695154,-122.701041055381,2430,https://www.sonomamarintrain.org/stations/RPK,0,3478100,,,,1,Rohnert Park SMART Station
+3478091,71111,,Santa Rosa Downtown SMART,"The station is located at 7 4th Street, Santa Rosa CA.",38.4375840321458,-122.721762602364,2431,https://www.sonomamarintrain.org/stations/SRD,0,3478099,,,,1,Santa Rosa Downtown SMART Station
+3478092,71121,,Santa Rosa North SMART,"The station is located at 1500 Guerneville Road, Santa Rosa CA.",38.4552215885436,-122.736446933031,2431,https://www.sonomamarintrain.org/stations/SRN,0,3478098,,,,1,Santa Rosa North SMART Station
+3478093,71131,,Sonoma County Airport SMART,"The station is located at 1130 Airport Blvd, Santa Rosa CA.",38.5098213264756,-122.784084713371,2429,https://www.sonomamarintrain.org/stations/SCA,0,3478094,,,,1,Sonoma County Airport SMART Station
+3478094,7113,,SMART Sonoma County Airport,,38.5098204071145,-122.784080480097,2429,https://www.sonomamarintrain.org/stations/SCA,1,,America/Los_Angeles,,,1,
+3478098,7112,,SMART Santa Rosa North,,38.4552277799208,-122.736454032904,2431,https://www.sonomamarintrain.org/stations/SRN,1,,America/Los_Angeles,,,1,
+3478099,7111,,SMART Santa Rosa Downtown,,38.4375745646252,-122.721760229958,2431,https://www.sonomamarintrain.org/stations/SRD,1,,America/Los_Angeles,,,1,
+3478100,7110,,SMART Rohnert Park,,38.3471019856481,-122.701041610016,2430,https://www.sonomamarintrain.org/stations/RPK,1,,America/Los_Angeles,,,1,
+3478101,7109,,SMART Cotati,,38.3309596816122,-122.691079530358,2430,https://www.sonomamarintrain.org/stations/COT,1,,America/Los_Angeles,,,1,
+3478102,7107,,SMART Petaluma Downtown,"220 Lakeville Street, Petaluma CA.",38.237251053602,-122.63482660554,2430,https://www.sonomamarintrain.org/stations/PET,1,,America/Los_Angeles,,,1,
+3478103,7106,,SMART Novato San Marin,,38.1209036930315,-122.56607122738,2427,https://www.sonomamarintrain.org/stations/NSM,1,,America/Los_Angeles,,,1,
+3478104,7105,,SMART Novato Downtown,,38.1059839049208,-122.564447475511,2427,https://www.sonomamarintrain.org/node/57,1,,America/Los_Angeles,,,1,
+3478105,7104,,SMART Novato Hamilton,,38.056288199371,-122.523866792174,2427,https://www.sonomamarintrain.org/stations/HAM,1,,America/Los_Angeles,,,1,
+3478106,7103,,SMART Marin Civic Center,,38.0012488196885,-122.537764174188,2428,https://www.sonomamarintrain.org/stations/MCC,1,,America/Los_Angeles,,,1,
+3478107,7102,,SMART San Rafael,,37.9720021659519,-122.522659185024,2428,https://www.sonomamarintrain.org/stations/DSR,1,,America/Los_Angeles,,,1,
+3478108,7101,,SMART Larkspur,,37.9478085168449,-122.51248526903,2428,https://sonomamarintrain.org/stations/LAR,1,,America/Los_Angeles,,,1,

@@ -1,0 +1,15 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101-248,101,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_101.php",3366FF,FFFFFF
+114-248,114,"Mill Valley - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_4.php",CC3333,FFFFFF
+130-248,130,"San Rafael - San Francisco",,3,"",3366FF,FFFFFF
+132-248,132,"San Anselmo - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_27.php",CC3333,FFFFFF
+150-248,150,"San Rafael - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_70.php",3366FF,FFFFFF
+154-248,154,"Novato - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_54.php",CC3333,FFFFFF
+172-248,172,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_72.php",CC3333,FFFFFF
+580-248,580,"Del Norte BART Station - San Rafael",,3,"http://goldengatetransit.org/schedules/current/route_40.php",3366FF,FFFFFF
+704-248,704,"Del Norte BART Station - San Francisco",,3,"",,FFFFFF
+705-248,705,"Oakland - San Francisco",,3,"",,FFFFFF
+AIF-243,AIF,"Angel Island - San Francisco Ferry",,4,"",0000FF,FFFFFF
+LF-243,LF,"Larkspur - San Francisco Ferry",,4,"http://goldengateferry.org/schedules/Larkspur.php",0000FF,FFFFFF
+SF-243,SF,"Sausalito - San Francisco Ferry",,4,"http://goldengateferry.org/schedules/Sausalito.php",0000FF,FFFFFF
+TF-243,TF,"Tiburon - San Francisco Ferry",,4,"",0000FF,FFFFFF

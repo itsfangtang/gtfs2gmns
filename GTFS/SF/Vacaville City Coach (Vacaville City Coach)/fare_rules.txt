@@ -1,0 +1,6 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+2438,11095,,,
+2438,11096,,,
+2438,11097,,,
+2438,11099,,,
+2438,11100,,,

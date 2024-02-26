@@ -1,0 +1,2 @@
+service_id,service_description
+c_21615_b_30254_d_31,Year Round Calendar with COVID reductions (Weekday)

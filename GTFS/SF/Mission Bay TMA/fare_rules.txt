@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+4443,10992,,,
+4443,6279,,,
+4443,6280,,,
+4443,6283,,,

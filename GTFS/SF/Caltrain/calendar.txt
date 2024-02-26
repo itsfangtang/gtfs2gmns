@@ -1,0 +1,3 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_69888_b_81509_d_96,Year Round starting 9/23/2023 (Weekend),0,0,0,0,0,1,1,20230923,20240601
+c_69888_b_81509_d_31,Year Round starting 9/23/2023 (Weekday),1,1,1,1,1,0,0,20230923,20240601

@@ -1,0 +1,1115 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,2,t258-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t26C-b9-sl2,"1 Mendocino Ave",0,9,2464_shp,0,0
+1,2,t273-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t280-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t287-b9-sl2,"1 Mendocino Ave",1,9,2463_shp,0,0
+1,2,t2BC-b4-sl2,"1 Mendocino Ave",0,4,2464_shp,0,0
+1,2,t2C3-b5-sl2,"1 Mendocino Ave",1,5,2463_shp,0,0
+1,2,t2D0-b6-sl2,"1 Mendocino Ave",0,6,2464_shp,0,0
+1,2,t2D7-b4-sl2,"1 Mendocino Ave",1,4,2463_shp,0,0
+1,2,t2E4-b13-sl2,"1 Mendocino Ave",0,19,2464_shp,0,0
+1,2,t2EB-b6-sl2,"1 Mendocino Ave",1,6,2463_shp,0,0
+1,2,t320-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t327-b13-sl2,"1 Mendocino Ave",1,19,2463_shp,0,0
+1,2,t334-bF-sl2,"1 Mendocino Ave",0,15,2464_shp,0,0
+1,2,t33B-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t34F-bF-sl2,"1 Mendocino Ave",1,15,2463_shp,0,0
+1,2,t384-b3-sl2,"1 Mendocino Ave",0,3,2464_shp,0,0
+1,2,t38B-bD-sl2,"1 Mendocino Ave",1,13,2463_shp,0,0
+1,2,t398-bE-sl2,"1 Mendocino Ave",0,14,2464_shp,0,0
+1,2,t39F-b3-sl2,"1 Mendocino Ave",1,3,2463_shp,0,0
+1,2,t3AC-bB-sl2,"1 Mendocino Ave",0,11,2464_shp,0,0
+1,2,t3B3-bE-sl2,"1 Mendocino Ave",1,14,2463_shp,0,0
+1,2,t3E8-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t3EF-bB-sl2,"1 Mendocino Ave",1,11,2463_shp,0,0
+1,2,t3FC-b1-sl2,"1 Mendocino Ave",0,1,2464_shp,0,0
+1,2,t403-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t410-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t417-b1-sl2,"1 Mendocino Ave",1,1,2463_shp,0,0
+1,2,t44C-bE-sl2,"1 Mendocino Ave",0,14,2464_shp,0,0
+1,2,t453-b10-sl2,"1 Mendocino Ave",1,16,2463_shp,0,0
+1,2,t474-bC-sl2,"1 Mendocino Ave",0,12,2464_shp,0,0
+1,2,t4B0-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t4B7-bC-sl2,"1 Mendocino Ave",1,12,2463_shp,0,0
+1,2,t4C4-b4-sl2,"1 Mendocino Ave",0,4,2464_shp,0,0
+1,2,t4CB-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t4D8-b6-sl2,"1 Mendocino Ave",0,6,2464_shp,0,0
+1,2,t4DF-b4-sl2,"1 Mendocino Ave",1,4,2463_shp,0,0
+1,2,t514-bE-sl2,"1 Mendocino Ave",0,14,2464_shp,0,0
+1,2,t51B-b9-sl2,"1 Mendocino Ave",1,9,2463_shp,0,0
+1,2,t528-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t52F-bE-sl2,"1 Mendocino Ave",1,14,2463_shp,0,0
+1,2,t543-b5-sl2,"1 Mendocino Ave",1,5,2463_shp,0,0
+1,2,t58C-bB-sl2,"1 Mendocino Ave",0,11,2464_shp,0,0
+1,2,t5A0-bE-sl2,"1 Mendocino Ave",0,14,2464_shp,0,0
+1,2,t5A7-bB-sl2,"1 Mendocino Ave",1,11,2463_shp,0,0
+1,2,t5DC-b4-sl2,"1 Mendocino Ave",0,4,2464_shp,0,0
+1,2,t5E3-bE-sl2,"1 Mendocino Ave",1,14,2463_shp,0,0
+1,2,t5F0-bC-sl2,"1 Mendocino Ave",0,12,2464_shp,0,0
+1,2,t5F7-b10-sl2,"1 Mendocino Ave",1,16,2463_shp,0,0
+1,2,t604-b6-sl2,"1 Mendocino Ave",0,6,2464_shp,0,0
+1,2,t60B-bC-sl2,"1 Mendocino Ave",1,12,2463_shp,0,0
+1,2,t640-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t647-b6-sl2,"1 Mendocino Ave",1,6,2463_shp,0,0
+1,2,t654-b1-sl2,"1 Mendocino Ave",0,1,2464_shp,0,0
+1,2,t65B-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t668-b11-sl2,"1 Mendocino Ave",0,17,2464_shp,0,0
+1,2,t66F-b1-sl2,"1 Mendocino Ave",1,1,2463_shp,0,0
+1,2,t6A4-b9-sl2,"1 Mendocino Ave",0,9,2464_shp,0,0
+1,2,t6AB-b11-sl2,"1 Mendocino Ave",1,17,2463_shp,0,0
+1,2,t6B8-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t6BF-b9-sl2,"1 Mendocino Ave",1,9,2463_shp,0,0
+1,2,t6CC-b6-sl2,"1 Mendocino Ave",0,6,2464_shp,0,0
+1,2,t6D3-b5-sl2,"1 Mendocino Ave",1,5,2463_shp,0,0
+1,2,t708-b2-sl2,"1 Mendocino Ave",0,2,2464_shp,0,0
+1,2,t70F-b6-sl2,"1 Mendocino Ave",1,6,2463_shp,0,0
+1,2,t71C-b10-sl2,"1 Mendocino Ave",0,16,2464_shp,0,0
+1,2,t723-b2-sl2,"1 Mendocino Ave",1,2,2463_shp,0,0
+1,2,t730-b1-sl2,"1 Mendocino Ave",0,1,2464_shp,0,0
+1,2,t737-b10-sl2,"1 Mendocino Ave",1,16,2463_shp,0,0
+1,2,t773-bB-sl2,"1 Mendocino Ave",1,11,2463_shp,0,0
+1,2,t780-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t792-b5-sl2,"1 Mendocino Ave",1,5,2463_shp,0,0
+1,2,t7D0-b5-sl2,"1 Mendocino Ave",0,5,2464_shp,0,0
+1,2,t7E2-b5-sl2,"1 Mendocino Ave",1,5,2463_shp,0,0
+1,3,t258-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t26C-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t276-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t28A-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t2BC-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t2D0-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t2DA-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t2EE-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t320-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t334-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t33E-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t352-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t384-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t398-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t3A2-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t3B6-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t3E8-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t3FC-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t406-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t41A-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t44C-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t460-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t46A-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t47E-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t4B0-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t4C4-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t4CE-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t4E2-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t514-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t528-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t532-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t546-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t578-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t58C-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t596-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t5AA-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+20,2,t644-b5-sl2,"2B Sebastopol Rd",1,5,2473_shp,0,0
+20,2,t64F-bC-sl2,"2B Sebastopol Rd",1,12,2483_shp,0,0
+20,2,t662-bC-sl2,"2B Sebastopol Rd",1,12,2473_shp,0,0
+20,2,t66D-bB-sl2,"2B Sebastopol Rd",1,11,2483_shp,0,0
+20,2,t6A8-bB-sl2,"2B Sebastopol Rd",1,11,2473_shp,0,0
+20,2,t6B3-b1-sl2,"2B Sebastopol Rd",1,1,2483_shp,0,0
+20,2,t6C6-b1-sl2,"2B Sebastopol Rd",1,1,2473_shp,0,0
+20,2,t6D1-b8-sl2,"2B Sebastopol Rd",1,8,2483_shp,0,0
+20,2,t70C-b8-sl2,"2B Sebastopol Rd",1,8,2473_shp,0,0
+20,2,t717-b3-sl2,"2B Sebastopol Rd",1,3,2483_shp,0,0
+20,2,t72A-b3-sl2,"2B Sebastopol Rd",1,3,2473_shp,0,0
+20,2,t735-bC-sl2,"2B Sebastopol Rd",1,12,2483_shp,0,0
+20,2,t770-bC-sl2,"2B Sebastopol Rd",1,12,2473_shp,0,0
+20,2,t77B-b9-sl2,"2B Sebastopol Rd",1,9,2483_shp,0,0
+20,2,t78E-b9-sl2,"2B Sebastopol Rd",1,9,2473_shp,0,0
+20,2,t7DF-bC-sl2,"2B Sebastopol Rd",1,12,2483_shp,0,0
+20,2,t7F2-bC-sl2,"2B Sebastopol Rd",1,12,2473_shp,0,0
+20,3,t285-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t2C0-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t2CB-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t2DE-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t2E9-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t324-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t32F-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t342-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t34D-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t388-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t393-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t3A6-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t3B1-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t3EC-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t3F7-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t40A-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t415-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t450-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t45B-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t46E-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t479-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t4B4-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t4BF-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t4D2-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t4DD-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t518-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t523-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t536-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t541-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t57C-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t587-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t59A-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t5A5-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t5E0-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t5EB-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t5FE-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t609-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t644-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t64F-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t662-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t66D-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t6A8-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t6B3-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t6C6-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t6D1-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t70C-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t717-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t72A-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,3,t735-b65-sl3,"2B Sebastopol Rd",1,101,2486_shp,0,0
+20,3,t770-b65-sl3,"2B Sebastopol Rd",1,101,2476_shp,0,0
+20,3,t77B-b68-sl3,"2B Sebastopol Rd",1,104,2486_shp,0,0
+20,3,t78E-b68-sl3,"2B Sebastopol Rd",1,104,2476_shp,0,0
+20,3,t799-b6C-sl3,"2B Sebastopol Rd",1,108,2486_shp,0,0
+20,3,t7D4-b6C-sl3,"2B Sebastopol Rd",1,108,2476_shp,0,0
+20,4,t3F7-bCF-sl4,"2B Sebastopol Rd",1,207,2479_shp,0,0
+20,4,t40A-bCF-sl4,"2B Sebastopol Rd",1,207,2469_shp,0,0
+20,4,t415-bCD-sl4,"2B Sebastopol Rd",1,205,2479_shp,0,0
+20,4,t450-bCD-sl4,"2B Sebastopol Rd",1,205,2469_shp,0,0
+20,4,t45B-bD4-sl4,"2B Sebastopol Rd",1,212,2479_shp,0,0
+20,4,t46E-bD4-sl4,"2B Sebastopol Rd",1,212,2469_shp,0,0
+20,4,t479-bCF-sl4,"2B Sebastopol Rd",1,207,2479_shp,0,0
+20,4,t4B4-bCF-sl4,"2B Sebastopol Rd",1,207,2469_shp,0,0
+20,4,t4BF-bCD-sl4,"2B Sebastopol Rd",1,205,2479_shp,0,0
+20,4,t4D2-bCD-sl4,"2B Sebastopol Rd",1,205,2469_shp,0,0
+20,4,t4DD-bD4-sl4,"2B Sebastopol Rd",1,212,2479_shp,0,0
+20,4,t518-bD4-sl4,"2B Sebastopol Rd",1,212,2469_shp,0,0
+20,4,t523-bCF-sl4,"2B Sebastopol Rd",1,207,2479_shp,0,0
+20,4,t536-bCF-sl4,"2B Sebastopol Rd",1,207,2469_shp,0,0
+20,4,t541-bCD-sl4,"2B Sebastopol Rd",1,205,2479_shp,0,0
+20,4,t57C-bCD-sl4,"2B Sebastopol Rd",1,205,2469_shp,0,0
+20,4,t587-bD4-sl4,"2B Sebastopol Rd",1,212,2479_shp,0,0
+20,4,t59A-bD4-sl4,"2B Sebastopol Rd",1,212,2469_shp,0,0
+20,4,t5A5-bCF-sl4,"2B Sebastopol Rd",1,207,2479_shp,0,0
+20,4,t5E0-bCF-sl4,"2B Sebastopol Rd",1,207,2469_shp,0,0
+20,4,t5EB-bCD-sl4,"2B Sebastopol Rd",1,205,2479_shp,0,0
+20,4,t5FE-bCD-sl4,"2B Sebastopol Rd",1,205,2469_shp,0,0
+20,4,t609-bD4-sl4,"2B Sebastopol Rd",1,212,2479_shp,0,0
+20,4,t644-bD4-sl4,"2B Sebastopol Rd",1,212,2469_shp,0,0
+20,4,t64F-bCF-sl4,"2B Sebastopol Rd",1,207,2479_shp,0,0
+20,4,t662-bCF-sl4,"2B Sebastopol Rd",1,207,2469_shp,0,0
+20,4,t66D-bCD-sl4,"2B Sebastopol Rd",1,205,2479_shp,0,0
+20,4,t6A8-bCD-sl4,"2B Sebastopol Rd",1,205,2469_shp,0,0
+20,4,t6B3-bD4-sl4,"2B Sebastopol Rd",1,212,2479_shp,0,0
+20,4,t6C6-bD4-sl4,"2B Sebastopol Rd",1,212,2469_shp,0,0
+40,2,t276-bE-sl2,"4B Rincon Valley",1,14,1336_shp,0,0
+40,2,t28B-bE-sl2,"4B Rincon Valley",1,14,1310_shp,0,0
+40,2,t2DA-bE-sl2,"4B Rincon Valley",1,14,1336_shp,0,0
+40,2,t2EF-bE-sl2,"4B Rincon Valley",1,14,1310_shp,0,0
+40,2,t33E-b11-sl2,"4B Rincon Valley",1,17,1336_shp,0,0
+40,2,t353-b11-sl2,"4B Rincon Valley",1,17,1310_shp,0,0
+40,2,t3A2-b9-sl2,"4B Rincon Valley",1,9,1336_shp,0,0
+40,2,t3B7-b9-sl2,"4B Rincon Valley",1,9,1310_shp,0,0
+40,2,t406-b8-sl2,"4B Rincon Valley",1,8,1336_shp,0,0
+40,2,t41B-b8-sl2,"4B Rincon Valley",1,8,1310_shp,0,0
+40,2,t46A-b8-sl2,"4B Rincon Valley",1,8,1336_shp,0,0
+40,2,t47F-b8-sl2,"4B Rincon Valley",1,8,1310_shp,0,0
+40,2,t4CE-b8-sl2,"4B Rincon Valley",1,8,1336_shp,0,0
+40,2,t4E3-b8-sl2,"4B Rincon Valley",1,8,1310_shp,0,0
+40,2,t532-b8-sl2,"4B Rincon Valley",1,8,1336_shp,0,0
+40,2,t547-b8-sl2,"4B Rincon Valley",1,8,1310_shp,0,0
+40,2,t596-b8-sl2,"4B Rincon Valley",1,8,1336_shp,0,0
+40,2,t5AB-b8-sl2,"4B Rincon Valley",1,8,1310_shp,0,0
+40,2,t5FA-bE-sl2,"4B Rincon Valley",1,14,1336_shp,0,0
+40,2,t60F-bE-sl2,"4B Rincon Valley",1,14,1310_shp,0,0
+40,2,t65E-b10-sl2,"4B Rincon Valley",1,16,1336_shp,0,0
+40,2,t673-b10-sl2,"4B Rincon Valley",1,16,1310_shp,0,0
+40,2,t6C2-b11-sl2,"4B Rincon Valley",1,17,1336_shp,0,0
+40,2,t6D7-b11-sl2,"4B Rincon Valley",1,17,1310_shp,0,0
+40,2,t726-b6-sl2,"4B Rincon Valley",1,6,1336_shp,0,0
+40,2,t73B-b6-sl2,"4B Rincon Valley",1,6,1310_shp,0,0
+40,2,t78A-b6-sl2,"4B Rincon Valley",1,6,1336_shp,0,0
+40,2,t79F-b6-sl2,"4B Rincon Valley",1,6,1310_shp,0,0
+1,3,t5DC-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t5F0-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t5FA-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t60E-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t640-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t654-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t65E-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t672-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t6A4-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t6B8-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t6C2-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t6D6-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t708-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t71C-b65-sl3,"1 Mendocino Ave",1,101,2465_shp,0,0
+1,3,t726-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t73A-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,3,t76C-b6C-sl3,"1 Mendocino Ave",0,108,2466_shp,0,0
+1,3,t780-b6C-sl3,"1 Mendocino Ave",1,108,2465_shp,0,0
+1,3,t78A-b65-sl3,"1 Mendocino Ave",0,101,2466_shp,0,0
+1,3,t7D0-b68-sl3,"1 Mendocino Ave",0,104,2466_shp,0,0
+1,3,t7E4-b68-sl3,"1 Mendocino Ave",1,104,2465_shp,0,0
+1,4,t3E8-bCD-sl4,"1 Mendocino Ave",0,205,2462_shp,0,0
+1,4,t3FA-bCD-sl4,"1 Mendocino Ave",1,205,2461_shp,0,0
+1,4,t406-bD4-sl4,"1 Mendocino Ave",0,212,2462_shp,0,0
+1,4,t418-bD4-sl4,"1 Mendocino Ave",1,212,2461_shp,0,0
+1,4,t44C-bCF-sl4,"1 Mendocino Ave",0,207,2462_shp,0,0
+1,4,t45E-bCF-sl4,"1 Mendocino Ave",1,207,2461_shp,0,0
+1,4,t46A-bCD-sl4,"1 Mendocino Ave",0,205,2462_shp,0,0
+1,4,t47C-bCD-sl4,"1 Mendocino Ave",1,205,2461_shp,0,0
+1,4,t4B0-bD4-sl4,"1 Mendocino Ave",0,212,2462_shp,0,0
+1,4,t4C2-bD4-sl4,"1 Mendocino Ave",1,212,2461_shp,0,0
+1,4,t4CE-bCF-sl4,"1 Mendocino Ave",0,207,2462_shp,0,0
+1,4,t4E0-bCF-sl4,"1 Mendocino Ave",1,207,2461_shp,0,0
+1,4,t514-bCD-sl4,"1 Mendocino Ave",0,205,2462_shp,0,0
+1,4,t526-bCD-sl4,"1 Mendocino Ave",1,205,2461_shp,0,0
+1,4,t532-bD4-sl4,"1 Mendocino Ave",0,212,2462_shp,0,0
+1,4,t544-bD4-sl4,"1 Mendocino Ave",1,212,2461_shp,0,0
+1,4,t578-bCF-sl4,"1 Mendocino Ave",0,207,2462_shp,0,0
+1,4,t58A-bCF-sl4,"1 Mendocino Ave",1,207,2461_shp,0,0
+1,4,t596-bCD-sl4,"1 Mendocino Ave",0,205,2462_shp,0,0
+1,4,t5A8-bCD-sl4,"1 Mendocino Ave",1,205,2461_shp,0,0
+1,4,t5DC-bD4-sl4,"1 Mendocino Ave",0,212,2462_shp,0,0
+1,4,t5EE-bD4-sl4,"1 Mendocino Ave",1,212,2461_shp,0,0
+1,4,t5FA-bCF-sl4,"1 Mendocino Ave",0,207,2462_shp,0,0
+1,4,t60C-bCF-sl4,"1 Mendocino Ave",1,207,2461_shp,0,0
+1,4,t640-bCD-sl4,"1 Mendocino Ave",0,205,2462_shp,0,0
+1,4,t652-bCD-sl4,"1 Mendocino Ave",1,205,2461_shp,0,0
+1,4,t65E-bD4-sl4,"1 Mendocino Ave",0,212,2462_shp,0,0
+1,4,t670-bD4-sl4,"1 Mendocino Ave",1,212,2461_shp,0,0
+1,4,t6A4-bCF-sl4,"1 Mendocino Ave",0,207,2462_shp,0,0
+2,2,t258-b5-sl2,"2 Sebastopol Rd",1,5,2482_shp,0,0
+2,2,t267-b5-sl2,"2 Sebastopol Rd",1,5,2472_shp,0,0
+2,2,t276-bD-sl2,"2 Sebastopol Rd",1,13,2482_shp,0,0
+2,2,t285-bD-sl2,"2 Sebastopol Rd",1,13,2472_shp,0,0
+2,2,t2BC-b13-sl2,"2 Sebastopol Rd",1,19,2482_shp,0,0
+2,2,t2CB-b13-sl2,"2 Sebastopol Rd",1,19,2472_shp,0,0
+2,2,t2DA-b5-sl2,"2 Sebastopol Rd",1,5,2482_shp,0,0
+2,2,t2E9-b5-sl2,"2 Sebastopol Rd",1,5,2472_shp,0,0
+2,2,t320-b4-sl2,"2 Sebastopol Rd",1,4,2482_shp,0,0
+2,2,t32F-b4-sl2,"2 Sebastopol Rd",1,4,2472_shp,0,0
+2,2,t33E-b10-sl2,"2 Sebastopol Rd",1,16,2482_shp,0,0
+2,2,t34D-b10-sl2,"2 Sebastopol Rd",1,16,2472_shp,0,0
+2,2,t384-bB-sl2,"2 Sebastopol Rd",1,11,2482_shp,0,0
+2,2,t393-bB-sl2,"2 Sebastopol Rd",1,11,2472_shp,0,0
+2,2,t3A2-b11-sl2,"2 Sebastopol Rd",1,17,2482_shp,0,0
+2,2,t3B1-b11-sl2,"2 Sebastopol Rd",1,17,2472_shp,0,0
+2,2,t3E8-b5-sl2,"2 Sebastopol Rd",1,5,2482_shp,0,0
+2,2,t3F7-b5-sl2,"2 Sebastopol Rd",1,5,2472_shp,0,0
+2,2,t406-b9-sl2,"2 Sebastopol Rd",1,9,2482_shp,0,0
+2,2,t415-b9-sl2,"2 Sebastopol Rd",1,9,2472_shp,0,0
+2,2,t44C-bC-sl2,"2 Sebastopol Rd",1,12,2482_shp,0,0
+2,2,t45B-bC-sl2,"2 Sebastopol Rd",1,12,2472_shp,0,0
+2,2,t46A-b3-sl2,"2 Sebastopol Rd",1,3,2482_shp,0,0
+2,2,t479-b3-sl2,"2 Sebastopol Rd",1,3,2472_shp,0,0
+2,2,t4B0-b6-sl2,"2 Sebastopol Rd",1,6,2482_shp,0,0
+2,2,t4BF-b6-sl2,"2 Sebastopol Rd",1,6,2472_shp,0,0
+2,2,t4CE-bD-sl2,"2 Sebastopol Rd",1,13,2482_shp,0,0
+2,2,t4DD-bD-sl2,"2 Sebastopol Rd",1,13,2472_shp,0,0
+2,2,t532-b10-sl2,"2 Sebastopol Rd",1,16,2482_shp,0,0
+2,2,t541-b10-sl2,"2 Sebastopol Rd",1,16,2472_shp,0,0
+2,2,t578-bE-sl2,"2 Sebastopol Rd",1,14,2482_shp,0,0
+2,2,t587-bE-sl2,"2 Sebastopol Rd",1,14,2472_shp,0,0
+2,2,t596-bD-sl2,"2 Sebastopol Rd",1,13,2482_shp,0,0
+2,2,t5A5-bD-sl2,"2 Sebastopol Rd",1,13,2472_shp,0,0
+2,2,t5DC-b6-sl2,"2 Sebastopol Rd",1,6,2482_shp,0,0
+2,2,t5EB-b6-sl2,"2 Sebastopol Rd",1,6,2472_shp,0,0
+2,2,t5FA-bF-sl2,"2 Sebastopol Rd",1,15,2482_shp,0,0
+2,2,t609-bF-sl2,"2 Sebastopol Rd",1,15,2472_shp,0,0
+2,2,t640-b11-sl2,"2 Sebastopol Rd",1,17,2482_shp,0,0
+2,2,t64F-b11-sl2,"2 Sebastopol Rd",1,17,2472_shp,0,0
+2,2,t65E-bD-sl2,"2 Sebastopol Rd",1,13,2482_shp,0,0
+2,2,t66D-bD-sl2,"2 Sebastopol Rd",1,13,2472_shp,0,0
+2,2,t6A4-b6-sl2,"2 Sebastopol Rd",1,6,2482_shp,0,0
+2,2,t6B3-b6-sl2,"2 Sebastopol Rd",1,6,2472_shp,0,0
+2,2,t6C2-b3-sl2,"2 Sebastopol Rd",1,3,2482_shp,0,0
+2,2,t6D1-b3-sl2,"2 Sebastopol Rd",1,3,2472_shp,0,0
+2,2,t708-b1-sl2,"2 Sebastopol Rd",1,1,2482_shp,0,0
+2,2,t717-b1-sl2,"2 Sebastopol Rd",1,1,2472_shp,0,0
+2,2,t726-b8-sl2,"2 Sebastopol Rd",1,8,2482_shp,0,0
+2,2,t735-b8-sl2,"2 Sebastopol Rd",1,8,2472_shp,0,0
+2,2,t76C-bD-sl2,"2 Sebastopol Rd",1,13,2482_shp,0,0
+2,2,t77B-bD-sl2,"2 Sebastopol Rd",1,13,2472_shp,0,0
+2,2,t78A-bB-sl2,"2 Sebastopol Rd",1,11,2482_shp,0,0
+2,2,t799-bB-sl2,"2 Sebastopol Rd",1,11,2472_shp,0,0
+2,2,t7D0-b9-sl2,"2 Sebastopol Rd",1,9,2482_shp,0,0
+2,2,t7DF-b9-sl2,"2 Sebastopol Rd",1,9,2472_shp,0,0
+3,2,t258-b1-sl2,"3 Santa Rosa Ave",1,1,1334_shp,0,0
+3,2,t266-b1-sl2,"3 Santa Rosa Ave",1,1,1308_shp,0,0
+3,2,t285-b3-sl2,"3 Santa Rosa Ave",1,3,1334_shp,0,0
+3,2,t293-b3-sl2,"3 Santa Rosa Ave",1,3,1308_shp,0,0
+3,2,t2BC-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t2CA-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t320-b11-sl2,"3 Santa Rosa Ave",1,17,1334_shp,0,0
+3,2,t32E-b11-sl2,"3 Santa Rosa Ave",1,17,1308_shp,0,0
+3,2,t384-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t392-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t3E8-b10-sl2,"3 Santa Rosa Ave",1,16,1334_shp,0,0
+3,2,t3F6-b10-sl2,"3 Santa Rosa Ave",1,16,1308_shp,0,0
+3,2,t44C-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t45A-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t4B0-b9-sl2,"3 Santa Rosa Ave",1,9,1334_shp,0,0
+3,2,t4BE-b9-sl2,"3 Santa Rosa Ave",1,9,1308_shp,0,0
+3,2,t514-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t522-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t578-bD-sl2,"3 Santa Rosa Ave",1,13,1334_shp,0,0
+3,2,t586-bD-sl2,"3 Santa Rosa Ave",1,13,1308_shp,0,0
+3,2,t596-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t5A4-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t5DC-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t5EA-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t640-bD-sl2,"3 Santa Rosa Ave",1,13,1334_shp,0,0
+3,2,t64E-bD-sl2,"3 Santa Rosa Ave",1,13,1308_shp,0,0
+3,2,t6A4-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t6B2-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,2,t708-bB-sl2,"3 Santa Rosa Ave",1,11,1334_shp,0,0
+3,2,t716-bB-sl2,"3 Santa Rosa Ave",1,11,1308_shp,0,0
+3,2,t76C-b2-sl2,"3 Santa Rosa Ave",1,2,1334_shp,0,0
+3,2,t77A-b2-sl2,"3 Santa Rosa Ave",1,2,1308_shp,0,0
+3,3,t267-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t275-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,3,t2CB-b66-sl3,"3 Santa Rosa Ave",1,102,1343_shp,0,0
+3,3,t2D9-b66-sl3,"3 Santa Rosa Ave",1,102,1317_shp,0,0
+3,3,t32F-b69-sl3,"3 Santa Rosa Ave",1,105,1343_shp,0,0
+3,3,t33D-b69-sl3,"3 Santa Rosa Ave",1,105,1317_shp,0,0
+3,3,t393-b66-sl3,"3 Santa Rosa Ave",1,102,1343_shp,0,0
+3,3,t3A1-b66-sl3,"3 Santa Rosa Ave",1,102,1317_shp,0,0
+3,3,t3F7-b6D-sl3,"3 Santa Rosa Ave",1,109,1343_shp,0,0
+3,3,t405-b6D-sl3,"3 Santa Rosa Ave",1,109,1317_shp,0,0
+3,3,t45B-b69-sl3,"3 Santa Rosa Ave",1,105,1343_shp,0,0
+3,3,t469-b69-sl3,"3 Santa Rosa Ave",1,105,1317_shp,0,0
+3,3,t4BF-b69-sl3,"3 Santa Rosa Ave",1,105,1343_shp,0,0
+3,3,t4CD-b69-sl3,"3 Santa Rosa Ave",1,105,1317_shp,0,0
+3,3,t523-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t531-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,3,t587-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t595-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,3,t5EB-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t5F9-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,3,t64F-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t65D-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,3,t6B3-b69-sl3,"3 Santa Rosa Ave",1,105,1343_shp,0,0
+3,3,t6C1-b69-sl3,"3 Santa Rosa Ave",1,105,1317_shp,0,0
+3,3,t717-b69-sl3,"3 Santa Rosa Ave",1,105,1343_shp,0,0
+3,3,t725-b69-sl3,"3 Santa Rosa Ave",1,105,1317_shp,0,0
+3,3,t77B-b67-sl3,"3 Santa Rosa Ave",1,103,1343_shp,0,0
+3,3,t789-b67-sl3,"3 Santa Rosa Ave",1,103,1317_shp,0,0
+3,4,t406-bD3-sl4,"3 Santa Rosa Ave",1,211,1325_shp,0,0
+3,4,t414-bD3-sl4,"3 Santa Rosa Ave",1,211,1299_shp,0,0
+3,4,t46A-bCB-sl4,"3 Santa Rosa Ave",1,203,1325_shp,0,0
+3,4,t478-bCB-sl4,"3 Santa Rosa Ave",1,203,1299_shp,0,0
+3,4,t4CE-bCE-sl4,"3 Santa Rosa Ave",1,206,1325_shp,0,0
+3,4,t4DC-bCE-sl4,"3 Santa Rosa Ave",1,206,1299_shp,0,0
+3,4,t532-bD3-sl4,"3 Santa Rosa Ave",1,211,1325_shp,0,0
+3,4,t540-bD3-sl4,"3 Santa Rosa Ave",1,211,1299_shp,0,0
+3,4,t596-bCB-sl4,"3 Santa Rosa Ave",1,203,1325_shp,0,0
+3,4,t5A4-bCB-sl4,"3 Santa Rosa Ave",1,203,1299_shp,0,0
+3,4,t5FA-bCE-sl4,"3 Santa Rosa Ave",1,206,1325_shp,0,0
+3,4,t608-bCE-sl4,"3 Santa Rosa Ave",1,206,1299_shp,0,0
+3,4,t65E-bD3-sl4,"3 Santa Rosa Ave",1,211,1325_shp,0,0
+3,4,t66C-bD3-sl4,"3 Santa Rosa Ave",1,211,1299_shp,0,0
+4,2,t258-b4-sl2,"4 Rincon Valley",1,4,1335_shp,0,0
+4,2,t26D-b4-sl2,"4 Rincon Valley",1,4,1309_shp,0,0
+4,2,t2BC-b8-sl2,"4 Rincon Valley",1,8,1335_shp,0,0
+4,2,t2D1-b8-sl2,"4 Rincon Valley",1,8,1309_shp,0,0
+4,2,t320-bC-sl2,"4 Rincon Valley",1,12,1335_shp,0,0
+4,2,t335-bC-sl2,"4 Rincon Valley",1,12,1309_shp,0,0
+4,2,t384-b5-sl2,"4 Rincon Valley",1,5,1335_shp,0,0
+4,2,t399-b5-sl2,"4 Rincon Valley",1,5,1309_shp,0,0
+4,2,t3E8-bD-sl2,"4 Rincon Valley",1,13,1335_shp,0,0
+4,2,t3FD-bD-sl2,"4 Rincon Valley",1,13,1309_shp,0,0
+4,2,t44C-b11-sl2,"4 Rincon Valley",1,17,1335_shp,0,0
+4,2,t461-b11-sl2,"4 Rincon Valley",1,17,1309_shp,0,0
+4,2,t4B0-bE-sl2,"4 Rincon Valley",1,14,1335_shp,0,0
+4,2,t4C5-bE-sl2,"4 Rincon Valley",1,14,1309_shp,0,0
+4,2,t514-b1-sl2,"4 Rincon Valley",1,1,1335_shp,0,0
+4,2,t529-b1-sl2,"4 Rincon Valley",1,1,1309_shp,0,0
+4,2,t578-b4-sl2,"4 Rincon Valley",1,4,1335_shp,0,0
+4,2,t58D-b4-sl2,"4 Rincon Valley",1,4,1309_shp,0,0
+4,2,t5DC-b11-sl2,"4 Rincon Valley",1,17,1335_shp,0,0
+4,2,t5F1-b11-sl2,"4 Rincon Valley",1,17,1309_shp,0,0
+4,2,t6A4-bC-sl2,"4 Rincon Valley",1,12,1335_shp,0,0
+4,2,t6B9-bC-sl2,"4 Rincon Valley",1,12,1309_shp,0,0
+4,2,t708-bD-sl2,"4 Rincon Valley",1,13,1335_shp,0,0
+4,2,t71D-bD-sl2,"4 Rincon Valley",1,13,1309_shp,0,0
+4,2,t76C-b3-sl2,"4 Rincon Valley",1,3,1335_shp,0,0
+4,2,t781-b3-sl2,"4 Rincon Valley",1,3,1309_shp,0,0
+4,3,t2BC-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t2D1-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t320-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t335-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t384-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t399-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t3E8-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t3FD-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t44C-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t461-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t4B0-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t4C5-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t514-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t529-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t578-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t58D-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t5DC-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t5F1-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t640-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t655-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t6A4-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t6B9-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t708-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t71D-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t76C-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t781-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,3,t7D0-b6A-sl3,"4 Rincon Valley",1,106,1344_shp,0,0
+4,3,t7E5-b6A-sl3,"4 Rincon Valley",1,106,1318_shp,0,0
+4,4,t3E8-bCC-sl4,"4 Rincon Valley",1,204,1326_shp,0,0
+4,4,t3FD-bCC-sl4,"4 Rincon Valley",1,204,1300_shp,0,0
+4,4,t44C-bC9-sl4,"4 Rincon Valley",1,201,1326_shp,0,0
+4,4,t461-bC9-sl4,"4 Rincon Valley",1,201,1300_shp,0,0
+4,4,t4B0-bD1-sl4,"4 Rincon Valley",1,209,1326_shp,0,0
+4,4,t4C5-bD1-sl4,"4 Rincon Valley",1,209,1300_shp,0,0
+4,4,t514-bCA-sl4,"4 Rincon Valley",1,202,1326_shp,0,0
+4,4,t529-bCA-sl4,"4 Rincon Valley",1,202,1300_shp,0,0
+4,4,t578-bCC-sl4,"4 Rincon Valley",1,204,1326_shp,0,0
+4,4,t58D-bCC-sl4,"4 Rincon Valley",1,204,1300_shp,0,0
+4,4,t5DC-bC9-sl4,"4 Rincon Valley",1,201,1326_shp,0,0
+4,4,t5F1-bC9-sl4,"4 Rincon Valley",1,201,1300_shp,0,0
+4,4,t640-bD1-sl4,"4 Rincon Valley",1,209,1326_shp,0,0
+4,4,t655-bD1-sl4,"4 Rincon Valley",1,209,1300_shp,0,0
+5,2,t276-bB-sl2,"5 Petaluma Hill",1,11,1337_shp,0,0
+5,2,t282-bB-sl2,"5 Petaluma Hill",1,11,1311_shp,0,0
+5,2,t2CB-b3-sl2,"5 Petaluma Hill",1,3,1337_shp,0,0
+5,2,t2D7-b3-sl2,"5 Petaluma Hill",1,3,1311_shp,0,0
+5,2,t2DA-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t2E6-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t33E-b3-sl2,"5 Petaluma Hill",1,3,1337_shp,0,0
+5,2,t34A-b3-sl2,"5 Petaluma Hill",1,3,1311_shp,0,0
+5,2,t3A2-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t3AE-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t406-bC-sl2,"5 Petaluma Hill",1,12,1337_shp,0,0
+5,2,t412-bC-sl2,"5 Petaluma Hill",1,12,1311_shp,0,0
+5,2,t46A-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t476-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t4CE-b1-sl2,"5 Petaluma Hill",1,1,1337_shp,0,0
+5,2,t4DA-b1-sl2,"5 Petaluma Hill",1,1,1311_shp,0,0
+5,2,t532-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t53E-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t596-b6-sl2,"5 Petaluma Hill",1,6,1337_shp,0,0
+5,2,t5A2-b6-sl2,"5 Petaluma Hill",1,6,1311_shp,0,0
+5,2,t5FA-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t606-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t65E-b9-sl2,"5 Petaluma Hill",1,9,1337_shp,0,0
+5,2,t66A-b9-sl2,"5 Petaluma Hill",1,9,1311_shp,0,0
+5,2,t6C2-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t6CE-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,2,t726-bE-sl2,"5 Petaluma Hill",1,14,1337_shp,0,0
+5,2,t732-bE-sl2,"5 Petaluma Hill",1,14,1311_shp,0,0
+5,2,t78A-b2-sl2,"5 Petaluma Hill",1,2,1337_shp,0,0
+5,2,t796-b2-sl2,"5 Petaluma Hill",1,2,1311_shp,0,0
+5,3,t280-b69-sl3,"5 Petaluma Hill",1,105,1345_shp,0,0
+5,3,t28C-b69-sl3,"5 Petaluma Hill",1,105,1319_shp,0,0
+5,3,t2E4-b67-sl3,"5 Petaluma Hill",1,103,1345_shp,0,0
+5,3,t2F0-b67-sl3,"5 Petaluma Hill",1,103,1319_shp,0,0
+5,3,t348-b6D-sl3,"5 Petaluma Hill",1,109,1345_shp,0,0
+5,3,t354-b6D-sl3,"5 Petaluma Hill",1,109,1319_shp,0,0
+5,3,t3AC-b69-sl3,"5 Petaluma Hill",1,105,1345_shp,0,0
+5,3,t3B8-b69-sl3,"5 Petaluma Hill",1,105,1319_shp,0,0
+5,3,t410-b66-sl3,"5 Petaluma Hill",1,102,1345_shp,0,0
+5,3,t41C-b66-sl3,"5 Petaluma Hill",1,102,1319_shp,0,0
+5,3,t474-b67-sl3,"5 Petaluma Hill",1,103,1345_shp,0,0
+5,3,t480-b67-sl3,"5 Petaluma Hill",1,103,1319_shp,0,0
+5,3,t4D8-b6D-sl3,"5 Petaluma Hill",1,109,1345_shp,0,0
+5,3,t4E4-b6D-sl3,"5 Petaluma Hill",1,109,1319_shp,0,0
+5,3,t53C-b66-sl3,"5 Petaluma Hill",1,102,1345_shp,0,0
+5,3,t548-b66-sl3,"5 Petaluma Hill",1,102,1319_shp,0,0
+5,3,t5A0-b6D-sl3,"5 Petaluma Hill",1,109,1345_shp,0,0
+5,3,t5AC-b6D-sl3,"5 Petaluma Hill",1,109,1319_shp,0,0
+5,3,t604-b69-sl3,"5 Petaluma Hill",1,105,1345_shp,0,0
+5,3,t610-b69-sl3,"5 Petaluma Hill",1,105,1319_shp,0,0
+5,3,t668-b6D-sl3,"5 Petaluma Hill",1,109,1345_shp,0,0
+5,3,t674-b6D-sl3,"5 Petaluma Hill",1,109,1319_shp,0,0
+5,3,t6CC-b67-sl3,"5 Petaluma Hill",1,103,1345_shp,0,0
+5,3,t6D8-b67-sl3,"5 Petaluma Hill",1,103,1319_shp,0,0
+5,3,t730-b6D-sl3,"5 Petaluma Hill",1,109,1345_shp,0,0
+5,3,t73C-b6D-sl3,"5 Petaluma Hill",1,109,1319_shp,0,0
+5,3,t794-b69-sl3,"5 Petaluma Hill",1,105,1345_shp,0,0
+5,3,t7A0-b69-sl3,"5 Petaluma Hill",1,105,1319_shp,0,0
+5,4,t3E8-bCB-sl4,"5 Petaluma Hill",1,203,1327_shp,0,0
+5,4,t3F4-bCB-sl4,"5 Petaluma Hill",1,203,1301_shp,0,0
+5,4,t44C-bCE-sl4,"5 Petaluma Hill",1,206,1327_shp,0,0
+5,4,t458-bCE-sl4,"5 Petaluma Hill",1,206,1301_shp,0,0
+5,4,t4B0-bD3-sl4,"5 Petaluma Hill",1,211,1327_shp,0,0
+5,4,t4BC-bD3-sl4,"5 Petaluma Hill",1,211,1301_shp,0,0
+5,4,t514-bCB-sl4,"5 Petaluma Hill",1,203,1327_shp,0,0
+5,4,t520-bCB-sl4,"5 Petaluma Hill",1,203,1301_shp,0,0
+5,4,t578-bCE-sl4,"5 Petaluma Hill",1,206,1327_shp,0,0
+5,4,t584-bCE-sl4,"5 Petaluma Hill",1,206,1301_shp,0,0
+5,4,t5DC-bD3-sl4,"5 Petaluma Hill",1,211,1327_shp,0,0
+5,4,t5E8-bD3-sl4,"5 Petaluma Hill",1,211,1301_shp,0,0
+5,4,t640-bCB-sl4,"5 Petaluma Hill",1,203,1327_shp,0,0
+5,4,t64C-bCB-sl4,"5 Petaluma Hill",1,203,1301_shp,0,0
+6,2,t2BC-b1-sl2,"6 Fulton Rd",0,1,2497_shp,0,0
+6,2,t2D5-b10-sl2,"6 Fulton Rd",0,16,2497_shp,0,0
+6,2,t2DB-b1-sl2,"6 Fulton Rd",1,1,2496_shp,0,0
+6,2,t2F4-b10-sl2,"6 Fulton Rd",1,16,2496_shp,0,0
+6,2,t320-b8-sl2,"6 Fulton Rd",0,8,2497_shp,0,0
+6,2,t323-bD-sl2,"6 Fulton Rd",1,13,2496_shp,0,0
+6,2,t33E-bD-sl2,"6 Fulton Rd",0,13,2497_shp,0,0
+6,2,t344-b8-sl2,"6 Fulton Rd",1,8,2496_shp,0,0
+6,2,t384-b6-sl2,"6 Fulton Rd",0,6,2497_shp,0,0
+6,2,t3A2-b4-sl2,"6 Fulton Rd",0,4,2497_shp,0,0
+6,2,t3A8-b6-sl2,"6 Fulton Rd",1,6,2496_shp,0,0
+6,2,t3E8-bF-sl2,"6 Fulton Rd",0,15,2497_shp,0,0
+6,2,t3EE-b4-sl2,"6 Fulton Rd",1,4,2496_shp,0,0
+6,2,t406-b10-sl2,"6 Fulton Rd",0,16,2497_shp,0,0
+6,2,t40C-bF-sl2,"6 Fulton Rd",1,15,2496_shp,0,0
+6,2,t44C-bB-sl2,"6 Fulton Rd",0,11,2497_shp,0,0
+6,2,t452-b5-sl2,"6 Fulton Rd",1,5,2496_shp,0,0
+6,2,t46A-b10-sl2,"6 Fulton Rd",0,16,2497_shp,0,0
+6,2,t470-bB-sl2,"6 Fulton Rd",1,11,2496_shp,0,0
+6,2,t4B0-b11-sl2,"6 Fulton Rd",0,17,2497_shp,0,0
+6,2,t4B6-b10-sl2,"6 Fulton Rd",1,16,2496_shp,0,0
+6,2,t4CE-b9-sl2,"6 Fulton Rd",0,9,2497_shp,0,0
+6,2,t4D4-b11-sl2,"6 Fulton Rd",1,17,2496_shp,0,0
+6,2,t514-b3-sl2,"6 Fulton Rd",0,3,2497_shp,0,0
+6,2,t51A-b6-sl2,"6 Fulton Rd",1,6,2496_shp,0,0
+6,2,t532-bF-sl2,"6 Fulton Rd",0,15,2497_shp,0,0
+6,2,t538-b3-sl2,"6 Fulton Rd",1,3,2496_shp,0,0
+6,2,t578-b9-sl2,"6 Fulton Rd",0,9,2497_shp,0,0
+6,2,t57E-bF-sl2,"6 Fulton Rd",1,15,2496_shp,0,0
+6,2,t596-b15-sl2,"6 Fulton Rd",0,21,2497_shp,0,0
+6,2,t59C-b9-sl2,"6 Fulton Rd",1,9,2496_shp,0,0
+6,2,t5AF-b10-sl2,"6 Fulton Rd",0,16,2497_shp,0,0
+6,2,t5EC-b15-sl2,"6 Fulton Rd",1,21,2496_shp,0,0
+6,2,t5F5-b3-sl2,"6 Fulton Rd",0,3,2497_shp,0,0
+6,2,t5F6-b4-sl2,"6 Fulton Rd",1,4,2496_shp,0,0
+6,2,t640-b4-sl2,"6 Fulton Rd",0,4,2497_shp,0,0
+6,2,t646-b3-sl2,"6 Fulton Rd",1,3,2496_shp,0,0
+6,2,t65E-bE-sl2,"6 Fulton Rd",0,14,2497_shp,0,0
+6,2,t664-b4-sl2,"6 Fulton Rd",1,4,2496_shp,0,0
+6,2,t6AA-bE-sl2,"6 Fulton Rd",1,14,2496_shp,0,0
+6,2,t6C2-bF-sl2,"6 Fulton Rd",0,15,2497_shp,0,0
+6,2,t708-b9-sl2,"6 Fulton Rd",0,9,2497_shp,0,0
+6,2,t70E-bF-sl2,"6 Fulton Rd",1,15,2496_shp,0,0
+6,2,t726-bB-sl2,"6 Fulton Rd",0,11,2497_shp,0,0
+6,2,t72C-b9-sl2,"6 Fulton Rd",1,9,2496_shp,0,0
+6,2,t76C-b11-sl2,"6 Fulton Rd",0,17,2497_shp,0,0
+6,2,t772-b1-sl2,"6 Fulton Rd",1,1,2496_shp,0,0
+6,2,t780-b8-sl2,"6 Fulton Rd",0,8,2497_shp,0,0
+6,2,t790-b11-sl2,"6 Fulton Rd",1,17,2496_shp,0,0
+6,3,t2BC-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t2D6-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t320-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t33A-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t384-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t39E-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t3E8-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t402-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t44C-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t466-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t4B0-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t4CA-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t514-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t52E-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t578-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t592-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t5DC-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t5F6-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t640-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t65A-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t6A4-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t6BE-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t708-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t722-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t76C-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t786-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,3,t7D0-b6B-sl3,"6 Fulton Rd",0,107,2499_shp,0,0
+6,3,t7EA-b6B-sl3,"6 Fulton Rd",1,107,2498_shp,0,0
+6,4,t3E8-bCA-sl4,"6 Fulton Rd",0,202,2495_shp,0,0
+6,4,t40C-bCA-sl4,"6 Fulton Rd",1,202,2494_shp,0,0
+6,4,t44C-bCC-sl4,"6 Fulton Rd",0,204,2495_shp,0,0
+6,4,t470-bCC-sl4,"6 Fulton Rd",1,204,2494_shp,0,0
+6,4,t4B0-bC9-sl4,"6 Fulton Rd",0,201,2495_shp,0,0
+6,4,t4D4-bC9-sl4,"6 Fulton Rd",1,201,2494_shp,0,0
+6,4,t514-bD1-sl4,"6 Fulton Rd",0,209,2495_shp,0,0
+6,4,t538-bD1-sl4,"6 Fulton Rd",1,209,2494_shp,0,0
+6,4,t578-bCA-sl4,"6 Fulton Rd",0,202,2495_shp,0,0
+6,4,t59C-bCA-sl4,"6 Fulton Rd",1,202,2494_shp,0,0
+6,4,t5DC-bCC-sl4,"6 Fulton Rd",0,204,2495_shp,0,0
+6,4,t600-bCC-sl4,"6 Fulton Rd",1,204,2494_shp,0,0
+6,4,t640-bC9-sl4,"6 Fulton Rd",0,201,2495_shp,0,0
+6,4,t664-bC9-sl4,"6 Fulton Rd",1,201,2494_shp,0,0
+8,2,t258-b3-sl2,"8 Bennett Valley",1,3,1794_shp,0,0
+8,2,t271-b3-sl2,"8 Bennett Valley",1,3,1791_shp,0,0
+8,2,t276-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t28F-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t2BC-bB-sl2,"8 Bennett Valley",1,11,1794_shp,0,0
+8,2,t2D5-bB-sl2,"8 Bennett Valley",1,11,1791_shp,0,0
+8,2,t2DA-bF-sl2,"8 Bennett Valley",1,15,1794_shp,0,0
+8,2,t2F3-bF-sl2,"8 Bennett Valley",1,15,1791_shp,0,0
+8,2,t320-b9-sl2,"8 Bennett Valley",1,9,1794_shp,0,0
+8,2,t339-b9-sl2,"8 Bennett Valley",1,9,1791_shp,0,0
+8,2,t33E-bE-sl2,"8 Bennett Valley",1,14,1794_shp,0,0
+8,2,t357-bE-sl2,"8 Bennett Valley",1,14,1791_shp,0,0
+8,2,t384-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t39D-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t3A2-b1-sl2,"8 Bennett Valley",1,1,1794_shp,0,0
+8,2,t3BB-b1-sl2,"8 Bennett Valley",1,1,1791_shp,0,0
+8,2,t3E8-b3-sl2,"8 Bennett Valley",1,3,1794_shp,0,0
+8,2,t401-b3-sl2,"8 Bennett Valley",1,3,1791_shp,0,0
+8,2,t44C-bD-sl2,"8 Bennett Valley",1,13,1794_shp,0,0
+8,2,t465-bD-sl2,"8 Bennett Valley",1,13,1791_shp,0,0
+8,2,t46A-b4-sl2,"8 Bennett Valley",1,4,1794_shp,0,0
+8,2,t483-b4-sl2,"8 Bennett Valley",1,4,1791_shp,0,0
+8,2,t4B0-bF-sl2,"8 Bennett Valley",1,15,1794_shp,0,0
+8,2,t4C9-bF-sl2,"8 Bennett Valley",1,15,1791_shp,0,0
+8,2,t4CE-b5-sl2,"8 Bennett Valley",1,5,1794_shp,0,0
+8,2,t4E7-b5-sl2,"8 Bennett Valley",1,5,1791_shp,0,0
+8,2,t514-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t52D-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t532-bB-sl2,"8 Bennett Valley",1,11,1794_shp,0,0
+8,2,t54B-bB-sl2,"8 Bennett Valley",1,11,1791_shp,0,0
+8,2,t578-b1-sl2,"8 Bennett Valley",1,1,1794_shp,0,0
+8,2,t591-b1-sl2,"8 Bennett Valley",1,1,1791_shp,0,0
+8,2,t596-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t5AF-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t5DC-b5-sl2,"8 Bennett Valley",1,5,1794_shp,0,0
+8,2,t5F5-b5-sl2,"8 Bennett Valley",1,5,1791_shp,0,0
+8,2,t5FA-b1-sl2,"8 Bennett Valley",1,1,1794_shp,0,0
+8,2,t613-b1-sl2,"8 Bennett Valley",1,1,1791_shp,0,0
+8,2,t640-bB-sl2,"8 Bennett Valley",1,11,1794_shp,0,0
+8,2,t659-bB-sl2,"8 Bennett Valley",1,11,1791_shp,0,0
+8,2,t65E-b5-sl2,"8 Bennett Valley",1,5,1794_shp,0,0
+8,2,t677-b5-sl2,"8 Bennett Valley",1,5,1791_shp,0,0
+8,2,t6A4-b8-sl2,"8 Bennett Valley",1,8,1794_shp,0,0
+8,2,t6BD-b8-sl2,"8 Bennett Valley",1,8,1791_shp,0,0
+8,2,t6C2-b10-sl2,"8 Bennett Valley",1,16,1794_shp,0,0
+8,2,t6DB-b10-sl2,"8 Bennett Valley",1,16,1791_shp,0,0
+8,2,t708-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t721-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t726-b4-sl2,"8 Bennett Valley",1,4,1794_shp,0,0
+8,2,t73F-b4-sl2,"8 Bennett Valley",1,4,1791_shp,0,0
+8,2,t76C-bE-sl2,"8 Bennett Valley",1,14,1794_shp,0,0
+8,2,t785-bE-sl2,"8 Bennett Valley",1,14,1791_shp,0,0
+8,2,t78A-bC-sl2,"8 Bennett Valley",1,12,1794_shp,0,0
+8,2,t7A3-bC-sl2,"8 Bennett Valley",1,12,1791_shp,0,0
+8,2,t7D0-bF-sl2,"8 Bennett Valley",1,15,1794_shp,0,0
+8,2,t7E9-bF-sl2,"8 Bennett Valley",1,15,1791_shp,0,0
+8,3,t285-b67-sl3,"8 Bennett Valley",1,103,1795_shp,0,0
+8,3,t2C6-b67-sl3,"8 Bennett Valley",1,103,1792_shp,0,0
+8,3,t2E9-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t32A-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,3,t34D-b69-sl3,"8 Bennett Valley",1,105,1795_shp,0,0
+8,3,t38E-b69-sl3,"8 Bennett Valley",1,105,1792_shp,0,0
+8,3,t3B1-b66-sl3,"8 Bennett Valley",1,102,1795_shp,0,0
+8,3,t3F2-b66-sl3,"8 Bennett Valley",1,102,1792_shp,0,0
+8,3,t415-b67-sl3,"8 Bennett Valley",1,103,1795_shp,0,0
+8,3,t456-b67-sl3,"8 Bennett Valley",1,103,1792_shp,0,0
+8,3,t479-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t4BA-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,3,t4DD-b66-sl3,"8 Bennett Valley",1,102,1795_shp,0,0
+8,3,t51E-b66-sl3,"8 Bennett Valley",1,102,1792_shp,0,0
+8,3,t541-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t582-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,3,t5A5-b69-sl3,"8 Bennett Valley",1,105,1795_shp,0,0
+8,3,t5E6-b69-sl3,"8 Bennett Valley",1,105,1792_shp,0,0
+8,3,t609-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t64A-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,3,t66D-b67-sl3,"8 Bennett Valley",1,103,1795_shp,0,0
+8,3,t6AE-b67-sl3,"8 Bennett Valley",1,103,1792_shp,0,0
+8,3,t6D1-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t712-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,3,t735-b69-sl3,"8 Bennett Valley",1,105,1795_shp,0,0
+8,3,t776-b69-sl3,"8 Bennett Valley",1,105,1792_shp,0,0
+8,3,t799-b6D-sl3,"8 Bennett Valley",1,109,1795_shp,0,0
+8,3,t7DA-b6D-sl3,"8 Bennett Valley",1,109,1792_shp,0,0
+8,4,t415-bCB-sl4,"8 Bennett Valley",1,203,1793_shp,0,0
+8,4,t456-bCB-sl4,"8 Bennett Valley",1,203,1790_shp,0,0
+8,4,t479-bCE-sl4,"8 Bennett Valley",1,206,1793_shp,0,0
+8,4,t4BA-bCE-sl4,"8 Bennett Valley",1,206,1790_shp,0,0
+8,4,t4DD-bD3-sl4,"8 Bennett Valley",1,211,1793_shp,0,0
+8,4,t51E-bD3-sl4,"8 Bennett Valley",1,211,1790_shp,0,0
+8,4,t541-bCB-sl4,"8 Bennett Valley",1,203,1793_shp,0,0
+8,4,t582-bCB-sl4,"8 Bennett Valley",1,203,1790_shp,0,0
+8,4,t5A5-bCE-sl4,"8 Bennett Valley",1,206,1793_shp,0,0
+8,4,t5E6-bCE-sl4,"8 Bennett Valley",1,206,1790_shp,0,0
+8,4,t609-bD3-sl4,"8 Bennett Valley",1,211,1793_shp,0,0
+8,4,t64A-bD3-sl4,"8 Bennett Valley",1,211,1790_shp,0,0
+8,4,t66D-bCB-sl4,"8 Bennett Valley",1,203,1793_shp,0,0
+8,4,t6AE-bCB-sl4,"8 Bennett Valley",1,203,1790_shp,0,0
+9,2,t276-b1-sl2,"9 West Ninth St",1,1,2458_shp,0,0
+9,2,t284-b1-sl2,"9 West Ninth St",1,1,2455_shp,0,0
+9,2,t2DA-b11-sl2,"9 West Ninth St",1,17,2458_shp,0,0
+9,2,t2E8-b11-sl2,"9E West Ninth St",1,17,2460_shp,0,0
+9,2,t33E-bB-sl2,"9 West Ninth St",1,11,2458_shp,0,0
+9,2,t34C-bB-sl2,"9 West Ninth St",1,11,2455_shp,0,0
+9,2,t3A2-bD-sl2,"9 West Ninth St",1,13,2458_shp,0,0
+9,2,t3B0-bD-sl2,"9 West Ninth St",1,13,2455_shp,0,0
+9,2,t406-bB-sl2,"9 West Ninth St",1,11,2458_shp,0,0
+9,2,t414-bB-sl2,"9 West Ninth St",1,11,2455_shp,0,0
+9,2,t46A-b6-sl2,"9 West Ninth St",1,6,2458_shp,0,0
+9,2,t478-b6-sl2,"9 West Ninth St",1,6,2455_shp,0,0
+9,2,t4CE-bC-sl2,"9 West Ninth St",1,12,2458_shp,0,0
+9,2,t4DC-bC-sl2,"9 West Ninth St",1,12,2455_shp,0,0
+9,2,t532-b9-sl2,"9 West Ninth St",1,9,2458_shp,0,0
+9,2,t540-b9-sl2,"9 West Ninth St",1,9,2455_shp,0,0
+9,2,t578-b2-sl2,"9 West Ninth St",1,2,2458_shp,0,0
+9,2,t586-b2-sl2,"9E West Ninth St",1,2,2460_shp,0,0
+9,2,t596-b11-sl2,"9 West Ninth St",1,17,2458_shp,0,0
+9,2,t5A4-b11-sl2,"9 West Ninth St",1,17,2455_shp,0,0
+9,2,t5FA-b8-sl2,"9 West Ninth St",1,8,2458_shp,0,0
+9,2,t608-b8-sl2,"9 West Ninth St",1,8,2455_shp,0,0
+9,2,t65E-b6-sl2,"9 West Ninth St",1,6,2458_shp,0,0
+9,2,t66C-b6-sl2,"9 West Ninth St",1,6,2455_shp,0,0
+9,2,t6C2-bB-sl2,"9 West Ninth St",1,11,2458_shp,0,0
+9,2,t6D0-bB-sl2,"9 West Ninth St",1,11,2455_shp,0,0
+9,2,t726-b11-sl2,"9 West Ninth St",1,17,2458_shp,0,0
+9,2,t734-b11-sl2,"9 West Ninth St",1,17,2455_shp,0,0
+9,2,t78A-bF-sl2,"9 West Ninth St",1,15,2458_shp,0,0
+9,2,t798-bF-sl2,"9 West Ninth St",1,15,2455_shp,0,0
+9,3,t285-b66-sl3,"9 West Ninth St",1,102,2459_shp,0,0
+9,3,t293-b66-sl3,"9 West Ninth St",1,102,2456_shp,0,0
+9,3,t2E9-b69-sl3,"9 West Ninth St",1,105,2459_shp,0,0
+9,3,t2F7-b69-sl3,"9 West Ninth St",1,105,2456_shp,0,0
+9,3,t34D-b66-sl3,"9 West Ninth St",1,102,2459_shp,0,0
+9,3,t35B-b66-sl3,"9 West Ninth St",1,102,2456_shp,0,0
+9,3,t3B1-b6D-sl3,"9 West Ninth St",1,109,2459_shp,0,0
+9,3,t3BF-b6D-sl3,"9 West Ninth St",1,109,2456_shp,0,0
+9,3,t415-b69-sl3,"9 West Ninth St",1,105,2459_shp,0,0
+9,3,t423-b69-sl3,"9 West Ninth St",1,105,2456_shp,0,0
+9,3,t479-b69-sl3,"9 West Ninth St",1,105,2459_shp,0,0
+9,3,t487-b69-sl3,"9 West Ninth St",1,105,2456_shp,0,0
+9,3,t4DD-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t4EB-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,3,t541-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t54F-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,3,t5A5-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t5B3-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,3,t609-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t617-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,3,t66D-b69-sl3,"9 West Ninth St",1,105,2459_shp,0,0
+9,3,t67B-b69-sl3,"9 West Ninth St",1,105,2456_shp,0,0
+9,3,t6D1-b69-sl3,"9 West Ninth St",1,105,2459_shp,0,0
+9,3,t6DF-b69-sl3,"9 West Ninth St",1,105,2456_shp,0,0
+9,3,t735-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t743-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,3,t799-b67-sl3,"9 West Ninth St",1,103,2459_shp,0,0
+9,3,t7A7-b67-sl3,"9 West Ninth St",1,103,2456_shp,0,0
+9,4,t3FC-bD1-sl4,"9 West Ninth St",1,209,2457_shp,0,0
+9,4,t40A-bD1-sl4,"9 West Ninth St",1,209,2454_shp,0,0
+9,4,t460-bCA-sl4,"9 West Ninth St",1,202,2457_shp,0,0
+9,4,t46E-bCA-sl4,"9 West Ninth St",1,202,2454_shp,0,0
+9,4,t4C4-bCC-sl4,"9 West Ninth St",1,204,2457_shp,0,0
+9,4,t4D2-bCC-sl4,"9 West Ninth St",1,204,2454_shp,0,0
+9,4,t528-bC9-sl4,"9 West Ninth St",1,201,2457_shp,0,0
+9,4,t536-bC9-sl4,"9 West Ninth St",1,201,2454_shp,0,0
+9,4,t58C-bD1-sl4,"9 West Ninth St",1,209,2457_shp,0,0
+9,4,t59A-bD1-sl4,"9 West Ninth St",1,209,2454_shp,0,0
+9,4,t5F0-bCA-sl4,"9 West Ninth St",1,202,2457_shp,0,0
+9,4,t5FE-bCA-sl4,"9 West Ninth St",1,202,2454_shp,0,0
+9,4,t654-bCC-sl4,"9 West Ninth St",1,204,2457_shp,0,0
+9,4,t662-bCC-sl4,"9 West Ninth St",1,204,2454_shp,0,0
+10,2,t267-b6-sl2,"10 Coffey Lane",1,6,2501_shp,0,0
+10,2,t28C-b6-sl2,"10 Coffey Lane",1,6,2500_shp,0,0
+10,2,t2CB-bD-sl2,"10 Coffey Lane",1,13,2493_shp,0,0
+10,2,t32F-b1-sl2,"10 Coffey Lane",1,1,2501_shp,0,0
+10,2,t354-b1-sl2,"10 Coffey Lane",1,1,2500_shp,0,0
+10,2,t393-b8-sl2,"10 Coffey Lane",1,8,2501_shp,0,0
+10,2,t3B8-b8-sl2,"10 Coffey Lane",1,8,2500_shp,0,0
+10,2,t3F7-b6-sl2,"10 Coffey Lane",1,6,2501_shp,0,0
+10,2,t41C-b6-sl2,"10 Coffey Lane",1,6,2500_shp,0,0
+10,2,t45B-b1-sl2,"10 Coffey Lane",1,1,2501_shp,0,0
+10,2,t480-b1-sl2,"10 Coffey Lane",1,1,2500_shp,0,0
+10,2,t4BF-bB-sl2,"10 Coffey Lane",1,11,2501_shp,0,0
+10,2,t4E4-bB-sl2,"10 Coffey Lane",1,11,2500_shp,0,0
+10,2,t523-b11-sl2,"10 Coffey Lane",1,17,2501_shp,0,0
+10,2,t548-b11-sl2,"10 Coffey Lane",1,17,2500_shp,0,0
+10,2,t587-b3-sl2,"10 Coffey Lane",1,3,2501_shp,0,0
+10,2,t5AC-b3-sl2,"10 Coffey Lane",1,3,2500_shp,0,0
+10,2,t5EB-b9-sl2,"10 Coffey Lane",1,9,2501_shp,0,0
+10,2,t610-b9-sl2,"10 Coffey Lane",1,9,2500_shp,0,0
+10,2,t64F-bF-sl2,"10 Coffey Lane",1,15,2501_shp,0,0
+10,2,t674-bF-sl2,"10 Coffey Lane",1,15,2500_shp,0,0
+10,2,t6B3-b4-sl2,"10 Coffey Lane",1,4,2501_shp,0,0
+10,2,t6D8-b4-sl2,"10 Coffey Lane",1,4,2500_shp,0,0
+10,2,t717-b5-sl2,"10 Coffey Lane",1,5,2501_shp,0,0
+10,2,t73C-b5-sl2,"10 Coffey Lane",1,5,2500_shp,0,0
+10,2,t77B-b4-sl2,"10 Coffey Lane",1,4,2501_shp,0,0
+10,2,t7A0-b4-sl2,"10 Coffey Lane",1,4,2500_shp,0,0
+10,2,t7DF-b11-sl2,"10 Coffey Lane",1,17,2501_shp,0,0
+10,2,t804-b11-sl2,"10 Coffey Lane",1,17,2500_shp,0,0
+10,3,t2E9-b66-sl3,"10 Coffey Lane",1,102,2505_shp,0,0
+10,3,t32D-b66-sl3,"10 Coffey Lane",1,102,2503_shp,0,0
+10,3,t34D-b67-sl3,"10 Coffey Lane",1,103,2505_shp,0,0
+10,3,t391-b67-sl3,"10 Coffey Lane",1,103,2503_shp,0,0
+10,3,t3B1-b67-sl3,"10 Coffey Lane",1,103,2505_shp,0,0
+10,3,t3F5-b67-sl3,"10 Coffey Lane",1,103,2503_shp,0,0
+10,3,t415-b6D-sl3,"10 Coffey Lane",1,109,2505_shp,0,0
+10,3,t459-b6D-sl3,"10 Coffey Lane",1,109,2503_shp,0,0
+10,3,t479-b66-sl3,"10 Coffey Lane",1,102,2505_shp,0,0
+10,3,t4BD-b66-sl3,"10 Coffey Lane",1,102,2503_shp,0,0
+10,3,t4DD-b69-sl3,"10 Coffey Lane",1,105,2505_shp,0,0
+10,3,t521-b69-sl3,"10 Coffey Lane",1,105,2503_shp,0,0
+10,3,t541-b69-sl3,"10 Coffey Lane",1,105,2505_shp,0,0
+10,3,t585-b69-sl3,"10 Coffey Lane",1,105,2503_shp,0,0
+10,3,t5A5-b66-sl3,"10 Coffey Lane",1,102,2505_shp,0,0
+10,3,t5E9-b66-sl3,"10 Coffey Lane",1,102,2503_shp,0,0
+10,3,t609-b66-sl3,"10 Coffey Lane",1,102,2505_shp,0,0
+10,3,t64D-b66-sl3,"10 Coffey Lane",1,102,2503_shp,0,0
+10,3,t66D-b66-sl3,"10 Coffey Lane",1,102,2505_shp,0,0
+10,3,t6B1-b66-sl3,"10 Coffey Lane",1,102,2503_shp,0,0
+10,4,t3E8-bC9-sl4,"10 Coffey Lane",1,201,2504_shp,0,0
+10,4,t404-bC9-sl4,"10 Coffey Lane",1,201,2502_shp,0,0
+10,4,t44C-bD1-sl4,"10 Coffey Lane",1,209,2504_shp,0,0
+10,4,t468-bD1-sl4,"10 Coffey Lane",1,209,2502_shp,0,0
+10,4,t4B0-bCA-sl4,"10 Coffey Lane",1,202,2504_shp,0,0
+10,4,t4CC-bCA-sl4,"10 Coffey Lane",1,202,2502_shp,0,0
+10,4,t514-bCC-sl4,"10 Coffey Lane",1,204,2504_shp,0,0
+10,4,t530-bCC-sl4,"10 Coffey Lane",1,204,2502_shp,0,0
+10,4,t578-bC9-sl4,"10 Coffey Lane",1,201,2504_shp,0,0
+10,4,t594-bC9-sl4,"10 Coffey Lane",1,201,2502_shp,0,0
+10,4,t5DC-bD1-sl4,"10 Coffey Lane",1,209,2504_shp,0,0
+10,4,t5F8-bD1-sl4,"10 Coffey Lane",1,209,2502_shp,0,0
+10,4,t640-bCA-sl4,"10 Coffey Lane",1,202,2504_shp,0,0
+10,4,t65C-bCA-sl4,"10 Coffey Lane",1,202,2502_shp,0,0
+12,2,t285-b10-sl2,"12 Roseland",1,16,2480_shp,0,0
+12,2,t293-b10-sl2,"12 Roseland",1,16,2470_shp,0,0
+12,2,t2CB-bC-sl2,"12 Roseland",1,12,2480_shp,0,0
+12,2,t2D9-bC-sl2,"12 Roseland",1,12,2470_shp,0,0
+12,2,t2E9-bB-sl2,"12 Roseland",1,11,2480_shp,0,0
+12,2,t2F7-bB-sl2,"12 Roseland",1,11,2470_shp,0,0
+12,2,t32F-b6-sl2,"12 Roseland",1,6,2480_shp,0,0
+12,2,t33D-b6-sl2,"12 Roseland",1,6,2470_shp,0,0
+12,2,t34D-b4-sl2,"12 Roseland",1,4,2480_shp,0,0
+12,2,t35B-b4-sl2,"12 Roseland",1,4,2470_shp,0,0
+12,2,t393-bF-sl2,"12 Roseland",1,15,2480_shp,0,0
+12,2,t3A1-bF-sl2,"12 Roseland",1,15,2470_shp,0,0
+12,2,t3B1-bC-sl2,"12 Roseland",1,12,2480_shp,0,0
+12,2,t3BF-bC-sl2,"12 Roseland",1,12,2470_shp,0,0
+12,2,t3F7-b11-sl2,"12 Roseland",1,17,2480_shp,0,0
+12,2,t405-b11-sl2,"12 Roseland",1,17,2470_shp,0,0
+12,2,t415-b3-sl2,"12 Roseland",1,3,2480_shp,0,0
+12,2,t423-b3-sl2,"12 Roseland",1,3,2470_shp,0,0
+12,2,t45B-bF-sl2,"12 Roseland",1,15,2480_shp,0,0
+12,2,t469-bF-sl2,"12 Roseland",1,15,2470_shp,0,0
+12,2,t479-b5-sl2,"12 Roseland",1,5,2480_shp,0,0
+12,2,t487-b5-sl2,"12 Roseland",1,5,2470_shp,0,0
+12,2,t4DD-b10-sl2,"12 Roseland",1,16,2480_shp,0,0
+12,2,t4EB-b10-sl2,"12 Roseland",1,16,2470_shp,0,0
+12,2,t523-bD-sl2,"12 Roseland",1,13,2480_shp,0,0
+12,2,t531-bD-sl2,"12 Roseland",1,13,2470_shp,0,0
+12,2,t541-b6-sl2,"12 Roseland",1,6,2480_shp,0,0
+12,2,t54F-b6-sl2,"12 Roseland",1,6,2470_shp,0,0
+12,2,t587-b10-sl2,"12 Roseland",1,16,2480_shp,0,0
+12,2,t595-b10-sl2,"12 Roseland",1,16,2470_shp,0,0
+12,2,t5A5-bF-sl2,"12 Roseland",1,15,2480_shp,0,0
+12,2,t5B3-bF-sl2,"12 Roseland",1,15,2470_shp,0,0
+12,2,t5EB-bB-sl2,"12 Roseland",1,11,2480_shp,0,0
+12,2,t5F9-bB-sl2,"12 Roseland",1,11,2470_shp,0,0
+12,2,t60E-b10-sl2,"12 Roseland",1,16,2480_shp,0,0
+12,2,t644-b10-sl2,"12 Roseland",1,16,2470_shp,0,0
+12,2,t64F-b8-sl2,"12 Roseland",1,8,2480_shp,0,0
+12,2,t65D-b8-sl2,"12 Roseland",1,8,2470_shp,0,0
+12,2,t66D-b3-sl2,"12 Roseland",1,3,2480_shp,0,0
+12,2,t67B-b3-sl2,"12 Roseland",1,3,2470_shp,0,0
+12,2,t6B3-bD-sl2,"12 Roseland",1,13,2480_shp,0,0
+12,2,t6C1-bD-sl2,"12 Roseland",1,13,2470_shp,0,0
+12,2,t6D1-bE-sl2,"12 Roseland",1,14,2480_shp,0,0
+12,2,t6DF-bE-sl2,"12 Roseland",1,14,2470_shp,0,0
+12,2,t735-bF-sl2,"12 Roseland",1,15,2480_shp,0,0
+12,2,t743-bF-sl2,"12 Roseland",1,15,2470_shp,0,0
+12,2,t77B-b10-sl2,"12 Roseland",1,16,2480_shp,0,0
+12,2,t789-b10-sl2,"12 Roseland",1,16,2470_shp,0,0
+12,2,t799-bE-sl2,"12 Roseland",1,14,2480_shp,0,0
+12,2,t7A7-bE-sl2,"12 Roseland",1,14,2470_shp,0,0
+12,2,t7DF-bB-sl2,"12 Roseland",1,11,2480_shp,0,0
+12,2,t7ED-bB-sl2,"12 Roseland",1,11,2470_shp,0,0
+12,3,t262-b66-sl3,"12 Roseland",1,102,2484_shp,0,0
+12,3,t271-b66-sl3,"12 Roseland",1,102,2474_shp,0,0
+12,3,t2C6-b69-sl3,"12 Roseland",1,105,2484_shp,0,0
+12,3,t2D5-b69-sl3,"12 Roseland",1,105,2474_shp,0,0
+12,3,t32A-b67-sl3,"12 Roseland",1,103,2484_shp,0,0
+12,3,t339-b67-sl3,"12 Roseland",1,103,2474_shp,0,0
+12,3,t38E-b6D-sl3,"12 Roseland",1,109,2484_shp,0,0
+12,3,t39D-b6D-sl3,"12 Roseland",1,109,2474_shp,0,0
+12,3,t3F2-b69-sl3,"12 Roseland",1,105,2484_shp,0,0
+12,3,t401-b69-sl3,"12 Roseland",1,105,2474_shp,0,0
+12,3,t456-b66-sl3,"12 Roseland",1,102,2484_shp,0,0
+12,3,t465-b66-sl3,"12 Roseland",1,102,2474_shp,0,0
+12,3,t4BA-b67-sl3,"12 Roseland",1,103,2484_shp,0,0
+12,3,t4C9-b67-sl3,"12 Roseland",1,103,2474_shp,0,0
+12,3,t51E-b6D-sl3,"12 Roseland",1,109,2484_shp,0,0
+12,3,t52D-b6D-sl3,"12 Roseland",1,109,2474_shp,0,0
+12,3,t582-b66-sl3,"12 Roseland",1,102,2484_shp,0,0
+12,3,t591-b66-sl3,"12 Roseland",1,102,2474_shp,0,0
+12,3,t5E6-b6D-sl3,"12 Roseland",1,109,2484_shp,0,0
+12,3,t5F5-b6D-sl3,"12 Roseland",1,109,2474_shp,0,0
+12,3,t64A-b69-sl3,"12 Roseland",1,105,2484_shp,0,0
+12,3,t659-b69-sl3,"12 Roseland",1,105,2474_shp,0,0
+12,3,t6AE-b6D-sl3,"12 Roseland",1,109,2484_shp,0,0
+12,3,t6BD-b6D-sl3,"12 Roseland",1,109,2474_shp,0,0
+12,3,t712-b67-sl3,"12 Roseland",1,103,2484_shp,0,0
+12,3,t721-b67-sl3,"12 Roseland",1,103,2474_shp,0,0
+12,3,t776-b6D-sl3,"12 Roseland",1,109,2484_shp,0,0
+12,3,t785-b6D-sl3,"12 Roseland",1,109,2474_shp,0,0
+12,4,t3F7-bCE-sl4,"12 Roseland",1,206,2477_shp,0,0
+12,4,t406-bCE-sl4,"12 Roseland",1,206,2467_shp,0,0
+12,4,t45B-bD3-sl4,"12 Roseland",1,211,2477_shp,0,0
+12,4,t46A-bD3-sl4,"12 Roseland",1,211,2467_shp,0,0
+12,4,t4BF-bCB-sl4,"12 Roseland",1,203,2477_shp,0,0
+12,4,t4CE-bCB-sl4,"12 Roseland",1,203,2467_shp,0,0
+12,4,t523-bCE-sl4,"12 Roseland",1,206,2477_shp,0,0
+12,4,t532-bCE-sl4,"12 Roseland",1,206,2467_shp,0,0
+12,4,t587-bD3-sl4,"12 Roseland",1,211,2477_shp,0,0
+12,4,t596-bD3-sl4,"12 Roseland",1,211,2467_shp,0,0
+12,4,t5EB-bCB-sl4,"12 Roseland",1,203,2477_shp,0,0
+12,4,t5FA-bCB-sl4,"12 Roseland",1,203,2467_shp,0,0
+12,4,t64F-bCE-sl4,"12 Roseland",1,206,2477_shp,0,0
+12,4,t65E-bCE-sl4,"12 Roseland",1,206,2467_shp,0,0
+15,2,t26C-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t281-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t2D0-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t2E5-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t334-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t349-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t398-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t3AD-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t3FC-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t411-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t460-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t475-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t4C4-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t4D9-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t528-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t53D-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t58C-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t5A1-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t5F0-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t605-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t654-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t669-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t6B8-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t6CD-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t71C-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t731-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,2,t780-bA-sl2,"15 Stony Point R",1,10,2491_shp,0,0
+15,2,t795-bA-sl2,"15 Stony Point R",1,10,2488_shp,0,0
+15,3,t334-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t349-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t398-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t3AD-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t3FC-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t411-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t460-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t475-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t528-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t53D-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t58C-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t5A1-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t5F0-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t605-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,3,t654-b6E-sl3,"15 Stony Point R",1,110,2492_shp,0,0
+15,3,t669-b6E-sl3,"15 Stony Point R",1,110,2489_shp,0,0
+15,4,t3FC-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t411-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t460-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t475-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t4C4-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t4D9-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t528-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t53D-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t58C-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t5A1-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t5F0-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t605-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+15,4,t654-bD2-sl4,"15 Stony Point R",1,210,2490_shp,0,0
+15,4,t669-bD2-sl4,"15 Stony Point R",1,210,2487_shp,0,0
+18,2,t3FC-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t413-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t460-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t477-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t4C4-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t4DB-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t528-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t53F-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t58C-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t5A3-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t5F0-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t607-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,2,t654-b12-sl2,"18 East Circulat",1,18,2481_shp,0,0
+18,2,t66B-b12-sl2,"18 East Circulat",1,18,2471_shp,0,0
+18,3,t3FC-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t413-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t460-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t477-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t4C4-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t4DB-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t528-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t53F-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t58C-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t5A3-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t5F0-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t607-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,3,t654-b6F-sl3,"18 East Circulat",1,111,2485_shp,0,0
+18,3,t66B-b6F-sl3,"18 East Circulat",1,111,2475_shp,0,0
+18,4,t3FC-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t413-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t460-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t477-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t4C4-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t4DB-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t528-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t53F-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t58C-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t5A3-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t5F0-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t607-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+18,4,t654-bD0-sl4,"18 East Circulat",1,208,2478_shp,0,0
+18,4,t66B-bD0-sl4,"18 East Circulat",1,208,2468_shp,0,0
+20,2,t267-b8-sl2,"2B Sebastopol Rd",1,8,2483_shp,0,0
+20,2,t27A-b8-sl2,"2B Sebastopol Rd",1,8,2473_shp,0,0
+20,2,t285-bF-sl2,"2B Sebastopol Rd",1,15,2483_shp,0,0
+20,2,t2C0-bF-sl2,"2B Sebastopol Rd",1,15,2473_shp,0,0
+20,2,t2CB-b9-sl2,"2B Sebastopol Rd",1,9,2483_shp,0,0
+20,2,t2DE-b9-sl2,"2B Sebastopol Rd",1,9,2473_shp,0,0
+20,2,t2E9-b3-sl2,"2B Sebastopol Rd",1,3,2483_shp,0,0
+20,2,t324-b3-sl2,"2B Sebastopol Rd",1,3,2473_shp,0,0
+20,2,t32F-b5-sl2,"2B Sebastopol Rd",1,5,2483_shp,0,0
+20,2,t342-b5-sl2,"2B Sebastopol Rd",1,5,2473_shp,0,0
+20,2,t34D-b9-sl2,"2B Sebastopol Rd",1,9,2483_shp,0,0
+20,2,t388-b9-sl2,"2B Sebastopol Rd",1,9,2473_shp,0,0
+20,2,t393-b10-sl2,"2B Sebastopol Rd",1,16,2483_shp,0,0
+20,2,t3A6-b10-sl2,"2B Sebastopol Rd",1,16,2473_shp,0,0
+20,2,t3F7-bE-sl2,"2B Sebastopol Rd",1,14,2483_shp,0,0
+20,2,t40A-bE-sl2,"2B Sebastopol Rd",1,14,2473_shp,0,0
+20,2,t415-b4-sl2,"2B Sebastopol Rd",1,4,2483_shp,0,0
+20,2,t450-b4-sl2,"2B Sebastopol Rd",1,4,2473_shp,0,0
+20,2,t45B-b9-sl2,"2B Sebastopol Rd",1,9,2483_shp,0,0
+20,2,t46E-b9-sl2,"2B Sebastopol Rd",1,9,2473_shp,0,0
+20,2,t479-bD-sl2,"2B Sebastopol Rd",1,13,2483_shp,0,0
+20,2,t4B4-bD-sl2,"2B Sebastopol Rd",1,13,2473_shp,0,0
+20,2,t4BF-b3-sl2,"2B Sebastopol Rd",1,3,2483_shp,0,0
+20,2,t4D2-b3-sl2,"2B Sebastopol Rd",1,3,2473_shp,0,0
+20,2,t4DD-bF-sl2,"2B Sebastopol Rd",1,15,2483_shp,0,0
+20,2,t518-bF-sl2,"2B Sebastopol Rd",1,15,2473_shp,0,0
+20,2,t523-b4-sl2,"2B Sebastopol Rd",1,4,2483_shp,0,0
+20,2,t536-b4-sl2,"2B Sebastopol Rd",1,4,2473_shp,0,0
+20,2,t541-bC-sl2,"2B Sebastopol Rd",1,12,2483_shp,0,0
+20,2,t57C-bC-sl2,"2B Sebastopol Rd",1,12,2473_shp,0,0
+20,2,t587-b5-sl2,"2B Sebastopol Rd",1,5,2483_shp,0,0
+20,2,t59A-b5-sl2,"2B Sebastopol Rd",1,5,2473_shp,0,0
+20,2,t5A5-b1-sl2,"2B Sebastopol Rd",1,1,2483_shp,0,0
+20,2,t5E0-b1-sl2,"2B Sebastopol Rd",1,1,2473_shp,0,0
+20,2,t5EB-bD-sl2,"2B Sebastopol Rd",1,13,2483_shp,0,0
+20,2,t5FE-bD-sl2,"2B Sebastopol Rd",1,13,2473_shp,0,0
+20,2,t609-b5-sl2,"2B Sebastopol Rd",1,5,2483_shp,0,0

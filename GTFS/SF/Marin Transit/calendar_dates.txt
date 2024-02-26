@@ -1,0 +1,29 @@
+service_id,date,holiday_name,exception_type
+Mon-Fri,20230904,Labor Day,2
+Monday,20230904,Labor Day,2
+SunHol,20230904,Labor Day,1
+Thursday,20231123,Thanksgiving Day,2
+Mon-Fri,20231123,Thanksgiving Day,2
+SunHol,20231123,Thanksgiving Day,1
+Friday,20231124,Day After Thanksgiving,2
+Mon-Fri,20231124,Day After Thanksgiving,2
+SunHol,20231124,Day After Thanksgiving,1
+Mon-Fri,20231225,Christmas Day,2
+Monday,20231225,Christmas Day,2
+SunHol,20231225,Christmas Day,1
+Mon-Fri,20240101,New Years Day,2
+Monday,20240101,New Years Day,2
+SunHol,20240101,New Years Day,1
+Monday,20240115,MLK Jr Day,2
+Mon-Fri,20240219,Presidents Day,2
+Monday,20240219,Presidents Day,2
+SunHol,20240219,Presidents Day,1
+Tuesday,20240220,Mid-winter Break,2
+Wednesday,20240221,Mid-winter Break,2
+Thursday,20240222,Mid-winter Break,2
+Friday,20240223,Mid-winter Break,2
+Mon-Fri,20240527,Memorial Day,2
+Monday,20240527,Memorial Day,2
+SunHol,20240527,Memorial Day,1
+Mon-Fri,20240704,Independence Day,2
+SunHol,20240704,Independence Day,1

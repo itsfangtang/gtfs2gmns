@@ -1,0 +1,7 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
+43002,43002,Angel Island Ferry Landing,37.868518,-122.434917,73292,,,,,,,
+43004,43004,Larkspur Ferry Terminal,37.944712,-122.508355,73293,,,,,,,
+43000,43000,San Francisco Ferry Terminal,37.795921,-122.392427,73291,,,,,,,
+43008,43008,San Francisco Ferry Terminal Gate B,37.796533,-122.393763,73291,,,,,,,
+43003,43003,Sausalito Ferry Landing,37.856166,-122.477546,73292,,,,,,,
+43007,43007,Tiburon Ferry Landing,37.872732,-122.455917,73293,,,,,,,

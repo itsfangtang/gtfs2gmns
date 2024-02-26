@@ -1,0 +1,9 @@
+service_id,service_description
+a188f82d-92fa-4a6b-ac00-c3e623289edc,Calendar start 12.1.23 (Weekday)
+1463f568-b2df-45a5-9a08-7c6c3f5ac999,Calendar start 12.1.23 (Weekday)
+d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,Calendar start 12.1.23 (Weekday)
+f1fea23f-aed7-45e8-969e-f7dad4a9821a,Calendar start 12.1.23 (Weekday)
+392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,Calendar start 12.1.23 (Weekday)
+bb585aa3-faba-4699-b796-113855f7637e,Calendar start 12.1.23 (Weekday)
+2b541db7-1b18-4c71-a11d-6e4ca10a0043,Calendar start 12.1.23 (Weekday)
+ca8b96b9-c712-47e6-863d-e600dc534207,Calendar start 12.1.23 (Weekday)

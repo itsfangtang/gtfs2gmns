@@ -1,0 +1,13 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+267,2036,2,Route 2,,3,http://transit.cityofpetaluma.net/routes/route-2/,ee1f23,ffffff,0,60,0,1,1,,
+267,2037,3,Route 3,,3,http://transit.cityofpetaluma.net/routes/route-3/,36c3f2,000000,1,60,0,1,1,,
+267,5270,312,Route 312,312 Casa Grande HS to ETC,3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_Aug_School_Trippers_KJHS__CGHS_ENG.pdf,4b5e4f,f7fbf8,10,,0,1,1,,
+267,2035,501,Route 501,"Route 501, formerly named Route 5",3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_August_School_Trippers_PJHS_PHS_Eng.pdf,690303,f7f4f4,11,,0,1,1,,
+267,2034,10,Route 10,"Route 10, SMART, Downtown Petaluma, Petaluma Blvd. North",3,http://transit.cityofpetaluma.net/routes/route-10/,820404,ffffff,2,60,0,1,1,,
+267,2039,11,Route 11,Route 11 - Petaluma Crosstown,3,http://transit.cityofpetaluma.net/routes/route-11/,884b9d,ffffff,3,30,0,1,1,,
+267,2040,24,Route 24,Route 24 - SMART to Kaiser via Lakeville,3,http://transit.cityofpetaluma.net/routes/route-24/,f9a91b,000000,4,30,0,1,1,,
+267,2038,33,Route 33,"Route 33, East Petaluma Counterclockwise",3,http://transit.cityofpetaluma.net/routes/route-33/,1250a3,ffffff,5,60,0,1,1,,
+267,9748,301,Route 301,,3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_Aug_School_Trippers_KJHS__CGHS_ENG.pdf,4bb36a,ffffff,6,,0,1,1,,
+267,2052,302,Route 302,Route 302 - Meadow School-CGHS-N. McDowell Blvd via SMP,3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_Aug_School_Trippers_KJHS__CGHS_ENG.pdf,964a85,f6f0f0,7,,0,1,1,,
+267,2051,303,Route 303,,3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_Aug_School_Trippers_KJHS__CGHS_ENG.pdf,1b4853,ffffff,8,,0,1,1,,
+267,2049,311,Route 311,,3,http://transit.cityofpetaluma.net/wp-content/uploads/2019/08/2019_Aug_School_Trippers_KJHS__CGHS_ENG.pdf,ef0f2a,ffffff,9,,0,1,1,,

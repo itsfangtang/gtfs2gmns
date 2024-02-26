@@ -1,0 +1,8 @@
+service_id,date,holiday_name,exception_type
+c_21615_b_30254_d_31,20240219,Presidents' Day,2
+c_21615_b_30254_d_31,20240115,Martin Luther King Day,2
+c_21615_b_30254_d_31,20240101,New Year's Day,2
+c_21615_b_30254_d_31,20231225,Christmas Day ,2
+c_21615_b_30254_d_31,20231123,Thanksgiving,2
+c_21615_b_30254_d_31,20230904,Labor Day,2
+c_21615_b_30254_d_31,20230704,Independence Day ,2

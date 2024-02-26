@@ -1,0 +1,2 @@
+service_id,service_description
+c_70155_b_82012_d_31,Regular LIVE Schedule  (Weekday)

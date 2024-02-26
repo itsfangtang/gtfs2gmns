@@ -1,0 +1,37 @@
+stop_id,stop_city
+3478099,Santa Rosa
+2573257,Novato
+3478083,San Rafael
+3478089,Cotati
+2573259,Petaluma
+3478100,Rohnert Park
+3478098,Santa Rosa
+3478107,San Rafael
+3478087,Novato
+2574329,Novato
+3478082,Larkspur
+2573263,Santa Rosa
+3478104,Novato
+3478091,Santa Rosa
+3478105,Novato
+2573260,Rohnert Park
+3478092,Santa Rosa
+2573262,Santa Rosa
+3478102,Petaluma
+3478103,Novato
+2573261,San Rafael
+2573264,Santa Rosa
+2573256,San Rafael
+3478088,Petaluma
+2573258,Novato
+3478106,San Rafael
+3478094,Santa Rosa
+2574328,Larkspur
+3478101,Cotati
+3478086,Novato
+3478108,Larkspur
+3478085,Novato
+3478093,Santa Rosa
+3478084,San Rafael
+3478090,Rohnert Park
+2573255,Cotati

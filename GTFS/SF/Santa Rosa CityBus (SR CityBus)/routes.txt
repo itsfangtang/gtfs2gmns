@@ -1,0 +1,15 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1,SRCityBus,"1","Mendocino Ave","Route 1 Mendocino Ave",3,,0074B3,FFFFFF,1
+2,SRCityBus,"2","Sebastopol Rd - Corporate Center","Route 2 Sebastopol Rd Corp Center",3,,EF692F,FFFFFF,2
+3,SRCityBus,"3","Santa Rosa Ave","Route 3 Santa Rosa Ave",3,,ED017F,FFFFFF,4
+4,SRCityBus,"4","Rincon Valley","Route 4 Rincon Valley",3,,39B54A,FFFFFF,5
+5,SRCityBus,"5","Petaluma Hill Rd","Route 5 Santa Rosa Avenue",3,,E9C01E,FFFFFF,7
+6,SRCityBus,"6","Fulton Road","Route 6 West Third Street",3,,B8093D,FFFFFF,8
+8,SRCityBus,"8","Bennett Valley","Route 8 Bennett Valley",3,,EF692F,FFFFFF,10
+9,SRCityBus,"9","West 9th Street","Route 9 West 9th Street",3,,8094C4,FFFFFF,11
+10,SRCityBus,"10","North City Connector","Route 10 Coddingtown",3,,F99F38,FFFFFF,12
+12,SRCityBus,"12","Corby Ave - Roseland","Route 12 Roseland",3,,0BA08E,FFFFFF,13
+15,SRCityBus,"15","Stony Point Road","Route 15 Stony Point Road",3,,2DACCE,FFFFFF,15
+18,SRCityBus,"18","East Circulator","Route 18 Southeast Circulator",3,,274867,FFFFFF,18
+20,SRCityBus,"20","Sebastopol Road","Route 2B Sebastopol Road",3,,662D91,FFFFFF,3
+40,SRCityBus,"40","Rincon Valley","Route 4B Rincon Valley",3,,15CF40,FFFFFF,6

@@ -1,0 +1,5 @@
+route_id,category,subcategory,running_way
+AIF,2,201,1
+LF,2,201,1
+SF,2,201,1
+TF,2,201,1

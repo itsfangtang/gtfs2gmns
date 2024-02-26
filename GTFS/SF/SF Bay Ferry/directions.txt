@@ -1,0 +1,15 @@
+route_id,direction_id,direction
+HB,0,East
+HB,1,West
+OA,1,West
+OA,0,East
+SSF,0,North
+SSF,1,South
+P41,1,West
+P41,0,East
+RCH,0,North
+RCH,1,South
+SEA,1,West
+SEA,0,East
+VJO,1,South
+VJO,0,North

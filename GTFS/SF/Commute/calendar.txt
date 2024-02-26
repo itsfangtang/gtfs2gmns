@@ -1,0 +1,2 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_70155_b_82012_d_31,Regular LIVE Schedule  (Weekday),1,1,1,1,1,0,0,20240115,20240630
