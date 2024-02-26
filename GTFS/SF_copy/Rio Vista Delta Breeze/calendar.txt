@@ -1,2 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_21615_b_30254_d_31,Year Round Calendar with COVID reductions (Weekday),1,1,1,1,1,0,0,20210622,20240301

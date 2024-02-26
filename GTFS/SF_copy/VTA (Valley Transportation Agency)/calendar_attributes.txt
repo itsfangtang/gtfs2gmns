@@ -1,4 +1,0 @@
-service_id,service_description
-262.0.1,Weekday
-262.0.2,Saturday
-262.0.3,Sunday/Holiday

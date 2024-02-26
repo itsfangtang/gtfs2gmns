@@ -1,8 +1,0 @@
-stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
-2483549,,,Tiburon Ferry Terminal,,37.872939,-122.455446,1839,,0,,America/Los_Angeles,,,0
-2483550,,,Angel Island Ferry Terminal,,37.8687964896161,-122.435215608532,1841,,0,,America/Los_Angeles,,,0
-2483551,,,Alcatraz Landing (Pier 33),,37.8069552610009,-122.404199673672,,,0,,America/Los_Angeles,,,0
-2483552,,,Alcatraz Island,,37.826723,-122.421047,,,0,,America/Los_Angeles,,,0
-2483569,,,Sausalito Ferry Terminal,,37.856636,-122.478275,1840,,0,,America/Los_Angeles,,,0
-2483574,,,San Francisco Pier 41,,37.809579,-122.412277,1838,,0,,America/Los_Angeles,,,0
-2483575,,,San Francisco Ferry Building,,37.795497,-122.393365,1838,,0,,America/Los_Angeles,,,0

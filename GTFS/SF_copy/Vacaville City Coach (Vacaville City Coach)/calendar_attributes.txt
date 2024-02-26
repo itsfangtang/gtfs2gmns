@@ -1,5 +1,0 @@
-service_id,service_description
-c_67242_b_77396_d_32,Year Round starting 8/1/22 (Saturday only)
-c_67242_b_77396_d_31,Year Round starting 8/1/22 (Weekday)
-c_67242_b_77396_d_16,Year Round starting 8/1/22 (Friday only)
-c_67242_b_77396_d_15,Year Round starting 8/1/22 (MTuWTh)

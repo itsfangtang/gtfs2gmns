@@ -1,6 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_19732_b_26131_d_32,COVID Routes 11 & 19 Saturday  (Saturday only),0,0,0,0,0,1,0,20200418,20210630
-c_19731_b_26130_d_96,J - COVID (Weekend),0,0,0,0,0,1,1,20200418,20210630
-c_19731_b_26130_d_31,J - COVID (Weekday),1,1,1,1,1,0,0,20200418,20210630
-c_19357_b_25566_d_31,COVID (Weekday),1,1,1,1,1,0,0,20200418,20210630
-c_19336_b_25534_d_31,lynx reduced service (Weekday),1,1,1,1,1,0,0,20200323,20210630

@@ -1,2 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_21402_b_none_d_0,20210531,Memorial Day,1

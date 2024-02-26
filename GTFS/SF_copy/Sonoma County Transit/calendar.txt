@@ -1,8 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_69695_b_81101_d_31,School Trippers Beginning 8-14-23 (Weekday),1,1,1,1,1,0,0,20230814,20240112
-c_69694_b_81100_d_96,Service Beginning 8-13-23 (Weekend),0,0,0,0,0,1,1,20230813,20240113
-c_69694_b_81100_d_8,Service Beginning 8-13-23 (Thurday only),0,0,0,1,0,0,0,20230813,20240113
-c_69694_b_81100_d_64,Service Beginning 8-13-23 (Sunday only),0,0,0,0,0,0,1,20230813,20240113
-c_69694_b_81100_d_32,Service Beginning 8-13-23 (Saturday only),0,0,0,0,0,1,0,20230813,20240113
-c_69694_b_81100_d_31,Service Beginning 8-13-23 (Weekday),1,1,1,1,1,0,0,20230813,20240113
-c_69694_b_81100_d_23,Service Beginning 8-13-23 (MTuWF),1,1,1,0,1,0,0,20230813,20240113

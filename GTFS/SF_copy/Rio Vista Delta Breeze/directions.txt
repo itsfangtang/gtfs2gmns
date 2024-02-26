@@ -1,3 +1,0 @@
-route_id,direction_id,direction
-29,1,East
-29,0,West

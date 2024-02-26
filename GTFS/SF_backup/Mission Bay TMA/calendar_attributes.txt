@@ -1,2 +1,0 @@
-service_id,service_description
-c_15975_b_26877_d_31,Year Round (Weekday)

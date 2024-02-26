@@ -1,3 +1,0 @@
-url,trip_updates,vehicle_positions,service_alerts,authentication_type,authentication_info_url,api_key_parameter_name
-https://egrshuttle.com/gtfs-rt/tripupdates,true,false,false,none,,
-https://egrshuttle.com/gtfs-rt/vehiclepositions,false,true,false,none,,

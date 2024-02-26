@@ -1,4 +1,0 @@
-fare_id,route_id,origin_id,destination_id,contains_id
-2525,,,,
-2526,,1838,1841,
-2526,,1841,1838,1839

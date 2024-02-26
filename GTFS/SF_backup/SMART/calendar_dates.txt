@@ -1,5 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_69917_b_81552_d_96,20240527,Memorial Day,1
-c_69916_b_81551_d_31,20240527,Memorial Day,2
-c_69916_b_81551_d_31,20240101,New Year's Day,2
-c_69916_b_81551_d_31,20231225,Christmas,2

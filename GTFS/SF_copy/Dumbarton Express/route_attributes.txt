@@ -1,3 +1,0 @@
-route_id,category,subcategory,running_way
-DB,2,201,2
-DB1,2,201,2

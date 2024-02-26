@@ -1,5 +1,0 @@
-agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
-897,11636,,Angel Island - Tiburon,,4,https://angelislandferry.com/schedule/#c4,fa6101,000000,0,60,0,1,1
-899,11640,,Alcatraz - Angel Island - Pier 33,,4,https://www.alcatrazcruises.com/tour-options/alcatraz-angel-island-combo-tour/,edf1fa,000000,1,,0,1,1
-899,11639,,Pier 33 - Alcatraz,,4,https://www.alcatrazcruises.com/departure-schedule/,3f65ac,ffffff,2,,0,1,1
-901,11643,,Pier 41 - Sausalito - Tiburon - Angel Island,,4,,f5cb04,000000,3,,0,1,1

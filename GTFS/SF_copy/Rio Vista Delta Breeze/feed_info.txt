@@ -1,2 +1,0 @@
-feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 05-Jun-2023 20:41,,support+test+riovista-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20230605,20240301,riovista-ca-us

@@ -1,2 +1,0 @@
-agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
-36,http://www.fasttransit.org/,en,FAST,707-422-2877,America/Los_Angeles,http://www.fasttransit.org/fares-passes/,

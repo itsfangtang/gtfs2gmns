@@ -1,4 +1,0 @@
-service_id,service_description
-2,WEEKDAY
-3,SATURDAY
-4,SUNDAY

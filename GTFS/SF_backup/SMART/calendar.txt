@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_69917_b_81552_d_96,Schedule 8 - Weekend (Weekend),0,0,0,0,0,1,1,20231002,20240630
-c_69916_b_81551_d_31,Schedule 8 - Weekday (Weekday),1,1,1,1,1,0,0,20231002,20240630

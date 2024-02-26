@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang,agency_fare_url,agency_email
-1,"SolTrans","https://soltrans.org/","(707) 648-4666","America/Los_Angeles",en,,

@@ -1,4 +1,0 @@
-service_id,date,exception_type
-2023_09_11-SU-MVS-Sunday-02,20240101,1
-2023_09_11-SU19-Sunday-01,20240101,1
-2023_09_11-SU20-Sunday-01,20240101,1

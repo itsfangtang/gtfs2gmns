@@ -1,5 +1,0 @@
-zone_id,zone_name
-1838,San Francisco
-1839,Tiburon
-1840,Sausalito
-1841,Angel Island
