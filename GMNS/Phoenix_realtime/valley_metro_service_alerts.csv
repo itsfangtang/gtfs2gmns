@@ -1,36 +1,1936 @@
-feed_timestamp,alert_id,cause,effect,header_text_en,description_text_en,active_period_start,active_period_end,affected_route_id,affected_stop_id,affected_agency_id,affected_trip_id
-2025-10-03 23:48:01,RTA:15457478,CONSTRUCTION,DETOUR,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15318543,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15318498,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15318981,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15318583,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15397073,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15381276,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15354620,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15318454,OTHER_CAUSE,REDUCED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15459763,OTHER_CAUSE,NO_EFFECT,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15460910,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15408583,CONSTRUCTION,DETOUR,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15464695,OTHER_CAUSE,MODIFIED_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15465159,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15476520,CONSTRUCTION,SIGNIFICANT_DELAYS,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15476554,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15476559,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15476771,OTHER_CAUSE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477270,OTHER_CAUSE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477798,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477790,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477774,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477802,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15477808,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15478251,OTHER_CAUSE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15478407,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15478462,HOLIDAY,OTHER_EFFECT,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15478770,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15478774,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479134,OTHER_CAUSE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479167,MAINTENANCE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479159,CONSTRUCTION,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479169,MAINTENANCE,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,,,,,SYSTEM_WIDE,,,
-2025-10-03 23:48:01,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,,,,,SYSTEM_WIDE,,,
+feed_timestamp,alert_id,cause,effect,severity_level,header_text_en,description_text_en,url_en,active_period_start,active_period_end,active_period_count,affected_route_id,affected_stop_id,affected_agency_id,affected_trip_id,affected_direction_id
+2025-10-04 00:11:54,RTA:15457478,CONSTRUCTION,DETOUR,WARNING,Rt. 8 - Downtown Construction Detour,"Southbound Only:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2025-05-12 12:00:00,2025-10-27 06:59:00,1,8,,,,
+2025-10-04 00:11:54,RTA:15318498,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 50 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+3:51 PM - Camelback Rd & 107th Av > 5:34 PM - Scottsdale CC East
+
+The following trip segment(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+5:03 PM - Camelback Rd & 67th Av > 5:42 PM - Camelback Rd & Central Av
+
+",,2025-10-03 20:51:00,2025-10-04 00:42:00,1,50,,,,
+2025-10-04 00:11:54,RTA:15318498,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 50 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+3:51 PM - Camelback Rd & 107th Av > 5:34 PM - Scottsdale CC East
+
+The following trip segment(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+5:03 PM - Camelback Rd & 67th Av > 5:42 PM - Camelback Rd & Central Av
+
+",,2025-10-03 20:51:00,2025-10-04 00:42:00,1,,,,22787275,
+2025-10-04 00:11:54,RTA:15318498,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 50 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+3:51 PM - Camelback Rd & 107th Av > 5:34 PM - Scottsdale CC East
+
+The following trip segment(s) will not operate today. Please use the trip planner for alternative options.
+
+Eastbound
+5:03 PM - Camelback Rd & 67th Av > 5:42 PM - Camelback Rd & Central Av
+
+",,2025-10-03 20:51:00,2025-10-04 00:42:00,1,,,,22787225,
+2025-10-04 00:11:54,RTA:15318981,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 70 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Westbound
+4:47 PM - 24th St/Baseline PNR > 6:41 PM - Glendale PNR
+
+",,2025-10-03 21:47:00,2025-10-04 01:41:00,1,70,,,,
+2025-10-04 00:11:54,RTA:15318981,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 70 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Westbound
+4:47 PM - 24th St/Baseline PNR > 6:41 PM - Glendale PNR
+
+",,2025-10-03 21:47:00,2025-10-04 01:41:00,1,,,,22787936,
+2025-10-04 00:11:54,RTA:15318583,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 27 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+5:18 PM - Lower Buckeye Rd & 27th Av > 7:03 PM - Deer Valley Rd & 27th Av
+
+",,2025-10-03 22:18:00,2025-10-04 02:03:00,1,27,,,,
+2025-10-04 00:11:54,RTA:15318583,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 27 Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+5:18 PM - Lower Buckeye Rd & 27th Av > 7:03 PM - Deer Valley Rd & 27th Av
+
+",,2025-10-03 22:18:00,2025-10-04 02:03:00,1,,,,22787815,
+2025-10-04 00:11:54,RTA:15397073,CONSTRUCTION,NO_SERVICE,INFO,Rt. 3 Bus Stop Moved- Van Buren Street Construction,"Until further notice, the following bus stops have been moved due to construction on Van Buren Street in Downtown Phoenix. Please board bus at the temporary bus stop location. 
+
+Westbound:
+#10401 Van Buren St & 5th Av- Alternative Stops: Van Buren & 4th Av or Van Buren & 7th Av",,2024-01-02 05:10:00,2026-01-01 06:59:00,1,,7139,,,
+2025-10-04 00:11:54,RTA:15381276,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 68CM Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+5:32 PM - Granite Reef Senior Center > 6:11 PM - Indian School Rd & Hayden Rd
+
+Southbound
+6:13 PM - Indian School Rd & Hayden Rd > 6:48 PM - Granite Reef Senior Center
+
+",,2025-10-03 22:32:00,2025-10-04 01:48:00,1,68CM,,,,
+2025-10-04 00:11:54,RTA:15381276,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 68CM Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+5:32 PM - Granite Reef Senior Center > 6:11 PM - Indian School Rd & Hayden Rd
+
+Southbound
+6:13 PM - Indian School Rd & Hayden Rd > 6:48 PM - Granite Reef Senior Center
+
+",,2025-10-03 22:32:00,2025-10-04 01:48:00,1,,,,22654140,
+2025-10-04 00:11:54,RTA:15381276,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route 68CM Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+5:32 PM - Granite Reef Senior Center > 6:11 PM - Indian School Rd & Hayden Rd
+
+Southbound
+6:13 PM - Indian School Rd & Hayden Rd > 6:48 PM - Granite Reef Senior Center
+
+",,2025-10-03 22:32:00,2025-10-04 01:48:00,1,,,,22654234,
+2025-10-04 00:11:54,RTA:15354620,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route MLHD Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+6:55 PM - Granite Reef Senior Center > 7:27 PM - Mustang TC
+
+Southbound
+4:50 PM - Mustang TC > 5:25 PM - Granite Reef Senior Center
+
+7:30 PM - Mustang TC > 8:02 PM - Granite Reef Senior Center
+
+",,2025-10-03 21:50:00,2025-10-04 03:02:00,1,MLHD,,,,
+2025-10-04 00:11:54,RTA:15354620,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route MLHD Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+6:55 PM - Granite Reef Senior Center > 7:27 PM - Mustang TC
+
+Southbound
+4:50 PM - Mustang TC > 5:25 PM - Granite Reef Senior Center
+
+7:30 PM - Mustang TC > 8:02 PM - Granite Reef Senior Center
+
+",,2025-10-03 21:50:00,2025-10-04 03:02:00,1,,,,22654326,
+2025-10-04 00:11:54,RTA:15354620,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route MLHD Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+6:55 PM - Granite Reef Senior Center > 7:27 PM - Mustang TC
+
+Southbound
+4:50 PM - Mustang TC > 5:25 PM - Granite Reef Senior Center
+
+7:30 PM - Mustang TC > 8:02 PM - Granite Reef Senior Center
+
+",,2025-10-03 21:50:00,2025-10-04 03:02:00,1,,,,22654095,
+2025-10-04 00:11:54,RTA:15354620,OTHER_CAUSE,REDUCED_SERVICE,WARNING,Route MLHD Select Trips Canceled,"The following trip(s) will not operate today. Please use the trip planner for alternative options.
+
+Northbound
+6:55 PM - Granite Reef Senior Center > 7:27 PM - Mustang TC
+
+Southbound
+4:50 PM - Mustang TC > 5:25 PM - Granite Reef Senior Center
+
+7:30 PM - Mustang TC > 8:02 PM - Granite Reef Senior Center
+
+",,2025-10-03 21:50:00,2025-10-04 03:02:00,1,,,,22654317,
+2025-10-04 00:11:54,RTA:15459763,OTHER_CAUSE,NO_EFFECT,WARNING,Washington/Central Ave station is open for limited service,"This B Line station is open only for early morning trips going towards Metro Parkway. Trains will serve this station only during these times: 
+
+Monday-Friday: 3:55-5:02 a.m. 
+Saturday: 3:59- 5:25 a.m. 
+Sunday: 4:11-4:53 a.m.  
+
+All other times:  to go northbound towards Metro Parkway, please go to Downtown Phoenix Hub – Central Ave and board the B Line train.",,2025-06-07 07:00:00,2025-10-27 06:59:00,1,,9796,,,
+2025-10-04 00:11:54,RTA:15460910,CONSTRUCTION,NO_SERVICE,WARNING,Mercury Bus Stop Closure - Construction,"The 7th St. & Mill Ave. Eastbound Only bus stop is closed due to construction.
+
+Bus Stop Closure:
+12510 Mill Av & 7th St (SB Mill Av & FS 7th St)",https://www.valleymetro.org/maps-schedules/MERC,2025-06-04 22:20:00,2026-01-01 06:59:00,1,MERC,5198,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,531,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,542,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,521,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,522,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,533,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,535,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,514,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,SME,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,I10E,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,SMW,,,,1.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,SR51,,,,0.0
+2025-10-04 00:11:54,RTA:15408583,CONSTRUCTION,DETOUR,INFO,Inbound/Outbound Express and Rapid Routes - Downtown Construction Detour,"Express and Rapid routes will be on detour until further notice. 
+Inbound and Outbound:
+Regular route to 3rd Ave. and Van Buren St.,
+South on 3rd Ave.,
+West on Monroe St.,
+South on 5th Ave. to resume regular route.
+
+No Bus Stop Closures.",,2024-05-06 20:54:00,2025-10-25 06:59:00,1,I10W,,,,0.0
+2025-10-04 00:11:54,RTA:15464695,OTHER_CAUSE,MODIFIED_SERVICE,WARNING,Rt. 685 service now begins and ends at new stop,Service will now begin and end at Telera St./Esperanza Ave. Route will no longer serve previous stop at Ajo Transportation Office.,,2025-06-30 17:27:00,2025-10-27 06:59:00,1,685,,,,
+2025-10-04 00:11:54,RTA:15465159,CONSTRUCTION,NO_SERVICE,INFO,Jefferson & 9th Ave Bus Stop Closed,"Stop #10207 Eastbound Jefferson St & 9th Av will be closed beginning Monday, July 14, 2025 due to construction. 
+
+Bus Stop Closure:
+#10207 Jefferson St & 9th Av (EB Jefferson St & FS 9th Av)
+
+Alternative Stops: 
+Jefferson St & 11th Av; Jefferson St & 7th Av",,2025-07-14 07:00:00,2025-10-27 06:59:00,1,,1450,,,
+2025-10-04 00:11:54,RTA:15476520,CONSTRUCTION,SIGNIFICANT_DELAYS,INFO,Rt. 45 Ongoing Construction between Dobson Rd. and Price Rd.,"Eastbound and Westbound:
+Due to ongoing construction, please expect continuous delays at bus stops along Route 45 between Dobson Rd and Price Rd. This project will continue through May 2026.",,2025-09-17 13:40:00,2026-06-01 06:59:00,1,45,,,,
+2025-10-04 00:11:54,RTA:15476554,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 104 Detour between Arizona Ave./Frye Rd. and Hamilton St./Morelos St. - Construction,"Northbound:
+Regular route to Hamilton St and Morelos St; 
+South on Hamilton St.,
+East on Pecos Rd.,
+North on Ithica St.,
+West on Frye Rd to resume regular route.
+
+Southbound:
+Regular route to Arizona Ave. and Frye Rd;
+North on Arizona Ave.,
+East on Boston St.,
+North on S Delaware St.,
+East Commonwealth Ave.
+South on Hamilton St., 
+East on Frye Rd.,  
+South on Ithica St.,
+West on Pecos Rd.,
+North on Hamilton St., 
+East on Morelos St. to layover.
+
+Bus Stop Closures
+#16215 Washington St & Frye Rd (NB Washington St & FS Frye Rd) 
+#17099 Delaware St & Frye Rd (SB Delaware St & NS Frye Rd) 
+#17100 Hamilton St & Frye Rd (SB Hamilton St & FS Frye Rd)",,2025-09-22 14:47:00,2025-10-18 06:59:00,1,104,30580,,,
+2025-10-04 00:11:54,RTA:15476554,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 104 Detour between Arizona Ave./Frye Rd. and Hamilton St./Morelos St. - Construction,"Northbound:
+Regular route to Hamilton St and Morelos St; 
+South on Hamilton St.,
+East on Pecos Rd.,
+North on Ithica St.,
+West on Frye Rd to resume regular route.
+
+Southbound:
+Regular route to Arizona Ave. and Frye Rd;
+North on Arizona Ave.,
+East on Boston St.,
+North on S Delaware St.,
+East Commonwealth Ave.
+South on Hamilton St., 
+East on Frye Rd.,  
+South on Ithica St.,
+West on Pecos Rd.,
+North on Hamilton St., 
+East on Morelos St. to layover.
+
+Bus Stop Closures
+#16215 Washington St & Frye Rd (NB Washington St & FS Frye Rd) 
+#17099 Delaware St & Frye Rd (SB Delaware St & NS Frye Rd) 
+#17100 Hamilton St & Frye Rd (SB Hamilton St & FS Frye Rd)",,2025-09-22 14:47:00,2025-10-18 06:59:00,1,104,30215,,,
+2025-10-04 00:11:54,RTA:15476554,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 104 Detour between Arizona Ave./Frye Rd. and Hamilton St./Morelos St. - Construction,"Northbound:
+Regular route to Hamilton St and Morelos St; 
+South on Hamilton St.,
+East on Pecos Rd.,
+North on Ithica St.,
+West on Frye Rd to resume regular route.
+
+Southbound:
+Regular route to Arizona Ave. and Frye Rd;
+North on Arizona Ave.,
+East on Boston St.,
+North on S Delaware St.,
+East Commonwealth Ave.
+South on Hamilton St., 
+East on Frye Rd.,  
+South on Ithica St.,
+West on Pecos Rd.,
+North on Hamilton St., 
+East on Morelos St. to layover.
+
+Bus Stop Closures
+#16215 Washington St & Frye Rd (NB Washington St & FS Frye Rd) 
+#17099 Delaware St & Frye Rd (SB Delaware St & NS Frye Rd) 
+#17100 Hamilton St & Frye Rd (SB Hamilton St & FS Frye Rd)",,2025-09-22 14:47:00,2025-10-18 06:59:00,1,104,30214,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20104,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20103,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20100,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20099,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20098,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20097,,,
+2025-10-04 00:11:54,RTA:15476559,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 61 Detour between 51st Ave. and 43rd Ave.- Construction,"Eastbound:
+Regular route to 51st Ave. and Vineyard Rd.,
+Continue South on 51st Ave.,
+East on Baseline Rd.,
+North on 43rd Ave.,
+East on Southern Ave. to resume regular route. 
+
+Westbound:
+Regular route to Southern Ave. and 43rd Ave.,
+North on 43rd Ave.,
+West on Broadway Rd.,
+South on 51st Ave. to resume regular route at Southern Ave. 
+
+Bus Stops Closures:
+18911 Vineyard Rd & 49th Ln (EB Vineyard Rd & FS 49th Ln) 
+18934 Vineyard Rd & 51st Av (EB Vineyard Rd & FS 51st Av) 
+18935 47th Av & Vineyard Rd (NB 47th Av & FS Vineyard Rd) 
+18936 47th Av & Alta Vista Rd (NB 47th Av & FS Alta Vista Rd) 	
+18937 Southern Av & 43rd Av (WB Southern Av & FS 43rd Av) 
+18938 Southern Av & 47th Av (EB Southern Av & FS 47th Av) 
+18939 Southern Av & 45th Dr (EB Southern Av & FS 45th Dr)",https://www.valleymetro.org/maps-schedules/61,2025-09-17 15:53:00,2025-10-09 06:59:00,1,61,20105,,,
+2025-10-04 00:11:54,RTA:15476771,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 80 Temporary bus stop closure at 84th St./Shea Blvd,"A vehicle struck the westbound bus shelter at 84th St. and Shea Blvd. and severely damaged it. Operators have been instructed to pick up passengers just west of the shelter. For safety, the shelter has been taped off and will be removed.
+
+Bus Stop Closure
+#15680 Shea Bl & 84th St (WB Shea Bl & FS 84th St)",,2025-09-18 13:32:00,2025-11-01 06:59:00,1,80,5891,,,
+2025-10-04 00:11:54,RTA:15477270,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 45 Eastbound Bus Stop Closure at Broadway Rd. and Cottonwood Dr.,"Tempe's Eastbound bus stop at Broadway Rd. and Cottonwood Dr. is closed. Passengers will need to use the alternate bus stops listed below.
+
+Bus Stop Closure:
+#13112 Broadway Rd & Cottonwood Dr (EB Broadway Rd & FS Cottonwood Dr) 
+
+Alternate Stops:
+#13111 Broadway Rd & Price Rd (EB Broadway Rd & NS Price Rd) 
+#13113 Broadway Rd & El Dorado (EB Broadway Rd & FS El Dorado)",,2025-09-22 21:02:00,2025-11-01 06:59:00,1,45,157,,,
+2025-10-04 00:11:54,RTA:15477270,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 45 Eastbound Bus Stop Closure at Broadway Rd. and Cottonwood Dr.,"Tempe's Eastbound bus stop at Broadway Rd. and Cottonwood Dr. is closed. Passengers will need to use the alternate bus stops listed below.
+
+Bus Stop Closure:
+#13112 Broadway Rd & Cottonwood Dr (EB Broadway Rd & FS Cottonwood Dr) 
+
+Alternate Stops:
+#13111 Broadway Rd & Price Rd (EB Broadway Rd & NS Price Rd) 
+#13113 Broadway Rd & El Dorado (EB Broadway Rd & FS El Dorado)",,2025-09-22 21:02:00,2025-11-01 06:59:00,1,45,1096,,,
+2025-10-04 00:11:54,RTA:15477270,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 45 Eastbound Bus Stop Closure at Broadway Rd. and Cottonwood Dr.,"Tempe's Eastbound bus stop at Broadway Rd. and Cottonwood Dr. is closed. Passengers will need to use the alternate bus stops listed below.
+
+Bus Stop Closure:
+#13112 Broadway Rd & Cottonwood Dr (EB Broadway Rd & FS Cottonwood Dr) 
+
+Alternate Stops:
+#13111 Broadway Rd & Price Rd (EB Broadway Rd & NS Price Rd) 
+#13113 Broadway Rd & El Dorado (EB Broadway Rd & FS El Dorado)",,2025-09-22 21:02:00,2025-11-01 06:59:00,1,45,193,,,
+2025-10-04 00:11:54,RTA:15477798,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62  Detour between Tempe Transportation Center and Veterans Way/University Dr. - Construction,"Northbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+East on University Dr. to resume regular route.
+
+Southbound:
+Regular route to University Dr./Veterans Way; 
+Northwest on Veterans Way/5th St.; 
+West on 5th St. to  Tempe Transportation Center to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms)	
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 	
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,62,3327,,,
+2025-10-04 00:11:54,RTA:15477798,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62  Detour between Tempe Transportation Center and Veterans Way/University Dr. - Construction,"Northbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+East on University Dr. to resume regular route.
+
+Southbound:
+Regular route to University Dr./Veterans Way; 
+Northwest on Veterans Way/5th St.; 
+West on 5th St. to  Tempe Transportation Center to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms)	
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 	
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,62,6099,,,
+2025-10-04 00:11:54,RTA:15477798,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62  Detour between Tempe Transportation Center and Veterans Way/University Dr. - Construction,"Northbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+East on University Dr. to resume regular route.
+
+Southbound:
+Regular route to University Dr./Veterans Way; 
+Northwest on Veterans Way/5th St.; 
+West on 5th St. to  Tempe Transportation Center to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms)	
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 	
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,62,867,,,
+2025-10-04 00:11:54,RTA:15477798,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62  Detour between Tempe Transportation Center and Veterans Way/University Dr. - Construction,"Northbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+East on University Dr. to resume regular route.
+
+Southbound:
+Regular route to University Dr./Veterans Way; 
+Northwest on Veterans Way/5th St.; 
+West on 5th St. to  Tempe Transportation Center to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms)	
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 	
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,62,825,,,
+2025-10-04 00:11:54,RTA:15477790,CONSTRUCTION,NO_SERVICE,WARNING,Mars Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Northbound:
+Regular route to McAllister Ave./University Dr.; 
+Continue northwest on Veterans Way/5th St. to Tempe Transportation Center.
+
+Southbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./ Veterans Way; 
+Continue south on McAllister Ave. to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms) 
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms)
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MARS,3327,,,
+2025-10-04 00:11:54,RTA:15477790,CONSTRUCTION,NO_SERVICE,WARNING,Mars Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Northbound:
+Regular route to McAllister Ave./University Dr.; 
+Continue northwest on Veterans Way/5th St. to Tempe Transportation Center.
+
+Southbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./ Veterans Way; 
+Continue south on McAllister Ave. to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms) 
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms)
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MARS,6099,,,
+2025-10-04 00:11:54,RTA:15477790,CONSTRUCTION,NO_SERVICE,WARNING,Mars Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Northbound:
+Regular route to McAllister Ave./University Dr.; 
+Continue northwest on Veterans Way/5th St. to Tempe Transportation Center.
+
+Southbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./ Veterans Way; 
+Continue south on McAllister Ave. to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms) 
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms)
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MARS,867,,,
+2025-10-04 00:11:54,RTA:15477790,CONSTRUCTION,NO_SERVICE,WARNING,Mars Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Northbound:
+Regular route to McAllister Ave./University Dr.; 
+Continue northwest on Veterans Way/5th St. to Tempe Transportation Center.
+
+Southbound:
+Exit Tempe Transportation Center;
+Eastbound on 5th St./ Veterans Way; 
+Continue south on McAllister Ave. to resume regular route.
+
+Bus Stop Closures:
+#12061 University Dr & College Av (EB University Dr & FS College Av) 
+#12062 University Dr & Palo Verde Dorms (EB University Dr & AT Palo Verde Dorms) 
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms)
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MARS,825,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,7695,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,5122,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,5123,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,5128,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,3395,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,7729,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,3380,,,
+2025-10-04 00:11:54,RTA:15477774,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 62 Detour on Hardy Dr. between Baseline Rd. and Southern Ave. - Construction,"Northbound;
+Regular route to Hardy Dr. and Baseline Rd.,
+West on Baseline Rd.,
+North on Priest Dr.,
+East on Southern Ave.,
+North on Hardy Dr. to resume regular route.
+
+Southbound:
+Regular route to Hardy Dr. and Southern Ave;
+West on Southern Ave.,
+South on Priest Dr.,
+East on Baseline Rd.,
+South on Hardy Dr. to resume regular route.
+
+Bus Stop Closure:
+#14144 Hardy Dr & Baseline Rd (NB Hardy Dr & FS Baseline Rd) 
+#14145 Hardy Dr & Minton Dr (NB Hardy Dr & NS Minton Dr) 
+#14146 Hardy Dr & Greenway Dr (NB Hardy Dr & FS Greenway Dr) 
+#14147 Hardy Dr & Manhatton Dr (NB Hardy Dr & NS Manhatton Dr) 
+#14186 Hardy Dr & Southern Av (SB Hardy Dr & FS Southern Av) 
+#14187 Hardy Dr & Manhatton Dr (SB Hardy Dr & FS Manhatton Dr)
+#14188 Hardy Dr & 4502 South (SB Hardy Dr & AT 4502 South) 
+#14189 Hardy Dr & Minton Dr (SB Hardy Dr & FS Minton Dr)",,2025-10-04 14:00:00,2025-10-05 01:00:00,1,62,3391,,,
+2025-10-04 00:11:54,RTA:15477802,CONSTRUCTION,NO_SERVICE,WARNING,Mercury Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Westbound:
+Regular route to McAllister Ave./University Dr.; 
+Northwest on Veterans Way/5th St.; 
+Continue west on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MERC,3327,,,
+2025-10-04 00:11:54,RTA:15477802,CONSTRUCTION,NO_SERVICE,WARNING,Mercury Detour between Tempe Transportation Center and University Dr./McAllister Ave. - Construction,"Westbound:
+Regular route to McAllister Ave./University Dr.; 
+Northwest on Veterans Way/5th St.; 
+Continue west on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12181 University Dr & Palo Verde Dorms (WB University Dr & AT Palo Verde Dorms) 
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,MERC,6099,,,
+2025-10-04 00:11:54,RTA:15477808,CONSTRUCTION,NO_SERVICE,WARNING,Venus Detour between Tempe Transportation Center and Mill Ave./University Dr. - Construction,"Forward (Clockwise):
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+West on University Dr. to resume regular route at College Ave.
+
+Back (Counter-clockwise)
+Regular route to Mill Ave./University Dr.; 
+Continue north on Mill Ave.,
+East on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12059 University Dr & Mill Av (EB University Dr & FS Mill Av) 
+#12060 University Dr & Myrtle Av (EB University Dr & FS Myrtle Av) 
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,VENU,860,,,
+2025-10-04 00:11:54,RTA:15477808,CONSTRUCTION,NO_SERVICE,WARNING,Venus Detour between Tempe Transportation Center and Mill Ave./University Dr. - Construction,"Forward (Clockwise):
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+West on University Dr. to resume regular route at College Ave.
+
+Back (Counter-clockwise)
+Regular route to Mill Ave./University Dr.; 
+Continue north on Mill Ave.,
+East on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12059 University Dr & Mill Av (EB University Dr & FS Mill Av) 
+#12060 University Dr & Myrtle Av (EB University Dr & FS Myrtle Av) 
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,VENU,3327,,,
+2025-10-04 00:11:54,RTA:15477808,CONSTRUCTION,NO_SERVICE,WARNING,Venus Detour between Tempe Transportation Center and Mill Ave./University Dr. - Construction,"Forward (Clockwise):
+Exit Tempe Transportation Center;
+Eastbound on 5th St./Veterans Way,
+West on University Dr. to resume regular route at College Ave.
+
+Back (Counter-clockwise)
+Regular route to Mill Ave./University Dr.; 
+Continue north on Mill Ave.,
+East on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12059 University Dr & Mill Av (EB University Dr & FS Mill Av) 
+#12060 University Dr & Myrtle Av (EB University Dr & FS Myrtle Av) 
+#14169 College Av & University Dr (NB College Av & FS University Dr)",,2025-10-04 11:00:00,2025-10-06 06:59:00,1,VENU,859,,,
+2025-10-04 00:11:54,RTA:15478251,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 17 Arizona State Fair Detour,"Eastbound:
+Regular route to 19th Ave. and McDowell Rd.,
+South on 19th Ave.,
+East on Van Buren St.,
+North on 15th Ave.,
+East on McDowell Rd. to resume regular route.
+
+Westbound:
+Regular route to 15th Ave. and McDowell Rd.,
+South on 15th Ave.,
+West on Van Buren St.,
+North on 19th Ave.,
+West on McDowell Rd. to resume regular route.
+
+Bus Stop Closures:
+#11342 McDowell Rd & 19th Av (EB McDowell Rd & FS 19th Av) 
+#11343 McDowell Rd & 17th Av (EB McDowell Rd & FS 17th Av) 
+#11456 McDowell Rd & 15th Av (WB McDowell Rd & FS 15th Av) 
+#11457 McDowell Rd & 17th Av (WB McDowell Rd & FS 17th Av) 
+#11458 McDowell Rd & 18th Av (WB McDowell Rd & FS 18th Av)",https://www.valleymetro.org/maps-schedules/17,2025-10-04 00:00:00,2025-10-04 06:59:00,3,17,6791,,,
+2025-10-04 00:11:54,RTA:15478251,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 17 Arizona State Fair Detour,"Eastbound:
+Regular route to 19th Ave. and McDowell Rd.,
+South on 19th Ave.,
+East on Van Buren St.,
+North on 15th Ave.,
+East on McDowell Rd. to resume regular route.
+
+Westbound:
+Regular route to 15th Ave. and McDowell Rd.,
+South on 15th Ave.,
+West on Van Buren St.,
+North on 19th Ave.,
+West on McDowell Rd. to resume regular route.
+
+Bus Stop Closures:
+#11342 McDowell Rd & 19th Av (EB McDowell Rd & FS 19th Av) 
+#11343 McDowell Rd & 17th Av (EB McDowell Rd & FS 17th Av) 
+#11456 McDowell Rd & 15th Av (WB McDowell Rd & FS 15th Av) 
+#11457 McDowell Rd & 17th Av (WB McDowell Rd & FS 17th Av) 
+#11458 McDowell Rd & 18th Av (WB McDowell Rd & FS 18th Av)",https://www.valleymetro.org/maps-schedules/17,2025-10-04 00:00:00,2025-10-04 06:59:00,3,17,6792,,,
+2025-10-04 00:11:54,RTA:15478251,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 17 Arizona State Fair Detour,"Eastbound:
+Regular route to 19th Ave. and McDowell Rd.,
+South on 19th Ave.,
+East on Van Buren St.,
+North on 15th Ave.,
+East on McDowell Rd. to resume regular route.
+
+Westbound:
+Regular route to 15th Ave. and McDowell Rd.,
+South on 15th Ave.,
+West on Van Buren St.,
+North on 19th Ave.,
+West on McDowell Rd. to resume regular route.
+
+Bus Stop Closures:
+#11342 McDowell Rd & 19th Av (EB McDowell Rd & FS 19th Av) 
+#11343 McDowell Rd & 17th Av (EB McDowell Rd & FS 17th Av) 
+#11456 McDowell Rd & 15th Av (WB McDowell Rd & FS 15th Av) 
+#11457 McDowell Rd & 17th Av (WB McDowell Rd & FS 17th Av) 
+#11458 McDowell Rd & 18th Av (WB McDowell Rd & FS 18th Av)",https://www.valleymetro.org/maps-schedules/17,2025-10-04 00:00:00,2025-10-04 06:59:00,3,17,1488,,,
+2025-10-04 00:11:54,RTA:15478251,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 17 Arizona State Fair Detour,"Eastbound:
+Regular route to 19th Ave. and McDowell Rd.,
+South on 19th Ave.,
+East on Van Buren St.,
+North on 15th Ave.,
+East on McDowell Rd. to resume regular route.
+
+Westbound:
+Regular route to 15th Ave. and McDowell Rd.,
+South on 15th Ave.,
+West on Van Buren St.,
+North on 19th Ave.,
+West on McDowell Rd. to resume regular route.
+
+Bus Stop Closures:
+#11342 McDowell Rd & 19th Av (EB McDowell Rd & FS 19th Av) 
+#11343 McDowell Rd & 17th Av (EB McDowell Rd & FS 17th Av) 
+#11456 McDowell Rd & 15th Av (WB McDowell Rd & FS 15th Av) 
+#11457 McDowell Rd & 17th Av (WB McDowell Rd & FS 17th Av) 
+#11458 McDowell Rd & 18th Av (WB McDowell Rd & FS 18th Av)",https://www.valleymetro.org/maps-schedules/17,2025-10-04 00:00:00,2025-10-04 06:59:00,3,17,1487,,,
+2025-10-04 00:11:54,RTA:15478251,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 17 Arizona State Fair Detour,"Eastbound:
+Regular route to 19th Ave. and McDowell Rd.,
+South on 19th Ave.,
+East on Van Buren St.,
+North on 15th Ave.,
+East on McDowell Rd. to resume regular route.
+
+Westbound:
+Regular route to 15th Ave. and McDowell Rd.,
+South on 15th Ave.,
+West on Van Buren St.,
+North on 19th Ave.,
+West on McDowell Rd. to resume regular route.
+
+Bus Stop Closures:
+#11342 McDowell Rd & 19th Av (EB McDowell Rd & FS 19th Av) 
+#11343 McDowell Rd & 17th Av (EB McDowell Rd & FS 17th Av) 
+#11456 McDowell Rd & 15th Av (WB McDowell Rd & FS 15th Av) 
+#11457 McDowell Rd & 17th Av (WB McDowell Rd & FS 17th Av) 
+#11458 McDowell Rd & 18th Av (WB McDowell Rd & FS 18th Av)",https://www.valleymetro.org/maps-schedules/17,2025-10-04 00:00:00,2025-10-04 06:59:00,3,17,6827,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,473,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30442,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30441,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,475,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30444,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30443,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30440,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,9749,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,5732,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,5733,,,
+2025-10-04 00:11:54,RTA:15478407,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 81 Detour between Hayden Rd./McDonald Dr. and Indian Bend Rd./Pima Rd. - Construction,"Northbound:
+Regular route to Hayden Rd. and McDonald Dr.,
+Continue North on Hayden Rd.,
+East on Indian Bend Rd.,
+North on Pima Rd. to resume regular route.
+
+Southbound:
+Regular route to Pima Rd. and Indian Bend Rd.,
+West on Indian Bend  Rd.,
+South on Hayden Rd. to resume regular route at McDonald Dr.
+
+Bus Stop Closures:
+12023 McDonald Dr & Pima Rd (WB McDonald Dr & FS Pima Rd) 
+12029 McDonald Dr & 86th St (WB McDonald Dr & FS 86th St) 	
+12030 McDonald Dr & Granite Reef Rd (EB McDonald Dr & FS Granite Reef Rd) 
+12046 McDonald Dr & 86th St (EB McDonald Dr & FS 86th St)
+12093 Pima Rd & McDonald Dr (NB Pima Rd & FS McDonald Dr) 
+12113 Pima Rd & Indian Bend Rd (NB Pima Rd & NS Indian Bend Rd)
+14888 McDonald Dr & Hayden Rd (EB McDonald Dr & FS Hayden Rd)
+14890 McDonald Dr & 82nd St (EB McDonald Dr & FS 82nd St) 
+14900 McDonald Dr & Granite Reef Rd (WB McDonald Dr & FS Granite Reef Rd) 
+14901 McDonald Dr & 82nd St (WB McDonald Dr & FS 82nd St) 	
+16979 Pima Rd & Indian Bend Rd (SB Pima Rd & FS Indian Bend Rd)",https://www.valleymetro.org/maps-schedules/81,2025-09-29 15:34:00,2025-10-04 06:59:00,1,81,30445,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,12,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,45,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,A,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,B,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,I17,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,0,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,1,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,3,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,GAL,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,106,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,7,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,90,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,8,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,SMRT,,,,
+2025-10-04 00:11:54,RTA:15478462,HOLIDAY,OTHER_EFFECT,WARNING,Phoenix Transit Center Closures - Indigenous Peoples Day,"Central Station, Ed Pastor, and Sunnyslope’s customer service windows will be closed on Monday, October 13, 2025, in observance of Indigenous Peoples Day. We will reopen on Tuesday, October 14,  2025, at normal hours of operation.",,2025-10-09 15:00:00,2025-10-14 06:59:00,1,10,,,,
+2025-10-04 00:11:54,RTA:15478770,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 66 Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr.;
+North on College Ave.,
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/66,2025-10-06 11:00:00,2025-11-08 06:59:00,1,66,11,,,
+2025-10-04 00:11:54,RTA:15478770,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 66 Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr.;
+North on College Ave.,
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/66,2025-10-06 11:00:00,2025-11-08 06:59:00,1,66,3462,,,
+2025-10-04 00:11:54,RTA:15478770,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 66 Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr.;
+North on College Ave.,
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/66,2025-10-06 11:00:00,2025-11-08 06:59:00,1,66,7757,,,
+2025-10-04 00:11:54,RTA:15478770,CONSTRUCTION,NO_SERVICE,WARNING,Rt. 66 Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr.;
+North on College Ave.,
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures:
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/66,2025-10-06 11:00:00,2025-11-08 06:59:00,1,66,3450,,,
+2025-10-04 00:11:54,RTA:15478774,CONSTRUCTION,NO_SERVICE,WARNING,Jupiter Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr., 
+North on College Ave., 
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 	
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/jupi,2025-10-06 11:00:00,2025-11-08 06:59:00,1,JUPI,11,,,
+2025-10-04 00:11:54,RTA:15478774,CONSTRUCTION,NO_SERVICE,WARNING,Jupiter Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr., 
+North on College Ave., 
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 	
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/jupi,2025-10-06 11:00:00,2025-11-08 06:59:00,1,JUPI,3462,,,
+2025-10-04 00:11:54,RTA:15478774,CONSTRUCTION,NO_SERVICE,WARNING,Jupiter Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr., 
+North on College Ave., 
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 	
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/jupi,2025-10-06 11:00:00,2025-11-08 06:59:00,1,JUPI,7757,,,
+2025-10-04 00:11:54,RTA:15478774,CONSTRUCTION,NO_SERVICE,WARNING,Jupiter Detour between Mill Ave./University Dr. and Tempe Transportation Center - Construction,"Northbound Only:
+Regular route to Mill Ave. and University Dr.; 
+East on University Dr., 
+North on College Ave., 
+West on 5th St. to Tempe Transportation Center.
+
+Bus Stop Closures
+#12651 Mill Av & University Dr (NB Mill Av & FS University Dr) 
+#12652 Mill Av & 7th St (NB Mill Av & FS 7th St) 
+#12653 Mill Av & 6th St (NB Mill Av & FS 6th St) 	
+#12654 5th St & Myrtle Av (EB 5th St & FS Myrtle Av)",https://www.valleymetro.org/maps-schedules/jupi,2025-10-06 11:00:00,2025-11-08 06:59:00,1,JUPI,3450,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,5850,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,5862,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,614,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,2805,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,2814,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,619,,,
+2025-10-04 00:11:54,RTA:15479134,OTHER_CAUSE,NO_SERVICE,WARNING,Rt. 10 First Friday Art Walk Roosevelt Rd. Closure,"Eastbound:
+Regular route to Central Ave. and Fillmore St.,
+East on Fillmore St.,
+North on 7th St.,
+East on Roosevelt St. to resume regular route.
+
+Westbound:
+Regular route to Roosevelt St. and 7th St.,
+South on 7th St.,
+West on Fillmore St.,
+South on 1st Ave. to resume regular route.
+ 
+Bus Stop Closures:
+#10077 Central Av & Fillmore St (NB Central Av & FS Fillmore St) 
+#10078 Central Av & McKinley St (NB Central Av & FS McKinley St)
+#10783 Roosevelt St & Central Av (EB Roosevelt St & FS Central Av) 
+#10784 Roosevelt St & 3rd St (EB Roosevelt St & NS 3rd St) 
+#10849 Roosevelt St & 7th St (WB Roosevelt St & FS 7th St) 
+#10850 Roosevelt St & 3rd St (WB Roosevelt St & FS 3rd St) 
+#10851 Roosevelt St & 1st St (WB Roosevelt St & FS 1st St)",https://www.valleymetro.org/maps-schedules/10?,2025-10-03 22:00:00,2025-10-04 06:59:00,1,10,5859,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,1623,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,1622,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,2600,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,6946,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,6945,,,
+2025-10-04 00:11:54,RTA:15479167,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-07 14:30:00,2025-10-07 22:00:00,1,52,6948,,,
+2025-10-04 00:11:54,RTA:15479159,CONSTRUCTION,NO_SERVICE,WARNING,Earth Detour between Miller Rd./Valerie and Bridalwreath St./McKellips Rd. - Construction,"Westbound:
+Regular route to Miller Rd. and Valerie;
+Continue North on Miller Rd.,
+West on McKellips Rd. to resume regular route.
+
+Bus Stop Closures:
+#17215 Bridalwreath St & Susan Ln (NB Bridalwreath St & NS Susan Ln)",,2025-10-03 16:17:00,2025-10-04 06:59:00,1,EART,30558,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,1623,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,1622,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,2600,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,6946,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,6945,,,
+2025-10-04 00:11:54,RTA:15479169,MAINTENANCE,NO_SERVICE,WARNING,Rt. 52 Detour between 7th Ave./Atlanta Ave. and Central Ave/Roeser Rd. - Paving,"Eastbound:
+Regular route to 7th Ave. and Atlanta Ave.,
+South on 7th Ave.,
+East on Southern Ave.,
+North on Central Ave.,
+East on Roeser Rd. to resume regular route.
+
+Westbound:
+Regular route to Central Ave. and Roeser Rd.;
+North on Central Ave.,
+West on Dr. Martin Luther King Blvd,
+South on 7th Ave.,
+West on Atlanta Ave. to resume regular route.
+
+Bus Stop Closures:
+#10645 7th Av & Roeser Rd (NB 7th Av & FS Roeser Rd) 
+#13533 Roeser Rd & 7th Av (EB Roeser Rd & FS 7th Av)
+#13534 Roeser Rd & Montezuma St (EB Roeser Rd & FS Montezuma St) 
+#13585 Roeser Rd & Central Av (WB Roeser Rd & FS Central Av) 
+#13586 Roeser Rd & Montezuma St (WB Roeser Rd & FS Montezuma St) 
+#13587 Roeser Rd & 7th Av (WB Roeser Rd & NS 7th Av)",,2025-10-08 14:30:00,2025-10-08 22:00:00,1,52,6948,,,
+2025-10-04 00:11:54,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 45 Detour between Dobson Rd. and Price Rd. - Police Activity,"Westbound Only
+
+Regular route at Broadway Rd. and Dobson Rd.
+North on Dobson Rd.
+West on Main St.
+South on Price Rd.
+West on Broadway Rd. to resume regular route.
+
+Bus Stop Closures
+
+13207 Broadway Rd & Dobson Rd (WB Broadway Rd & FS Dobson Rd)
+13208 Broadway Rd & Valencia (WB Broadway Rd & FS Valencia)
+13209 Broadway Rd & Roosevelt Rd (WB Broadway Rd & FS Roosevelt Rd)
+13210 Broadway Rd & El Dorado (WB Broadway Rd & FS El Dorado)
+16970 Broadway Rd & Price Rd (WB Broadway Rd & NS Price Rd)",,2025-10-03 17:45:00,2025-10-04 06:59:00,1,45,6375,,,
+2025-10-04 00:11:54,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 45 Detour between Dobson Rd. and Price Rd. - Police Activity,"Westbound Only
+
+Regular route at Broadway Rd. and Dobson Rd.
+North on Dobson Rd.
+West on Main St.
+South on Price Rd.
+West on Broadway Rd. to resume regular route.
+
+Bus Stop Closures
+
+13207 Broadway Rd & Dobson Rd (WB Broadway Rd & FS Dobson Rd)
+13208 Broadway Rd & Valencia (WB Broadway Rd & FS Valencia)
+13209 Broadway Rd & Roosevelt Rd (WB Broadway Rd & FS Roosevelt Rd)
+13210 Broadway Rd & El Dorado (WB Broadway Rd & FS El Dorado)
+16970 Broadway Rd & Price Rd (WB Broadway Rd & NS Price Rd)",,2025-10-03 17:45:00,2025-10-04 06:59:00,1,45,6378,,,
+2025-10-04 00:11:54,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 45 Detour between Dobson Rd. and Price Rd. - Police Activity,"Westbound Only
+
+Regular route at Broadway Rd. and Dobson Rd.
+North on Dobson Rd.
+West on Main St.
+South on Price Rd.
+West on Broadway Rd. to resume regular route.
+
+Bus Stop Closures
+
+13207 Broadway Rd & Dobson Rd (WB Broadway Rd & FS Dobson Rd)
+13208 Broadway Rd & Valencia (WB Broadway Rd & FS Valencia)
+13209 Broadway Rd & Roosevelt Rd (WB Broadway Rd & FS Roosevelt Rd)
+13210 Broadway Rd & El Dorado (WB Broadway Rd & FS El Dorado)
+16970 Broadway Rd & Price Rd (WB Broadway Rd & NS Price Rd)",,2025-10-03 17:45:00,2025-10-04 06:59:00,1,45,6367,,,
+2025-10-04 00:11:54,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 45 Detour between Dobson Rd. and Price Rd. - Police Activity,"Westbound Only
+
+Regular route at Broadway Rd. and Dobson Rd.
+North on Dobson Rd.
+West on Main St.
+South on Price Rd.
+West on Broadway Rd. to resume regular route.
+
+Bus Stop Closures
+
+13207 Broadway Rd & Dobson Rd (WB Broadway Rd & FS Dobson Rd)
+13208 Broadway Rd & Valencia (WB Broadway Rd & FS Valencia)
+13209 Broadway Rd & Roosevelt Rd (WB Broadway Rd & FS Roosevelt Rd)
+13210 Broadway Rd & El Dorado (WB Broadway Rd & FS El Dorado)
+16970 Broadway Rd & Price Rd (WB Broadway Rd & NS Price Rd)",,2025-10-03 17:45:00,2025-10-04 06:59:00,1,45,9682,,,
+2025-10-04 00:11:54,RTA:15479184,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 45 Detour between Dobson Rd. and Price Rd. - Police Activity,"Westbound Only
+
+Regular route at Broadway Rd. and Dobson Rd.
+North on Dobson Rd.
+West on Main St.
+South on Price Rd.
+West on Broadway Rd. to resume regular route.
+
+Bus Stop Closures
+
+13207 Broadway Rd & Dobson Rd (WB Broadway Rd & FS Dobson Rd)
+13208 Broadway Rd & Valencia (WB Broadway Rd & FS Valencia)
+13209 Broadway Rd & Roosevelt Rd (WB Broadway Rd & FS Roosevelt Rd)
+13210 Broadway Rd & El Dorado (WB Broadway Rd & FS El Dorado)
+16970 Broadway Rd & Price Rd (WB Broadway Rd & NS Price Rd)",,2025-10-03 17:45:00,2025-10-04 06:59:00,1,45,6382,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8222,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8223,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8275,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8276,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8279,,,
+2025-10-04 00:11:54,RTA:15479189,POLICE_ACTIVITY,NO_SERVICE,WARNING,Rt. 154 Detour between 16th St. and Cave Creek Rd. - Police Activity,"Eastbound
+
+Regular route at Greenway Pkwy. and 16th St.
+North on 16th St.
+East on Bell Rd.
+South on Cave Creek Rd.
+East on Greenway Pkwy. to resume regular route.
+
+Westbound
+
+Regular route at Cave Creek Rd. and Greenway Pkwy.
+North on Cave Creek Rd.
+West on Bell Rd.
+South on 16th St.
+West on Greenway Pkwy. to resume regular route.
+
+Bus Stop Closures
+
+16386 Greenway Pkwy & 16th St (EB Greenway Pkwy & FS 16th St)
+16387 Greenway Pkwy & 18th St (EB Greenway Pkwy & FS 18th St)
+16388 Greenway Pkwy & 20th St (EB Greenway Pkwy & FS 20th St)
+16437 Greenway Pkwy & Cave Creek Rd (WB Greenway Pkwy & FS Cave Creek Rd)
+16438 Greenway Pkwy & 20th St (WB Greenway Pkwy & FS 20th St)
+16439 Greenway Pkwy & 18th St (WB Greenway Pkwy & FS 18th St)",,2025-10-03 18:15:00,2025-10-04 06:59:00,1,154,8225,,,
