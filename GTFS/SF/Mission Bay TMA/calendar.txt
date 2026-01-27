@@ -1,2 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_15975_b_26877_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20200617,20241101

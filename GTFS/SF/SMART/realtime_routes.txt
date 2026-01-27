@@ -1,2 +1,0 @@
-route_id,realtime_enabled
-14603,1

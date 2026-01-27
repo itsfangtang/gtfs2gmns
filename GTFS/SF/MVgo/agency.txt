@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-533,MVgo,https://mvgo.org/,America/Los_Angeles,en,650-933-2518,,info@mvgo.org

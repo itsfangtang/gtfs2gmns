@@ -1,5 +1,0 @@
-route_id,direction_id,direction
-DB1,0,East
-DB1,1,West
-DB,0,East
-DB,1,West

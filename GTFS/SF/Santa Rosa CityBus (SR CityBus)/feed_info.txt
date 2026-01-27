@@ -1,2 +1,0 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Santa Rosa CityBus,https://srcity.org/1036/Transit-and-CityBus,en,20230801,20240303,20230731

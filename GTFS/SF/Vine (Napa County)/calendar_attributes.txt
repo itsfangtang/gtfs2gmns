@@ -1,4 +1,0 @@
-service_id,service_description
-c_69720_b_81173_d_64,Year Round Starting 8/13/2023 (Sunday only)
-c_69720_b_81173_d_32,Year Round Starting 8/13/2023 (Saturday only)
-c_69720_b_81173_d_31,Year Round Starting 8/13/2023 (Weekday)

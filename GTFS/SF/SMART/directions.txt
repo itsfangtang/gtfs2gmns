@@ -1,3 +1,0 @@
-route_id,direction_id,direction
-14603,1,North
-14603,0,South

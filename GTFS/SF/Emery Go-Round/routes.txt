@@ -1,8 +1,0 @@
-agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
-573,4817,,Hollis,,3,https://www.emerygoround.com/standard-service.html,ff0001,ffffff,0,,0,1,1,,
-573,4820,,Shellmound/Powell,,3,,5e3767,ffffff,1,,0,1,1,,
-573,4818,,Hollis North,,3,https://www.emerygoround.com/commute-service.html,ff0001,ffffff,2,,0,1,1,,
-573,4819,,Hollis South,,3,https://www.emerygoround.com/commute-service.html,ffb311,000000,3,,0,1,1,,
-573,4822,,North Shellmound,,3,https://www.emerygoround.com/commute-service.html,603669,ffffff,4,,0,1,1,,
-573,4821,,South Shellmound/Powell,,3,,9b6bdf,000000,5,,0,1,1,,
-573,4823,,Watergate Express,,3,https://www.emerygoround.com/commute-service.html,00a1ea,000000,6,,0,1,1,,

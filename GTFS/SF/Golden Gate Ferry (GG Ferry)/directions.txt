@@ -1,9 +1,0 @@
-route_id,direction_id,direction
-LF,1,South
-LF,0,North
-TF,0,North
-TF,1,South
-SF,0,North
-SF,1,South
-AIF,0,North
-AIF,1,South

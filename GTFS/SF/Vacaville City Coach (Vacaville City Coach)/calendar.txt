@@ -1,5 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_67242_b_77396_d_32,Year Round starting 8/1/22 (Saturday only),0,0,0,0,0,1,0,20220801,20240501
-c_67242_b_77396_d_31,Year Round starting 8/1/22 (Weekday),1,1,1,1,1,0,0,20220801,20240501
-c_67242_b_77396_d_16,Year Round starting 8/1/22 (Friday only),0,0,0,0,1,0,0,20220801,20240501
-c_67242_b_77396_d_15,Year Round starting 8/1/22 (MTuWTh),1,1,1,1,0,0,0,20220801,20240501

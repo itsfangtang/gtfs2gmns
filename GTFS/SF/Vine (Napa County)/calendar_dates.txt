@@ -1,3 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_69720_b_81173_d_31,20240704,4th of July,2
-c_69720_b_81173_d_31,20240527,Memorial Day,2

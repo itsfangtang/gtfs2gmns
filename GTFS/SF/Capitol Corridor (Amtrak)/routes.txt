@@ -1,4 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_branding_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-CC,CC,CC,Capitol Corridor,"Daily train service between Auburn, Sacramento, Oakland and San Jose",2,http://capitolcorridor.org/route_and_schedules,,,,,,
-S,CC,Shuttle,Shuttle_Auburn,Shuttle to Auburn,3,https://www.capitolcorridor.org/busschedule/Bus_Schedules.pdf,,,,,,
-SF,CC,SF,Shuttle_SF,Shuttle to San Francisco Transbay Terminal,3,https://www.capitolcorridor.org/busschedule/Bus_Schedules.pdf,,,,,,

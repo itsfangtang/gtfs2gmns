@@ -1,7 +1,0 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation,start_time,end_time
-6132,76228,0,20240115,20240630,1,1,1,1,1,0,0,North Foster City ,Weekday,Loop,horizontal,05:00:00,11:59:00
-6133,76228,0,20240115,20240630,1,1,1,1,1,0,0,North Foster City ,Weekday,Loop,horizontal,12:00:00,23:59:00
-6162,76273,0,20240115,20240630,1,1,1,1,1,0,0,Foster City Commuter,Weekday,Loop,horizontal,05:00:00,11:59:00
-6163,76273,0,20240115,20240630,1,1,1,1,1,0,0,Foster City Commuter,Weekday,Loop,horizontal,12:00:00,23:59:00
-6273,76241,0,20240115,20240630,1,1,1,1,1,0,0,Redwood LIFE Caltrain,Weekday,Loop,horizontal,05:00:00,11:59:00
-6274,76241,0,20240115,20240630,1,1,1,1,1,0,0,Redwood LIFE Caltrain,Weekday,Loop,horizontal,12:00:00,23:59:00

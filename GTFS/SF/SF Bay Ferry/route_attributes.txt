@@ -1,8 +1,0 @@
-route_id,category,subcategory,running_way
-HB,1,101,1
-OA,1,101,1
-P41,3,302,1
-RCH,1,101,1
-SEA,1,101,1
-SSF,2,202,1
-VJO,1,101,1

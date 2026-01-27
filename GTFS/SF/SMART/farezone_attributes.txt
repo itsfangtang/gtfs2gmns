@@ -1,6 +1,0 @@
-zone_id,zone_name
-2427,Novato
-2428,San Rafael-Marin
-2429,STS-Cloverdale
-2430,Petaluma-Cotati-Rohnert Park
-2431,Santa Rosa

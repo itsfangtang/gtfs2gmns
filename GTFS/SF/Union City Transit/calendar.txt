@@ -1,6 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_21878_b_30848_d_64,FY21-22 Fall-Winter Service with School Calendar (20210828-20220228) (Sunday only),0,0,0,0,0,0,1,20210828,20220228
-c_21878_b_30848_d_4,FY21-22 Fall-Winter Service with School Calendar (20210828-20220228) (Wednesday only),0,0,1,0,0,0,0,20210828,20220228
-c_21878_b_30848_d_32,FY21-22 Fall-Winter Service with School Calendar (20210828-20220228) (Saturday only),0,0,0,0,0,1,0,20210828,20220228
-c_21878_b_30848_d_31,FY21-22 Fall-Winter Service with School Calendar (20210828-20220228) (Weekday),1,1,1,1,1,0,0,20210828,20220228
-c_21878_b_30848_d_27,FY21-22 Fall-Winter Service with School Calendar (20210828-20220228) (MTuThF),1,1,0,1,1,0,0,20210828,20220228

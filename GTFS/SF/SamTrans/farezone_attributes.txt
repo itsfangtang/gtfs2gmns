@@ -1,3 +1,0 @@
-zone_id,zone_name
-1,Local
-2,San Francisco

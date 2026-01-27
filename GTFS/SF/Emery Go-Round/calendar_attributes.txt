@@ -1,4 +1,0 @@
-service_id,service_description
-c_24016_b_33759_d_64,Calendar start 02.01.22 (Sunday only)
-c_24016_b_33759_d_32,Calendar start 02.01.22 (Saturday only)
-c_24016_b_33759_d_31,Calendar start 02.01.22 (Weekday)

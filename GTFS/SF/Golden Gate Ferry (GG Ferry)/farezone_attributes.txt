@@ -1,4 +1,0 @@
-zone_id,zone_name
-73293,CorteMadera-SanRafael-Marinwood
-73291,San Francisco
-73292,Sausalito-Marin City-Mill Valley
