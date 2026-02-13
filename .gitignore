@@ -12,7 +12,6 @@ venv/
 .env
 
 
-.idea/
-
-
-.DS_Store
+# Ignore all dotfiles/dotdirs except .github/
+.*
+!.github/
