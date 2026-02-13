@@ -1,0 +1,63 @@
+section,statistic,value
+1_GTFS_inventory,Number of agencies in the feed,1
+,Number of routes,6
+,Number of trips,5544
+,Number of stops,149
+,Number of stop time records,121285
+,Number of shape records,N/A
+,Number of service IDs in calendar,4
+2_temporal_service_window,Start of conversion time window (minutes from midnight),420
+,End of conversion time window (minutes from midnight),480
+,Length of time window in minutes,60
+,Length of time window in hours,1.0
+,Earliest trip departure in window (minutes from midnight),420
+,Latest trip arrival in window (minutes from midnight),568
+,Number of trips that fall within the time window,405
+3_frequency_structure,Median number of trips per directed route in window,33.0
+,Median number of stops per route,24.0
+,Median trip runtime in minutes,41.0
+,Median headway in minutes,1.8198529411764706
+,10th percentile headway in minutes,1.37
+,90th percentile headway in minutes,2.65
+4_spatial,Share of stops with valid latitude and longitude (percent),100.0
+,Number of stops missing valid coordinates,0
+,Bounding box minimum latitude,35.58705
+,Bounding box maximum latitude,35.814541
+,Bounding box minimum longitude,139.628901
+,Bounding box maximum longitude,139.926613
+,"Total vehicle distance in window, stop to stop (meters)",7056588.27
+,"Total vehicle distance in window, stop to stop (kilometers)",7056.59
+5_GMNS_mapping,Total number of nodes in GMNS network,794
+,Number of physical stop nodes,149
+,Number of service nodes,645
+,Average service nodes per physical stop,4.33
+,Number of nodes (type: metro_service_node),430
+,Number of nodes (type: metro_station),106
+,Number of nodes (type: rail_service_node),26
+,Number of nodes (type: rail_station),13
+,Number of nodes (type: stop),30
+,Number of nodes (type: tram_service_node),189
+,Total number of links in GMNS network,1922
+,Number of links (type: boarding_links),645
+,Number of links (type: deboarding_links),645
+,Number of links (type: service_links),610
+,Number of links (type: transferring_links),22
+,Number of directed routes represented in GMNS,12
+,Number of directed routes in GTFS feed,12
+6_transfer_logic,Whether transferring links were generated,True
+,Spatial search window for transfer pairs (degrees),0.003
+,Minimum distance for a transfer link (meters),1.0
+,Maximum distance for a transfer link (meters),321.869
+,Total number of transfer links,22
+,Average number of transfer links per stop,1.0
+,Median number of transfer links per stop,1.0
+,Number of transfer links (mode pair: metro_station↔metro_station),18
+,Number of transfer links (mode pair: metro_station↔stop),2
+,Number of transfer links (mode pair: rail_station↔stop),2
+7_error_checks,Number of trips that have no stop times,0
+,Number of stop time records with missing or empty stop ID,0
+,Number of stops missing valid latitude or longitude,0
+,Number of duplicated trip and stop sequence pairs,0
+,Number of trips without a shape (when shapes file exists),N/A
+,Number of trips with backward or decreasing arrival times,5119
+,Number of consecutive stop pairs with zero or near zero distance,0

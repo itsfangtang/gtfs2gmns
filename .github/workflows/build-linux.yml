@@ -9,24 +9,24 @@ on:
 jobs:
   build:
     name: Build Linux
-#    runs-on: ubuntu-latest
     runs-on: ubuntu-22.04
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: "Update apt get"
-        run: sudo apt-get update && sudo apt-get upgrade -y
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: "Install required packages."
-        run: sudo apt-get install -y build-essential ccache llvm-dev libclang-dev clang cppcheck libboost-all-dev curl libcurl4-openssl-dev doxygen git graphviz libssl-dev make ninja-build libomp-dev python3 python3-pip tar unzip wget iwyu
+      - name: Install build dependencies
+        run: pip install build wheel
 
-      - name: "Build"
-        run: rm -rf build && mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release -GNinja .. && ninja
+      - name: Build package
+        run: python -m build
 
-      - name: Upload build directory as artifact
-        # if: failure()
+      - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: build-directory
-          path: build/
+          name: dist-linux
+          path: dist/

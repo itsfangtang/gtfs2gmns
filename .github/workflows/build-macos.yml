@@ -8,34 +8,25 @@ on:
 
 jobs:
   build:
-    name: Build macos
+    name: Build macOS
     runs-on: macos-13
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Select Xcode 15.2
-        run: sudo xcode-select -s /Applications/Xcode_15.2.app
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: "Install Homebrew"
-        run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      - name: Install build dependencies
+        run: pip install build wheel
 
-      - name: "Install required packages."
-        run: |
-          brew update
-          brew install ninja libomp
+      - name: Build package
+        run: python -m build
 
-      - name: "Build"
-        run: |
-          rm -rf build && mkdir build && cd build
-          cmake -DCMAKE_C_COMPILER=gcc-14 \
-                -DCMAKE_CXX_COMPILER=g++-14 \
-                -DCMAKE_BUILD_TYPE=Release \
-                -GNinja .. 
-          ninja
-
-      - name: Upload build directory as artifact
-        # if: failure()
+      - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: build-directory
-          path: build/
+          name: dist-macos
+          path: dist/
