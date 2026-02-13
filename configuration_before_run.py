@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Example user script: customize paths and options, then run gtfs2gmns.
-After installing gtfs2gmns (pip install gtfs2gmns), copy this file, edit the values below, and run:
-  python run_gtfs2gmns_example.py
+After installing gtfs2gmns (pip install gtfs2gmns), copy this file, edit the values below, and run: python configuration_before_run.py
 """
 import gtfs2gmns
 

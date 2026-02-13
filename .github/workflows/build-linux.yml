@@ -3,7 +3,7 @@ name: Build Linux
 on:
   push:
     branches: [main, dev]
-  pull_request:
+  # pull_request:
   workflow_dispatch:
 
 jobs:
