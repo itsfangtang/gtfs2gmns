@@ -58,6 +58,10 @@ def reading_data(gtfs_path):
 
     stop_time_df = _reading_text(gtfs_path + os.sep + 'stop_times')
     print("number of stop_time records =", len(stop_time_df))
+    # strip quotes from string values (e.g. Sao Paulo: "1" -> 1)
+    for col in ('stop_sequence', 'arrival_time', 'departure_time'):
+        if col in stop_time_df.columns:
+            stop_time_df[col] = stop_time_df[col].astype(str).str.strip().str.strip('"')
     # drop the stations without accurate arrival and departure time.
 
     # drop nan
@@ -139,30 +143,36 @@ def reading_data(gtfs_path):
     return stop_df, route_df, trip_df, trip_route_df, stop_time_df, directed_trip_route_stop_time_df
 
 
+def _single_column(df, name):
+    """Get a single Series from df[name]; if duplicate columns exist, take first."""
+    c = df[name]
+    return c.iloc[:, 0] if isinstance(c, pd.DataFrame) else c
+
+
 def create_nodes(directed_trip_route_stop_time_df, agency_num):
     """create physical (station) node..."""
     physical_node_df = pd.DataFrame()
     temp_df = directed_trip_route_stop_time_df.drop_duplicates(subset=['stop_id'])
-    physical_node_df['name'] = temp_df['stop_id']
+    physical_node_df['name'] = _single_column(temp_df, 'stop_id')
     physical_node_df = physical_node_df.sort_values(by=['name'])
     physical_node_df['node_id'] = \
         np.linspace(start=1, stop=len(physical_node_df), num=len(physical_node_df)).astype('int32')
     physical_node_df['node_id'] += int('{}000000'.format(agency_num))
     physical_node_df['physical_node_id'] = physical_node_df['node_id']
-    physical_node_df['x_coord'] = temp_df['stop_lon'].astype(float)
-    physical_node_df['y_coord'] = temp_df['stop_lat'].astype(float)
-    physical_node_df['route_type'] = temp_df['route_type']
-    physical_node_df['route_id'] = temp_df['route_id']
+    physical_node_df['x_coord'] = _single_column(temp_df, 'stop_lon').astype(float)
+    physical_node_df['y_coord'] = _single_column(temp_df, 'stop_lat').astype(float)
+    physical_node_df['route_type'] = _single_column(temp_df, 'route_type')
+    physical_node_df['route_id'] = _single_column(temp_df, 'route_id')
     physical_node_df['node_type'] = \
         physical_node_df.apply(lambda x: _convert_route_type_to_node_type_p(x.route_type), axis=1)
     physical_node_df['directed_route_id'] = ""
     physical_node_df['directed_service_id'] = ""
     physical_node_df['zone_id'] = ""
-    physical_node_df['agency_name'] = temp_df['agency_name']
+    physical_node_df['agency_name'] = _single_column(temp_df, 'agency_name')
     physical_node_df['geometry'] = 'POINT (' + physical_node_df['x_coord'].astype(str) + \
                                    ' ' + physical_node_df['y_coord'].astype(str) + ')'
     stop_name_id_dict = dict(zip(physical_node_df['name'], physical_node_df['node_id']))
-    physical_node_df['terminal_flag'] = temp_df['terminal_flag']
+    physical_node_df['terminal_flag'] = _single_column(temp_df, 'terminal_flag')
     physical_node_df['ctrl_type'] = ""
     physical_node_df['agent_type'] = ""
 
@@ -174,24 +184,24 @@ def create_nodes(directed_trip_route_stop_time_df, agency_num):
     service_node_df = service_node_df.sort_values(by=['name'])
     service_node_df['node_id'] = \
         np.linspace(start=1, stop=len(service_node_df), num=len(service_node_df)).astype('int32')
-    service_node_df['physical_node_id'] = temp_df.apply(lambda x: stop_name_id_dict[x.stop_id], axis=1)
+    stop_id_ser = _single_column(temp_df, 'stop_id')
+    service_node_df['physical_node_id'] = stop_id_ser.map(stop_name_id_dict)
     service_node_df['node_id'] += int('{}500000'.format(agency_num))
 
-    service_node_df['x_coord'] = temp_df['stop_lon'].astype(float) - 0.000100
-    service_node_df['y_coord'] = temp_df['stop_lat'].astype(float) - 0.000100
-    service_node_df['route_type'] = temp_df['route_type']
-    service_node_df['route_id'] = temp_df['route_id']
+    service_node_df['x_coord'] = _single_column(temp_df, 'stop_lon').astype(float) - 0.000100
+    service_node_df['y_coord'] = _single_column(temp_df, 'stop_lat').astype(float) - 0.000100
+    service_node_df['route_type'] = _single_column(temp_df, 'route_type')
+    service_node_df['route_id'] = _single_column(temp_df, 'route_id')
     service_node_df['node_type'] = \
         service_node_df.apply(lambda x: _convert_route_type_to_node_type_s(x.route_type), axis=1)
-    # node_csv['terminal_flag'] = ' '
-    service_node_df['directed_route_id'] = temp_df['directed_route_id'].astype(str)
-    service_node_df['directed_service_id'] = temp_df['directed_service_id'].astype(str)
+    service_node_df['directed_route_id'] = _single_column(temp_df, 'directed_route_id').astype(str)
+    service_node_df['directed_service_id'] = _single_column(temp_df, 'directed_service_id').astype(str)
     service_node_df['zone_id'] = ""
-    service_node_df['agency_name'] = temp_df['agency_name']
+    service_node_df['agency_name'] = _single_column(temp_df, 'agency_name')
     service_node_df['geometry'] = \
         'POINT (' + service_node_df['x_coord'].astype(str) + ' ' + service_node_df['y_coord'].astype(str) + ')'
 
-    service_node_df['terminal_flag'] = temp_df['terminal_flag']
+    service_node_df['terminal_flag'] = _single_column(temp_df, 'terminal_flag')
     service_node_df['ctrl_type'] = ""
     service_node_df['agent_type'] = ""
     # concatenate service and physical node
@@ -199,7 +209,8 @@ def create_nodes(directed_trip_route_stop_time_df, agency_num):
     return node_df
 
 
-def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, agency_num, one_agency_link_list):
+def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, agency_num, one_agency_link_list,
+                                   max_boarding_wait_minutes=10):
     """dictionaries"""
     node_id_dict = dict(zip(node_df['name'], node_df['node_id']))
     directed_service_dict = dict(zip(node_df['node_id'], node_df['name']))
@@ -234,10 +245,11 @@ def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, age
                 directed_route_id = one_line_df.iloc[k].directed_route_id
                 link_type = 1
                 link_type_name = 'service_links'
-                from_node_lon = float(one_line_df.iloc[k].stop_lon)
-                from_node_lat = float(one_line_df.iloc[k].stop_lat)
-                to_node_lon = float(one_line_df.iloc[k + 1].stop_lon)
-                to_node_lat = float(one_line_df.iloc[k + 1].stop_lat)
+                # Use service node coordinates for geometry (not physical stop)
+                from_node_lon = float(node_lon_dict[from_node_id])
+                from_node_lat = float(node_lat_dict[from_node_id])
+                to_node_lon = float(node_lon_dict[to_node_id])
+                to_node_lat = float(node_lat_dict[to_node_id])
                 length = _calculate_distance_from_geometry(from_node_lon, from_node_lat, to_node_lon, to_node_lat)
                 lanes = number_of_trips
                 capacity = 999999
@@ -282,7 +294,6 @@ def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, age
         dir_flag = 1
         directed_route_id = row.directed_route_id
         link_type = 2
-        link_type_name = 'boarding_links'
         to_node_lon = row.x_coord
         to_node_lat = row.y_coord
         from_node_lon = node_lon_dict[row.physical_node_id]
@@ -303,29 +314,29 @@ def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, age
         agency_name = row.agency_name
         allowed_use = _allowed_use_function(row.route_type)
 
-        # inbound links (boarding)
-
+        # inbound: physical node -> service node (boarding)
+        link_type_name = 'boarding_links'
         VDF_fftt1 = \
             0.5 * ((period_end_time - period_start_time) / frequency_dict[row.directed_service_id])
-        VDF_fftt1 = min(VDF_fftt1, 10)
-        # waiting time at a station is 10 minutes at most
-        geometry = 'LINESTRING (' + str(to_node_lon) + ' ' + str(to_node_lat) + ', ' + \
-                   str(from_node_lon) + ' ' + str(from_node_lat) + ')'
-        # inbound link is average waiting time derived from frequency
+        VDF_fftt1 = min(VDF_fftt1, max_boarding_wait_minutes)
+        geometry_inbound = 'LINESTRING (' + str(from_node_lon) + ' ' + str(from_node_lat) + ', ' + \
+                           str(to_node_lon) + ' ' + str(to_node_lat) + ')'
         link_list_inbound = [link_id, from_node_id, to_node_id, facility_type, dir_flag, directed_route_id,
                              link_type, link_type_name, length, lanes, capacity, free_speed, cost,
-                             VDF_fftt1, VDF_cap1, VDF_alpha1, VDF_beta1, VDF_penalty1, geometry, allowed_use,
+                             VDF_fftt1, VDF_cap1, VDF_alpha1, VDF_beta1, VDF_penalty1, geometry_inbound, allowed_use,
                              agency_name,
                              stop_sequence, directed_service_id]
         number_of_sta2route_links += 1
 
-        # outbound links (boarding)
+        # outbound: service node -> physical node (deboarding)
         link_id = agency_num * 1000000 + number_of_route_links + number_of_sta2route_links
-        VDF_fftt1 = 1  # (length / free_speed) * 60
-        #  the time of outbound time
+        link_type_name = 'deboarding_links'
+        VDF_fftt1 = 0  # no waiting time for deboarding
+        geometry_outbound = 'LINESTRING (' + str(to_node_lon) + ' ' + str(to_node_lat) + ', ' + \
+                            str(from_node_lon) + ' ' + str(from_node_lat) + ')'
         link_list_outbound = [link_id, to_node_id, from_node_id, facility_type, dir_flag, directed_route_id,
                               link_type, link_type_name, length, lanes, capacity, free_speed, cost,
-                              VDF_fftt1, VDF_cap1, VDF_alpha1, VDF_beta1, VDF_penalty1, geometry, allowed_use,
+                              VDF_fftt1, VDF_cap1, VDF_alpha1, VDF_beta1, VDF_penalty1, geometry_outbound, allowed_use,
                               agency_name,
                               stop_sequence, directed_service_id]
         one_agency_link_list.append(link_list_inbound)
@@ -340,7 +351,7 @@ def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, age
     return one_agency_link_list
 
 
-def create_transferring_links(all_node_df, all_link_list):
+def create_transferring_links(all_node_df, all_link_list, transfer_bbox_deg=0.003, transfer_min_m=1.0, transfer_max_m=321.869):
     physical_node_df = all_node_df[all_node_df.node_id == all_node_df.physical_node_id]
     physical_node_df = physical_node_df.reset_index()
     number_of_transferring_links = 0
@@ -348,10 +359,10 @@ def create_transferring_links(all_node_df, all_link_list):
     for i in range(len(physical_node_df)):
         ref_x = physical_node_df.iloc[i].x_coord
         ref_y = physical_node_df.iloc[i].y_coord
-        neighboring_node_df = physical_node_df[(physical_node_df.x_coord >= (ref_x - 0.003)) &
-                                               (physical_node_df.x_coord <= (ref_x + 0.003))]
-        neighboring_node_df = neighboring_node_df[(neighboring_node_df.y_coord >= (ref_y - 0.003)) &
-                                                  (neighboring_node_df.y_coord <= (ref_y + 0.003))]
+        neighboring_node_df = physical_node_df[(physical_node_df.x_coord >= (ref_x - transfer_bbox_deg)) &
+                                               (physical_node_df.x_coord <= (ref_x + transfer_bbox_deg))]
+        neighboring_node_df = neighboring_node_df[(neighboring_node_df.y_coord >= (ref_y - transfer_bbox_deg)) &
+                                                  (neighboring_node_df.y_coord <= (ref_y + transfer_bbox_deg))]
         labeled_list = []
         count = 0
         for j in range(len(neighboring_node_df)):
@@ -365,7 +376,7 @@ def create_transferring_links(all_node_df, all_link_list):
             to_node_lon = float(neighboring_node_df.iloc[j].x_coord)
             to_node_lat = float(neighboring_node_df.iloc[j].y_coord)
             length = _calculate_distance_from_geometry(from_node_lon, from_node_lat, to_node_lon, to_node_lat)
-            if (length > 321.869) | (length < 1):
+            if (length > transfer_max_m) | (length < transfer_min_m):
                 continue
             if (neighboring_node_df.iloc[j].route_id, neighboring_node_df.iloc[j].agency_name) in labeled_list:
                 continue
@@ -434,18 +445,51 @@ def _stop_sequence_label(trip_stop_time_df):
     return trip_stop_time_df
 
 
+def _normalize_column_name(s):
+    """Strip whitespace and double quotes from column name (e.g. '"stop_id"' -> 'stop_id')."""
+    if not isinstance(s, str):
+        s = str(s)
+    return s.strip().strip('"').strip()
+
+
+def _normalize_cell(s):
+    """Strip whitespace and double quotes from cell value (e.g. '"9.16"' -> '9.16')."""
+    if not isinstance(s, str):
+        s = str(s)
+    return s.strip().strip('"').strip()
+
+
 def _reading_text(filename):
     file_path = filename + '.txt'
-    data = []
     with open(file_path, 'r', encoding='utf-8-sig') as f:
         lines = f.readlines()
-        first_line = lines[0].split('\n')[0].split(',')
-        for line in lines:
-            if len(line.split('\n')[0].split(',')) == len(first_line):
-                data.append(line.split('\n')[0].split(','))
-            else:
-                data.append(_split_ignore_separators_in_quoted(line))
-    data_frame = pd.DataFrame(data[1:], columns=data[0])
+    # Parse every line with quote-aware split so column count is consistent (fixes Chicago)
+    data = []
+    for line in lines:
+        line_clean = line.split('\n')[0].strip()
+        if not line_clean:
+            continue
+        data.append(_split_ignore_separators_in_quoted(line_clean))
+    if not data:
+        return pd.DataFrame()
+    raw_columns = data[0]
+    norm_columns = [_normalize_column_name(c) for c in raw_columns]
+    # Keep first occurrence of each column name (drop duplicate columns -> fixes Sao Paulo / Prague)
+    columns = []
+    col_indices = []
+    seen = set()
+    for i, c in enumerate(norm_columns):
+        if c not in seen:
+            seen.add(c)
+            columns.append(c)
+            col_indices.append(i)
+    ncol = len(columns)
+    # Normalize cell values (fixes Milan, Hamburg, Vienna, Berlin quoted numbers)
+    data_rows = []
+    for row in data[1:]:
+        cells = [_normalize_cell(row[j]) if j < len(row) else '' for j in col_indices]
+        data_rows.append(cells)
+    data_frame = pd.DataFrame(data_rows, columns=columns)
     return data_frame
 
 
@@ -461,19 +505,15 @@ def _determine_terminal_flag(trip_stop_time_df):
 
 
 def _allowed_use_function(route_type):
-    #  convert route type to node type on service network
     allowed_use = ""
-    if int(route_type) == 0:
-        # tram
+    rt = _safe_route_type(route_type)
+    if rt == 0:
         allowed_use = "w_bus_only;w_bus_metro;d_bus_only;d_bus_metro"
-    if int(route_type) == 1:
-        # metro
+    if rt == 1:
         allowed_use = "w_metro_only;w_bus_metro;d_metro_only;d_bus_metro"
-    if int(route_type) == 2:
-        # rail
+    if rt == 2:
         allowed_use = "w_rail_only;d_rail_only"
-    if int(route_type) == 3:
-        # bus
+    if rt == 3:
         allowed_use = "w_bus_only;w_bus_metro;d_bus_only;d_bus_metro"
     return allowed_use
 
@@ -512,19 +552,36 @@ def _transferring_penalty(node_type_1, node_type_2):
     return VDF_penalty1
 
 
+def _safe_route_type(route_type):
+    """Convert route_type to int, handling quotes, whitespace, and Series/array."""
+    if hasattr(route_type, 'iloc'):
+        route_type = route_type.iloc[0]
+    elif hasattr(route_type, '__len__') and not isinstance(route_type, (str, bytes)):
+        try:
+            route_type = route_type[0]
+        except (IndexError, KeyError, TypeError):
+            pass
+    s = str(route_type).strip().strip('"').strip()
+    try:
+        return int(float(s)) if s else 3
+    except (ValueError, TypeError):
+        return 3  # default bus
+
+
 def _convert_route_type_to_node_type_p(route_type):
     #  convert route type to node type on physical network
     node_type = ""
-    if int(route_type) == 0:
+    rt = _safe_route_type(route_type)
+    if rt == 0:
         # tram
         node_type = 'stop'
-    if int(route_type) == 1:
+    if rt == 1:
         # metro
         node_type = 'metro_station'
-    if int(route_type) == 2:
+    if rt == 2:
         # rail
         node_type = 'rail_station'
-    if int(route_type) == 3:
+    if rt == 3:
         # bus
         node_type = 'stop'
     return node_type
@@ -533,35 +590,28 @@ def _convert_route_type_to_node_type_p(route_type):
 def _convert_route_type_to_node_type_s(route_type):
     #  convert route type to node type on service network
     node_type = ""
-    if int(route_type) == 0:
-        # tram
+    rt = _safe_route_type(route_type)
+    if rt == 0:
         node_type = 'tram_service_node'
-    if int(route_type) == 1:
-        # metro
+    if rt == 1:
         node_type = 'metro_service_node'
-    if int(route_type) == 2:
-        # rail
+    if rt == 2:
         node_type = 'rail_service_node'
-    if int(route_type) == 3:
-        # bus
+    if rt == 3:
         node_type = 'bus_service_node'
     return node_type
 
 
 def _convert_route_type_to_link_type(route_type):
-    #  convert route type to node type on service network
     link_type = ""
-    if int(route_type) == 0:
-        # tram
+    rt = _safe_route_type(route_type)
+    if rt == 0:
         link_type = 'tram'
-    if int(route_type) == 1:
-        # metro
+    if rt == 1:
         link_type = 'metro'
-    if int(route_type) == 2:
-        # rail
+    if rt == 2:
         link_type = 'rail'
-    if int(route_type) == 3:
-        # bus
+    if rt == 3:
         link_type = 'bus'
     return link_type
 
@@ -600,6 +650,199 @@ def _calculate_distance_from_geometry(lon1, lat1, lon2, lat2):  # WGS84 transfer
     return distance
 
 
+def _build_gtfs_gmns_statistics(
+    num_agencies, all_stop_df, all_route_df, all_trip_route_df, all_stop_time_df, all_directed_df,
+    all_node_df, all_link_df, period_start_min, period_end_min, generate_transferring_links,
+    first_gtfs_path=None,
+    transfer_bbox_deg=0.003, transfer_min_m=1.0, transfer_max_m=321.869,
+):
+    """
+    Build a teachable GTFS→GMNS QA summary (statistic.csv).
+    Sections: (1) GTFS inventory, (2) Temporal service window, (3) Frequency & structure,
+    (4) Spatial/mileage, (5) GMNS mapping, (6) Transfer logic, (7) Error-check counters.
+    """
+    def _to_float(s, default=np.nan):
+        try:
+            return float(s)
+        except (ValueError, TypeError):
+            return default
+
+    rows = []
+    last_section = [None]
+    def add(section, statistic, value):
+        s = section if section != last_section[0] else ''
+        rows.append((s, statistic, value))
+        last_section[0] = section
+
+    # ----- 1) GTFS inventory (raw feed) -----
+    add('1_GTFS_inventory', 'Number of agencies in the feed', num_agencies)
+    add('1_GTFS_inventory', 'Number of routes', len(all_route_df))
+    add('1_GTFS_inventory', 'Number of trips', len(all_trip_route_df))
+    add('1_GTFS_inventory', 'Number of stops', len(all_stop_df))
+    add('1_GTFS_inventory', 'Number of stop time records', len(all_stop_time_df))
+    num_shapes = 'N/A'
+    num_service_ids = 'N/A'
+    if first_gtfs_path:
+        for name in ['shapes', 'calendar']:
+            path = os.path.join(first_gtfs_path, name + '.txt')
+            if os.path.isfile(path):
+                try:
+                    df = _reading_text(first_gtfs_path + os.sep + name)
+                    n = len(df)
+                    if name == 'shapes':
+                        num_shapes = n
+                        if 'shape_id' in all_trip_route_df.columns:
+                            trips_with_shape = all_trip_route_df['shape_id'].notna() & (all_trip_route_df['shape_id'].astype(str).str.strip() != '')
+                            pct = 100.0 * trips_with_shape.sum() / len(all_trip_route_df) if len(all_trip_route_df) else 0
+                            add('1_GTFS_inventory', 'Share of trips that have a shape (percent)', round(pct, 2))
+                        else:
+                            add('1_GTFS_inventory', 'Share of trips that have a shape (percent)', 'N/A')
+                    else:
+                        num_service_ids = n
+                except Exception:
+                    pass
+    add('1_GTFS_inventory', 'Number of shape records', num_shapes)
+    add('1_GTFS_inventory', 'Number of service IDs in calendar', num_service_ids)
+
+    # ----- 2) Temporal service window (conversion window) -----
+    add('2_temporal_service_window', 'Start of conversion time window (minutes from midnight)', period_start_min)
+    add('2_temporal_service_window', 'End of conversion time window (minutes from midnight)', period_end_min)
+    add('2_temporal_service_window', 'Length of time window in minutes', period_end_min - period_start_min)
+    add('2_temporal_service_window', 'Length of time window in hours', round((period_end_min - period_start_min) / 60.0, 2))
+    if len(all_directed_df):
+        dep = all_directed_df.groupby('trip_id')['departure_time'].min()
+        arr = all_directed_df.groupby('trip_id')['arrival_time'].max()
+        add('2_temporal_service_window', 'Earliest trip departure in window (minutes from midnight)', int(dep.min()))
+        add('2_temporal_service_window', 'Latest trip arrival in window (minutes from midnight)', int(arr.max()))
+        add('2_temporal_service_window', 'Number of trips that fall within the time window', len(dep))
+
+    # ----- 3) Frequency & structure (in-window) -----
+    if len(all_directed_df):
+        by_route = all_directed_df.groupby('directed_route_id')
+        trips_per_route = by_route['trip_id'].nunique()
+        stops_per_route = by_route['stop_id'].nunique()
+        runtime_per_trip = all_directed_df.groupby('trip_id').apply(
+            lambda g: g['arrival_time'].max() - g['arrival_time'].min() if len(g) else 0
+        )
+        add('3_frequency_structure', 'Median number of trips per directed route in window', float(np.median(trips_per_route)))
+        add('3_frequency_structure', 'Median number of stops per route', float(np.median(stops_per_route)))
+        add('3_frequency_structure', 'Median trip runtime in minutes', float(np.median(runtime_per_trip)))
+        period_min = period_end_min - period_start_min
+        headways = period_min / (trips_per_route.replace(0, np.nan))
+        add('3_frequency_structure', 'Median headway in minutes', float(np.nanmedian(headways)))
+        valid_h = headways.dropna()
+        if len(valid_h):
+            add('3_frequency_structure', '10th percentile headway in minutes', round(float(np.nanpercentile(headways, 10)), 2))
+            add('3_frequency_structure', '90th percentile headway in minutes', round(float(np.nanpercentile(headways, 90)), 2))
+
+    # ----- 4) Spatial / mileage -----
+    if 'stop_lat' in all_stop_df.columns and 'stop_lon' in all_stop_df.columns:
+        lat = all_stop_df['stop_lat'].apply(_to_float)
+        lon = all_stop_df['stop_lon'].apply(_to_float)
+        valid = lat.notna() & lon.notna()
+        add('4_spatial', 'Share of stops with valid latitude and longitude (percent)', round(100.0 * valid.sum() / len(all_stop_df), 2) if len(all_stop_df) else 0)
+        add('4_spatial', 'Number of stops missing valid coordinates', int((~valid).sum()))
+        if valid.any():
+            add('4_spatial', 'Bounding box minimum latitude', round(float(lat[valid].min()), 6))
+            add('4_spatial', 'Bounding box maximum latitude', round(float(lat[valid].max()), 6))
+            add('4_spatial', 'Bounding box minimum longitude', round(float(lon[valid].min()), 6))
+            add('4_spatial', 'Bounding box maximum longitude', round(float(lon[valid].max()), 6))
+    if len(all_directed_df) and 'stop_lat' in all_directed_df.columns and 'stop_lon' in all_directed_df.columns:
+        seg_dist = 0.0
+        for tid, grp in all_directed_df.groupby('trip_id'):
+            g = grp.sort_values('stop_sequence')
+            lats = g['stop_lat'].astype(float)
+            lons = g['stop_lon'].astype(float)
+            for i in range(len(g) - 1):
+                seg_dist += _calculate_distance_from_geometry(
+                    lons.iloc[i], lats.iloc[i], lons.iloc[i + 1], lats.iloc[i + 1])
+        add('4_spatial', 'Total vehicle distance in window, stop to stop (meters)', round(seg_dist, 2))
+        add('4_spatial', 'Total vehicle distance in window, stop to stop (kilometers)', round(seg_dist / 1000.0, 2))
+
+    # ----- 5) GMNS mapping summary -----
+    add('5_GMNS_mapping', 'Total number of nodes in GMNS network', len(all_node_df))
+    num_physical = int((all_node_df['node_id'] == all_node_df['physical_node_id']).sum())
+    num_service = int((all_node_df['node_id'] != all_node_df['physical_node_id']).sum())
+    add('5_GMNS_mapping', 'Number of physical stop nodes', num_physical)
+    add('5_GMNS_mapping', 'Number of service nodes', num_service)
+    if num_physical > 0:
+        add('5_GMNS_mapping', 'Average service nodes per physical stop', round(num_service / num_physical, 2))
+    for nt, cnt in all_node_df['node_type'].value_counts().sort_index().items():
+        add('5_GMNS_mapping', 'Number of nodes (type: ' + str(nt) + ')', int(cnt))
+    add('5_GMNS_mapping', 'Total number of links in GMNS network', len(all_link_df))
+    for lt, cnt in all_link_df['link_type_name'].value_counts().sort_index().items():
+        add('5_GMNS_mapping', 'Number of links (type: ' + str(lt) + ')', int(cnt))
+    routes_in_gmns = all_node_df['directed_route_id'].dropna()
+    routes_in_gmns = routes_in_gmns[routes_in_gmns.astype(str).str.strip() != '']
+    n_routes_gmns = routes_in_gmns.nunique() if len(routes_in_gmns) else 0
+    add('5_GMNS_mapping', 'Number of directed routes represented in GMNS', n_routes_gmns)
+    if 'directed_route_id' in all_trip_route_df.columns:
+        n_routes_gtfs = all_trip_route_df['directed_route_id'].nunique()
+        add('5_GMNS_mapping', 'Number of directed routes in GTFS feed', n_routes_gtfs)
+
+    # ----- 6) Transfer logic -----
+    add('6_transfer_logic', 'Whether transferring links were generated', generate_transferring_links)
+    add('6_transfer_logic', 'Spatial search window for transfer pairs (degrees)', transfer_bbox_deg)
+    add('6_transfer_logic', 'Minimum distance for a transfer link (meters)', transfer_min_m)
+    add('6_transfer_logic', 'Maximum distance for a transfer link (meters)', transfer_max_m)
+    if generate_transferring_links and 'transferring_links' in all_link_df['link_type_name'].values:
+        tr = all_link_df[all_link_df['link_type_name'] == 'transferring_links'].copy()
+        from_ids = tr['from_node_id'].value_counts()
+        add('6_transfer_logic', 'Total number of transfer links', len(tr))
+        add('6_transfer_logic', 'Average number of transfer links per stop', round(float(from_ids.mean()), 2) if len(from_ids) else 0)
+        add('6_transfer_logic', 'Median number of transfer links per stop', float(from_ids.median()) if len(from_ids) else 0)
+        node_types = all_node_df.set_index('node_id')['node_type'].to_dict()
+        tr['from_type'] = tr['from_node_id'].map(node_types)
+        tr['to_type'] = tr['to_node_id'].map(node_types)
+        tr['mode_pair'] = tr.apply(lambda r: '↔'.join(sorted([str(r['from_type']), str(r['to_type'])])), axis=1)
+        for pair, cnt in tr['mode_pair'].value_counts().sort_index().items():
+            add('6_transfer_logic', 'Number of transfer links (mode pair: ' + str(pair) + ')', int(cnt))
+
+    # ----- 7) Error-check counters -----
+    trips_in_st = set(all_stop_time_df['trip_id'].astype(str).unique()) if 'trip_id' in all_stop_time_df.columns else set()
+    trips_in_tr = set(all_trip_route_df['trip_id'].astype(str).unique()) if 'trip_id' in all_trip_route_df.columns else set()
+    add('7_error_checks', 'Number of trips that have no stop times', len(trips_in_tr - trips_in_st))
+    miss_stop_id = all_stop_time_df['stop_id'].isna() | (all_stop_time_df['stop_id'].astype(str).str.strip() == '')
+    add('7_error_checks', 'Number of stop time records with missing or empty stop ID', int(miss_stop_id.sum()) if 'stop_id' in all_stop_time_df.columns else 'N/A')
+    if 'stop_lat' in all_stop_df.columns and 'stop_lon' in all_stop_df.columns:
+        lat = all_stop_df['stop_lat'].apply(_to_float)
+        lon = all_stop_df['stop_lon'].apply(_to_float)
+        add('7_error_checks', 'Number of stops missing valid latitude or longitude', int((lat.isna() | lon.isna()).sum()))
+    dup_seq = 0
+    if 'trip_id' in all_stop_time_df.columns and 'stop_sequence' in all_stop_time_df.columns:
+        dup_seq = all_stop_time_df.duplicated(subset=['trip_id', 'stop_sequence']).sum()
+    add('7_error_checks', 'Number of duplicated trip and stop sequence pairs', int(dup_seq))
+    if first_gtfs_path and os.path.isfile(os.path.join(first_gtfs_path, 'shapes.txt')) and 'shape_id' in all_trip_route_df.columns:
+        no_shape = all_trip_route_df['shape_id'].isna() | (all_trip_route_df['shape_id'].astype(str).str.strip() == '')
+        add('7_error_checks', 'Number of trips without a shape (when shapes file exists)', int(no_shape.sum()))
+    else:
+        add('7_error_checks', 'Number of trips without a shape (when shapes file exists)', 'N/A')
+    decreasing = 0
+    if len(all_stop_time_df) and 'trip_id' in all_stop_time_df.columns and 'arrival_time' in all_stop_time_df.columns:
+        for tid, grp in all_stop_time_df.groupby('trip_id'):
+            g = grp.sort_values('stop_sequence')
+            arr = pd.to_numeric(g['arrival_time'], errors='coerce')
+            if arr.isna().any():
+                continue
+            if (arr.diff().dropna() < 0).any():
+                decreasing += 1
+    add('7_error_checks', 'Number of trips with backward or decreasing arrival times', int(decreasing))
+    zero_dist = 0
+    if len(all_directed_df) and 'stop_lat' in all_directed_df.columns and 'stop_lon' in all_directed_df.columns:
+        for tid, grp in all_directed_df.groupby('trip_id'):
+            g = grp.sort_values('stop_sequence')
+            lats = g['stop_lat'].apply(_to_float)
+            lons = g['stop_lon'].apply(_to_float)
+            for i in range(len(g) - 1):
+                d = _calculate_distance_from_geometry(
+                    lons.iloc[i], lats.iloc[i], lons.iloc[i + 1], lats.iloc[i + 1])
+                if d < 1.0:
+                    zero_dist += 1
+    add('7_error_checks', 'Number of consecutive stop pairs with zero or near zero distance', int(zero_dist))
+
+    return pd.DataFrame(rows, columns=['section', 'statistic', 'value'])
+
+
 def _hhmm_to_minutes(time_period_1):
     from_time_1 = datetime.time(int(time_period_1[0:2]), int(time_period_1[2:4]))
     to_time_1 = datetime.time(int(time_period_1[-4:-2]), int(time_period_1[-2:]))
@@ -611,7 +854,8 @@ def _hhmm_to_minutes(time_period_1):
 """ ------------------main functions------------------ """
 
 
-def gtfs2gmns(input_path, output_path):
+def gtfs2gmns(input_path, output_path, max_boarding_wait_minutes=10, generate_transferring_links=True,
+              transfer_bbox_deg=0.003, transfer_min_m=1.0, transfer_max_m=321.869):
     start_time = time.time()
     folders = [folder for folder in os.listdir(input_path) if "check" not in folder]
     gtfs_folder_list = []
@@ -624,6 +868,12 @@ def gtfs2gmns(input_path, output_path):
 
     all_node_list = []
     all_link_list = []
+    # Accumulate GTFS data for QA statistics (GTFS inventory, temporal, frequency, spatial, error checks)
+    stop_list = []
+    route_list = []
+    trip_route_list = []
+    stop_time_list = []
+    directed_list = []
     for i in range(len(gtfs_folder_list)):
         print('Start converting Agency_{}...'.format(i + 1))
         print('Directory : ' + str(gtfs_folder_list[i]))
@@ -631,8 +881,11 @@ def gtfs2gmns(input_path, output_path):
         """ step 1. reading data """
         stop_df, route_df, trip_df, trip_route_df, stop_time_df, directed_trip_route_stop_time_df = \
             reading_data(agency_gtfs_path)
-        #  directed_trip_route_stop_time_df.to_csv(gtfs_folder_list[i] + '/timetable.csv', index=False)
-        #  directed_trip_route_stop_time_df = pd.read_csv(gtfs_folder_list[i] + '/timetable.csv')
+        stop_list.append(stop_df)
+        route_list.append(route_df)
+        trip_route_list.append(trip_route_df)
+        stop_time_list.append(stop_time_df)
+        directed_list.append(directed_trip_route_stop_time_df)
 
         """step 2. create nodes"""
         agency_num = i + 1
@@ -641,8 +894,9 @@ def gtfs2gmns(input_path, output_path):
         all_node_list.append(node_df)
         print("node.csv of", str(gtfs_folder_list[i]), "has been generated...")
         """step 3. create links"""
-        all_link_list \
-            = create_service_boarding_links(directed_trip_route_stop_time_df, node_df, agency_num, all_link_list)
+        all_link_list = create_service_boarding_links(
+            directed_trip_route_stop_time_df, node_df, agency_num, all_link_list,
+            max_boarding_wait_minutes=max_boarding_wait_minutes)
 
         if i == len(gtfs_folder_list):
             print('output')
@@ -651,8 +905,13 @@ def gtfs2gmns(input_path, output_path):
     all_node_df = pd.concat(all_node_list)
     all_node_df.reset_index(inplace=True)
     all_node_df = all_node_df.drop(['index'], axis=1)
-    # transferring links
-    all_link_list = create_transferring_links(all_node_df, all_link_list)
+    # transferring links (optional)
+    if generate_transferring_links:
+        all_link_list = create_transferring_links(
+            all_node_df, all_link_list,
+            transfer_bbox_deg=transfer_bbox_deg, transfer_min_m=transfer_min_m, transfer_max_m=transfer_max_m)
+    else:
+        print('Skipping transferring links (generate_transferring_links=False).')
 
     all_link_df = pd.DataFrame(all_link_list)
     all_link_df.rename(columns={0: 'link_id',
@@ -668,13 +927,13 @@ def gtfs2gmns(input_path, output_path):
                                 10: 'capacity',
                                 11: 'free_speed',
                                 12: 'cost',
-                                13: 'VDF_fftt1',
-                                14: 'VDF_cap1',
-                                15: 'VDF_alpha1',
-                                16: 'VDF_beta1',
-                                17: 'VDF_penalty1',
+                                13: 'VDF_fftt',
+                                14: 'VDF_cap',
+                                15: 'VDF_alpha',
+                                16: 'VDF_beta',
+                                17: 'VDF_penalty',
                                 18: 'geometry',
-                                19: 'VDF_allowed_uses1',
+                                19: 'VDF_allowed_uses',
                                 20: 'agency_name',
                                 21: 'stop_sequence',
                                 22: 'directed_service_id'}, inplace=True)
@@ -687,16 +946,55 @@ def gtfs2gmns(input_path, output_path):
         subset=['from_node_id', 'to_node_id'],
         keep='last').reset_index(drop=True)
     all_link_df.to_csv(output_path + '/' + 'link.csv', index=False)
+
+    # statistic.csv: GTFS→GMNS conversion QA summary (teachable checklist)
+    all_stop_df = pd.concat(stop_list, ignore_index=True).drop_duplicates(subset=['stop_id']).reset_index(drop=True)
+    all_route_df = pd.concat(route_list, ignore_index=True)
+    all_trip_route_df = pd.concat(trip_route_list, ignore_index=True)
+    all_stop_time_df = pd.concat(stop_time_list, ignore_index=True)
+    all_directed_df = pd.concat(directed_list, ignore_index=True) if directed_list else pd.DataFrame()
+    first_gtfs_path = gtfs_folder_list[0] if gtfs_folder_list else None
+    stat_df = _build_gtfs_gmns_statistics(
+        num_agencies=len(gtfs_folder_list),
+        all_stop_df=all_stop_df,
+        all_route_df=all_route_df,
+        all_trip_route_df=all_trip_route_df,
+        all_stop_time_df=all_stop_time_df,
+        all_directed_df=all_directed_df,
+        all_node_df=all_node_df,
+        all_link_df=all_link_df,
+        period_start_min=period_start_time,
+        period_end_min=period_end_time,
+        generate_transferring_links=generate_transferring_links,
+        first_gtfs_path=first_gtfs_path,
+        transfer_bbox_deg=transfer_bbox_deg, transfer_min_m=transfer_min_m, transfer_max_m=transfer_max_m,
+    )
+    stat_df.to_csv(output_path + '/' + 'statistic.csv', index=False)
     print('run time -->', time.time() - start_time)
 
 
 if __name__ == '__main__':
     global period_start_time
     global period_end_time
-    input_path = './GTFS/SF'
-    output_path = './GMNS/SF'
-    time_period_id = 1
+    input_path = './GTFS/Tokyo'
+    output_path = './GMNS/Tokyo'
     time_period = '0700_0800'
     period_start_time, period_end_time = _hhmm_to_minutes(time_period)
 
-    gtfs2gmns(input_path, output_path)
+   
+    max_boarding_wait_minutes = 10   # cap for boarding link waiting time (minutes)
+    generate_transferring_links = True   # True or False: whether to create transferring_links 
+    
+    transfer_bbox_deg = 0.003        # max lat/lon window (deg) for candidate transfer pairs
+    transfer_min_m = 1.0             # min haversine distance (m) for a transfer link
+    transfer_max_m = 321.869         # max haversine distance (m) for a transfer link
+    # ---------------------------------
+
+    gtfs2gmns(
+        input_path, output_path,
+        max_boarding_wait_minutes=max_boarding_wait_minutes,
+        generate_transferring_links=generate_transferring_links,
+        transfer_bbox_deg=transfer_bbox_deg,
+        transfer_min_m=transfer_min_m,
+        transfer_max_m=transfer_max_m,
+    )
