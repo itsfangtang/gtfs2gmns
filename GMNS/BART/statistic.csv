@@ -1,0 +1,53 @@
+section,statistic,value
+1_GTFS_inventory,Number of agencies in the feed,1
+,Number of routes,14
+,Number of trips,2620
+,Number of stops,186
+,Number of stop time records,38273
+,Share of trips that have a shape (percent),100.0
+,Number of shape records,30848
+,Number of service IDs in calendar,9
+2_temporal_service_window,Start of conversion time window (minutes from midnight),420
+,End of conversion time window (minutes from midnight),480
+,Length of time window in minutes,60
+,Length of time window in hours,1.0
+,Earliest trip departure in window (minutes from midnight),420
+,Latest trip arrival in window (minutes from midnight),572
+,Number of trips that fall within the time window,124
+3_frequency_structure,Median number of trips per directed route in window,8.5
+,Median number of stops per route,21.5
+,Median trip runtime in minutes,74.0
+,Median headway in minutes,7.083333333333334
+,10th percentile headway in minutes,3.2
+,90th percentile headway in minutes,9.86
+4_spatial,Share of stops with valid latitude and longitude (percent),100.0
+,Number of stops missing valid coordinates,0
+,Bounding box minimum latitude,37.368473
+,Bounding box maximum latitude,38.01895
+,Bounding box minimum longitude,-122.468994
+,Bounding box maximum longitude,-121.780346
+,"Total vehicle distance in window, stop to stop (meters)",6251867.43
+,"Total vehicle distance in window, stop to stop (kilometers)",6251.87
+5_GMNS_mapping,Total number of nodes in GMNS network,430
+,Number of physical stop nodes,50
+,Number of service nodes,380
+,Average service nodes per physical stop,7.6
+,Number of nodes (type: metro_service_node),380
+,Number of nodes (type: metro_station),50
+,Total number of links in GMNS network,1122
+,Number of links (type: boarding_links),380
+,Number of links (type: deboarding_links),380
+,Number of links (type: service_links),362
+,Number of directed routes represented in GMNS,12
+,Number of directed routes in GTFS feed,13
+6_transfer_logic,Whether transferring links were generated,True
+,Spatial search window for transfer pairs (degrees),0.003
+,Minimum distance for a transfer link (meters),1.0
+,Maximum distance for a transfer link (meters),321.869
+7_error_checks,Number of trips that have no stop times,0
+,Number of stop time records with missing or empty stop ID,0
+,Number of stops missing valid latitude or longitude,0
+,Number of duplicated trip and stop sequence pairs,0
+,Number of trips without a shape (when shapes file exists),0
+,Number of trips with backward or decreasing arrival times,1594
+,Number of consecutive stop pairs with zero or near zero distance,13
