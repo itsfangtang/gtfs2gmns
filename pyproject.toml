@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gtfs2gmns"
-version = "0.0.1"
+version = "0.8.0"
 description = "Convert GTFS transit data to GMNS (General Modeling Network Specification) network files."
 readme = "README.md"
 license = "MIT"
