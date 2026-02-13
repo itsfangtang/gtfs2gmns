@@ -1,0 +1,10 @@
+{
+  "input_path": "./GTFS/BART",
+  "output_path": "./GMNS/BART",
+  "time_period": "0700_0800",
+  "max_boarding_wait_minutes": 10,
+  "generate_transferring_links": true,
+  "transfer_bbox_deg": 0.003,
+  "transfer_min_m": 1.0,
+  "transfer_max_m": 321.869
+}

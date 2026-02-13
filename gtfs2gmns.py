@@ -10,7 +10,7 @@ pd.set_option('display.max_columns', 100)
 pd.set_option('display.max_rows', 100)
 
 
-def reading_data(gtfs_path):
+def reading_data(gtfs_path, period_start_time, period_end_time):
     print('start reading input GTFS files...')
     agency_df = _reading_text(gtfs_path + os.sep + 'agency')
     agency_name = agency_df['agency_name'][0]
@@ -210,7 +210,7 @@ def create_nodes(directed_trip_route_stop_time_df, agency_num):
 
 
 def create_service_boarding_links(directed_trip_route_stop_time_df, node_df, agency_num, one_agency_link_list,
-                                   max_boarding_wait_minutes=10):
+                                   period_start_time, period_end_time, max_boarding_wait_minutes=10):
     """dictionaries"""
     node_id_dict = dict(zip(node_df['name'], node_df['node_id']))
     directed_service_dict = dict(zip(node_df['node_id'], node_df['name']))
@@ -854,8 +854,10 @@ def _hhmm_to_minutes(time_period_1):
 """ ------------------main functions------------------ """
 
 
-def gtfs2gmns(input_path, output_path, max_boarding_wait_minutes=10, generate_transferring_links=True,
-              transfer_bbox_deg=0.003, transfer_min_m=1.0, transfer_max_m=321.869):
+def gtfs2gmns(input_path, output_path, time_period='0700_0800', max_boarding_wait_minutes=10,
+              generate_transferring_links=True, transfer_bbox_deg=0.003, transfer_min_m=1.0, transfer_max_m=321.869):
+    """Convert GTFS data to GMNS network files. All parameters can be set by the user (script or config)."""
+    period_start_time, period_end_time = _hhmm_to_minutes(time_period)
     start_time = time.time()
     folders = [folder for folder in os.listdir(input_path) if "check" not in folder]
     gtfs_folder_list = []
@@ -880,7 +882,7 @@ def gtfs2gmns(input_path, output_path, max_boarding_wait_minutes=10, generate_tr
         agency_gtfs_path = gtfs_folder_list[i]
         """ step 1. reading data """
         stop_df, route_df, trip_df, trip_route_df, stop_time_df, directed_trip_route_stop_time_df = \
-            reading_data(agency_gtfs_path)
+            reading_data(agency_gtfs_path, period_start_time, period_end_time)
         stop_list.append(stop_df)
         route_list.append(route_df)
         trip_route_list.append(trip_route_df)
@@ -896,7 +898,7 @@ def gtfs2gmns(input_path, output_path, max_boarding_wait_minutes=10, generate_tr
         """step 3. create links"""
         all_link_list = create_service_boarding_links(
             directed_trip_route_stop_time_df, node_df, agency_num, all_link_list,
-            max_boarding_wait_minutes=max_boarding_wait_minutes)
+            period_start_time, period_end_time, max_boarding_wait_minutes=max_boarding_wait_minutes)
 
         if i == len(gtfs_folder_list):
             print('output')
@@ -973,28 +975,85 @@ def gtfs2gmns(input_path, output_path, max_boarding_wait_minutes=10, generate_tr
     print('run time -->', time.time() - start_time)
 
 
-if __name__ == '__main__':
-    global period_start_time
-    global period_end_time
-    input_path = './GTFS/Tokyo'
-    output_path = './GMNS/Tokyo'
-    time_period = '0700_0800'
-    period_start_time, period_end_time = _hhmm_to_minutes(time_period)
+def _load_config(path):
+    """Load options from a JSON config file. Returns a dict; keys match gtfs2gmns() and CLI."""
+    import json
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
-   
-    max_boarding_wait_minutes = 10   # cap for boarding link waiting time (minutes)
-    generate_transferring_links = True   # True or False: whether to create transferring_links 
-    
-    transfer_bbox_deg = 0.003        # max lat/lon window (deg) for candidate transfer pairs
-    transfer_min_m = 1.0             # min haversine distance (m) for a transfer link
-    transfer_max_m = 321.869         # max haversine distance (m) for a transfer link
-    # ---------------------------------
+
+def main():
+    """Entry point for the gtfs2gmns CLI (and for python -m gtfs2gmns)."""
+    import argparse
+    parser = argparse.ArgumentParser(
+        description='Convert GTFS transit data to GMNS network files. '
+                    'Use --config to load options from a JSON file (user-customizable).'
+    )
+    parser.add_argument('input_path', nargs='?', default=None, help='Path to GTFS folder(s)')
+    parser.add_argument('output_path', nargs='?', default=None, help='Path to output GMNS folder')
+    parser.add_argument('--config', '-c', metavar='FILE', help='Load options from JSON config file (overridden by CLI args)')
+    parser.add_argument('--time-period', default=None, help='Time window as HHMM_HHMM (e.g. 0700_0800)')
+    parser.add_argument('--max-boarding-wait', type=float, default=None, help='Max boarding wait in minutes')
+    parser.add_argument('--no-transfer-links', action='store_true', help='Do not generate transferring links')
+    parser.add_argument('--transfer-bbox-deg', type=float, default=None, help='Transfer search window (degrees)')
+    parser.add_argument('--transfer-min-m', type=float, default=None, help='Min transfer distance (m)')
+    parser.add_argument('--transfer-max-m', type=float, default=None, help='Max transfer distance (m)')
+    args = parser.parse_args()
+
+    # Defaults (used when neither config nor CLI provides a value)
+    defaults = {
+        'input_path': './GTFS/BART',
+        'output_path': './GMNS/BART',
+        'time_period': '0700_0800',
+        'max_boarding_wait_minutes': 10,
+        'generate_transferring_links': True,
+        'transfer_bbox_deg': 0.003,
+        'transfer_min_m': 1.0,
+        'transfer_max_m': 321.869,
+    }
+
+    if getattr(args, 'config', None):
+        cfg = _load_config(args.config)
+        # Map config keys to our names (allow both snake_case and with units)
+        key_map = {
+            'input_path': 'input_path', 'output_path': 'output_path',
+            'time_period': 'time_period', 'max_boarding_wait_minutes': 'max_boarding_wait_minutes',
+            'generate_transferring_links': 'generate_transferring_links',
+            'transfer_bbox_deg': 'transfer_bbox_deg', 'transfer_min_m': 'transfer_min_m',
+            'transfer_max_m': 'transfer_max_m',
+        }
+        for k, v in cfg.items():
+            if k in key_map and v is not None:
+                defaults[key_map[k]] = v
+    # CLI overrides
+    if args.input_path is not None:
+        defaults['input_path'] = args.input_path
+    if args.output_path is not None:
+        defaults['output_path'] = args.output_path
+    if args.time_period is not None:
+        defaults['time_period'] = args.time_period
+    if args.max_boarding_wait is not None:
+        defaults['max_boarding_wait_minutes'] = args.max_boarding_wait
+    if args.no_transfer_links:
+        defaults['generate_transferring_links'] = False
+    if args.transfer_bbox_deg is not None:
+        defaults['transfer_bbox_deg'] = args.transfer_bbox_deg
+    if args.transfer_min_m is not None:
+        defaults['transfer_min_m'] = args.transfer_min_m
+    if args.transfer_max_m is not None:
+        defaults['transfer_max_m'] = args.transfer_max_m
 
     gtfs2gmns(
-        input_path, output_path,
-        max_boarding_wait_minutes=max_boarding_wait_minutes,
-        generate_transferring_links=generate_transferring_links,
-        transfer_bbox_deg=transfer_bbox_deg,
-        transfer_min_m=transfer_min_m,
-        transfer_max_m=transfer_max_m,
+        defaults['input_path'],
+        defaults['output_path'],
+        time_period=defaults['time_period'],
+        max_boarding_wait_minutes=defaults['max_boarding_wait_minutes'],
+        generate_transferring_links=defaults['generate_transferring_links'],
+        transfer_bbox_deg=defaults['transfer_bbox_deg'],
+        transfer_min_m=defaults['transfer_min_m'],
+        transfer_max_m=defaults['transfer_max_m'],
     )
+
+
+if __name__ == '__main__':
+    main()
