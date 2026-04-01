@@ -35,6 +35,11 @@ dev = [
   "build",
   "twine",
 ]
+# For `streamlit run gtfs2gmns_dashboard.py`: pip install ".[dashboard]"
+dashboard = [
+  "streamlit>=1.28",
+  "plotly>=5.18",
+]
 
 [project.scripts]
 gtfs2gmns = "gtfs2gmns:main"
