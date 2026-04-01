@@ -8,7 +8,8 @@ version = "0.8.0"
 description = "Convert GTFS transit data to GMNS (General Modeling Network Specification) network files."
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.8"
+# 3.10+ matches Streamlit 1.51+ and avoids Poetry solving streamlit for 3.8/3.9 (impossible).
+requires-python = ">=3.10"
 authors = [
   { name = "gtfs2gmns contributors" }
 ]
@@ -18,8 +19,6 @@ classifiers = [
   "Intended Audience :: Developers",
   "Intended Audience :: Science/Research",
   "Programming Language :: Python :: 3",
-  "Programming Language :: Python :: 3.8",
-  "Programming Language :: Python :: 3.9",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
@@ -28,12 +27,19 @@ classifiers = [
 dependencies = [
   "numpy",
   "pandas",
+  # In main deps so hosts (e.g. Streamlit Cloud) that run `poetry install` without extras still get charts.
+  "plotly>=5.18",
 ]
 
 [project.optional-dependencies]
 dev = [
   "build",
   "twine",
+]
+# For `streamlit run gtfs2gmns_dashboard.py`: pip install ".[dashboard]" (plotly is already a core dep).
+# streamlit>=1.51 requires Python >=3.10 (aligned with requires-python above).
+dashboard = [
+  "streamlit>=1.51,<2",
 ]
 
 [project.scripts]
