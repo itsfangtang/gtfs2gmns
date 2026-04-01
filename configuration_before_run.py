@@ -9,11 +9,11 @@ import gtfs2gmns
 INPUT_PATH = "./GTFS/BART"
 OUTPUT_PATH = "./GMNS/BART"
 TIME_PERIOD = "0700_0800"  # HHMM_HHMM, e.g. 0700_0800 for 7:00–8:00
-MAX_BOARDING_WAIT_MINUTES = 10
-GENERATE_TRANSFERRING_LINKS = True
-TRANSFER_BBOX_DEG = 0.003
-TRANSFER_MIN_M = 1.0
-TRANSFER_MAX_M = 321.869
+MAX_BOARDING_WAIT_MINUTES = 10 # cap for boarding link waiting time (minutes)
+GENERATE_TRANSFERRING_LINKS = True # True or False: whether to create transferring_links 
+TRANSFER_BBOX_DEG = 0.003  # max lat/lon window (deg) for candidate transfer pairs
+TRANSFER_MIN_M = 1.0 # min haversine distance (meter) for a transfer link
+TRANSFER_MAX_M = 321.869 # max haversine distance (meter) for a transfer link
 # -----------------------------------------------------
 
 if __name__ == "__main__":
