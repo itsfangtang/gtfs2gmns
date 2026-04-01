@@ -12,6 +12,7 @@ venv/
 .env
 
 
-# Ignore all dotfiles/dotdirs except .github/
+# Ignore all dotfiles/dotdirs except .github/ and .gitignore
 .*
 !.github/
+!.gitignore
