@@ -27,6 +27,8 @@ classifiers = [
 dependencies = [
   "numpy",
   "pandas",
+  # In main deps so hosts (e.g. Streamlit Cloud) that run `poetry install` without extras still get charts.
+  "plotly>=5.18",
 ]
 
 [project.optional-dependencies]
@@ -34,11 +36,10 @@ dev = [
   "build",
   "twine",
 ]
-# For `streamlit run gtfs2gmns_dashboard.py`: pip install ".[dashboard]"
+# For `streamlit run gtfs2gmns_dashboard.py`: pip install ".[dashboard]" (plotly is already a core dep).
 # streamlit>=1.51 requires Python >=3.10 (aligned with requires-python above).
 dashboard = [
   "streamlit>=1.51,<2",
-  "plotly>=5.18",
 ]
 
 [project.scripts]
